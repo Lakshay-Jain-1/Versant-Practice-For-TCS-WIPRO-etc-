@@ -1,0 +1,591 @@
+[
+  {
+    "text": "The meeting was ___ until Friday because the client was traveling.",
+    "answer": "postponed"
+  },
+  {
+    "text": "Please ___ your phone during the training session.",
+    "answer": "silent"
+  },
+  {
+    "text": "She has been ___ to team leader after two years.",
+    "answer": "promoted"
+  },
+  {
+    "text": "If you have questions, ___ the human resources team.",
+    "answer": "contact"
+  },
+  {
+    "text": "The parcel arrived ___, so the customer asked for a refund.",
+    "answer": "damaged"
+  },
+  {
+    "text": "All students must submit ___ assignments before the deadline.",
+    "answer": "their"
+  },
+  {
+    "text": "We ran ___ of printer paper during the workshop.",
+    "answer": "out"
+  },
+  {
+    "text": "He was late ___ the metro stopped between stations.",
+    "answer": "because",
+    "acceptedAnswers": [
+      "as",
+      "since"
+    ]
+  },
+  {
+    "text": "The library remains open ___ eight this evening.",
+    "answer": "until",
+    "acceptedAnswers": [
+      "till"
+    ]
+  },
+  {
+    "text": "Could you ___ me the updated report by noon?",
+    "answer": "send"
+  },
+  {
+    "text": "Neither the manager ___ the trainer could attend on Monday.",
+    "answer": "nor"
+  },
+  {
+    "text": "The report ___ by the intern before the client call.",
+    "answer": "was finished"
+  },
+  {
+    "text": "Please lock the door when you ___ the office.",
+    "answer": "leave",
+    "acceptedAnswers": [
+      "exit"
+    ]
+  },
+  {
+    "text": "She is responsible ___ training the new employees.",
+    "answer": "for"
+  },
+  {
+    "text": "We look forward ___ hearing from you.",
+    "answer": "to"
+  },
+  {
+    "text": "The number of complaints ___ increased this month.",
+    "answer": "has",
+    "acceptedAnswers": [
+      "had"
+    ]
+  },
+  {
+    "text": "He suggested ___ the meeting to Thursday.",
+    "answer": "moving"
+  },
+  {
+    "text": "You had better ___ the form before noon.",
+    "answer": "submit"
+  },
+  {
+    "text": "The software update ___ users from opening their email.",
+    "answer": "prevented",
+    "acceptedAnswers": [
+      "prevents",
+      "stopped",
+      "stops"
+    ]
+  },
+  {
+    "text": "___ it was raining, the outdoor event continued.",
+    "answer": "Although",
+    "acceptedAnswers": [
+      "though",
+      "even though"
+    ]
+  },
+  {
+    "text": "Each of the candidates ___ a photo ID.",
+    "answer": "needs"
+  },
+  {
+    "text": "The notes are available ___ the college website.",
+    "answer": "on"
+  },
+  {
+    "text": "I would be grateful if you ___ reply today.",
+    "answer": "could",
+    "acceptedAnswers": [
+      "would",
+      "can"
+    ]
+  },
+  {
+    "text": "The team worked overnight ___ finish the presentation.",
+    "answer": "to",
+    "acceptedAnswers": [
+      "in order to",
+      "so as to"
+    ]
+  },
+  {
+    "text": "We have nearly run out; there is very ___ milk left in the office kitchen.",
+    "answer": "little"
+  },
+  {
+    "text": "She asked me ___ I had received the invoice.",
+    "answer": "whether",
+    "acceptedAnswers": [
+      "if"
+    ]
+  },
+  {
+    "text": "The bus leaves ___ twenty minutes.",
+    "answer": "every"
+  },
+  {
+    "text": "He apologized ___ missing the morning meeting.",
+    "answer": "for"
+  },
+  {
+    "text": "The results will be shared ___ all departments.",
+    "answer": "with",
+    "acceptedAnswers": [
+      "among",
+      "across"
+    ]
+  },
+  {
+    "text": "We have not heard from the supplier ___ last Monday.",
+    "answer": "since"
+  },
+  {
+    "text": "The new intern sits ___ the design team.",
+    "answer": "with",
+    "acceptedAnswers": [
+      "by",
+      "near",
+      "beside",
+      "alongside",
+      "among"
+    ]
+  },
+  {
+    "text": "Please make ___ all the lights are off.",
+    "answer": "sure",
+    "acceptedAnswers": [
+      "certain"
+    ]
+  },
+  {
+    "text": "A technician will come ___ repair the printer.",
+    "answer": "to",
+    "acceptedAnswers": [
+      "and"
+    ]
+  },
+  {
+    "text": "You cannot borrow more books until the fine is paid. Pay it ___ you borrow again.",
+    "answer": "before"
+  },
+  {
+    "text": "They hired three interns ___ the project needed more help.",
+    "answer": "because",
+    "acceptedAnswers": [
+      "as",
+      "since"
+    ]
+  },
+  {
+    "text": "The cafe ___ a discount to students.",
+    "answer": "offers",
+    "acceptedAnswers": [
+      "gives",
+      "provides"
+    ]
+  },
+  {
+    "text": "I left my charger at home, ___ I cannot join the video call.",
+    "answer": "so",
+    "acceptedAnswers": [
+      "therefore"
+    ]
+  },
+  {
+    "text": "The speech was ___ by a short question session.",
+    "answer": "followed"
+  },
+  {
+    "text": "You need a valid ID ___ you arrive at the center.",
+    "answer": "when",
+    "acceptedAnswers": [
+      "whenever",
+      "once"
+    ]
+  },
+  {
+    "text": "The committee has ___ a decision yet.",
+    "answer": "not made",
+    "acceptedAnswers": [
+      "not taken",
+      "not reached"
+    ]
+  },
+  {
+    "id": "blank-fresh-41",
+    "source": "Please save your work before you leave.",
+    "text": "Please save your work ___ you leave.",
+    "answer": "before"
+  },
+  {
+    "id": "blank-fresh-42",
+    "source": "Can you call me after lunch?",
+    "text": "Can you call me ___ lunch?",
+    "answer": "after"
+  },
+  {
+    "id": "blank-fresh-43",
+    "source": "Our flight was delayed because of the heavy rain.",
+    "text": "Our flight was delayed ___ of the heavy rain.",
+    "answer": "because"
+  },
+  {
+    "id": "blank-fresh-44",
+    "source": "The library is closed on Sundays.",
+    "text": "The library ___ closed on Sundays.",
+    "answer": "is"
+  },
+  {
+    "id": "blank-fresh-45",
+    "source": "The exam results are online now.",
+    "text": "The exam results ___ online now.",
+    "answer": "are"
+  },
+  {
+    "id": "blank-fresh-46",
+    "source": "The bus was late this morning.",
+    "text": "The bus ___ late this morning.",
+    "answer": "was"
+  },
+  {
+    "id": "blank-fresh-47",
+    "source": "The professor explained the topic again for the students who were absent.",
+    "text": "The professor explained the topic again for the students who ___ absent.",
+    "answer": "were"
+  },
+  {
+    "id": "blank-fresh-48",
+    "source": "The invoice has already been paid.",
+    "text": "The invoice ___ already been paid.",
+    "answer": "has"
+  },
+  {
+    "id": "blank-fresh-49",
+    "source": "We have a guest speaker on Friday.",
+    "text": "We ___ a guest speaker on Friday.",
+    "answer": "have"
+  },
+  {
+    "id": "blank-fresh-50",
+    "source": "Please bring your identity card tomorrow.",
+    "text": "Please bring ___ identity card tomorrow.",
+    "answer": "your"
+  },
+  {
+    "id": "blank-fresh-51",
+    "source": "Our manager will join the call later.",
+    "text": "___ manager will join the call later.",
+    "answer": "our"
+  },
+  {
+    "id": "blank-fresh-52",
+    "source": "The new employees will receive their laptops on Monday morning.",
+    "text": "The new employees will receive ___ laptops on Monday morning.",
+    "answer": "their"
+  },
+  {
+    "id": "blank-fresh-53",
+    "source": "The students who finish the quiz early may leave the hall without waiting.",
+    "text": "The students who finish the quiz early may leave the hall ___ waiting.",
+    "answer": "without"
+  },
+  {
+    "id": "blank-fresh-54",
+    "source": "She submitted her form before noon.",
+    "text": "She submitted her form ___ noon.",
+    "answer": "before"
+  },
+  {
+    "id": "blank-fresh-55",
+    "source": "She will call you after the interview.",
+    "text": "She will call you ___ the interview.",
+    "answer": "after"
+  },
+  {
+    "id": "blank-fresh-56",
+    "source": "The customer asked for a refund because the product was damaged.",
+    "text": "The customer asked for a refund ___ the product was damaged.",
+    "answer": "because"
+  },
+  {
+    "id": "blank-fresh-57",
+    "source": "The printer on this floor is broken.",
+    "text": "The printer on this floor ___ broken.",
+    "answer": "is"
+  },
+  {
+    "id": "blank-fresh-58",
+    "source": "The files are saved in the shared folder.",
+    "text": "The files ___ saved in the shared folder.",
+    "answer": "are"
+  },
+  {
+    "id": "blank-fresh-59",
+    "source": "I could not join the call because my microphone was not working.",
+    "text": "I could not join the call because my microphone ___ not working.",
+    "answer": "was"
+  },
+  {
+    "id": "blank-fresh-60",
+    "source": "Could you share the meeting link with the people who were absent?",
+    "text": "Could you share the meeting link with the people who ___ absent?",
+    "answer": "were"
+  },
+  {
+    "id": "blank-fresh-61",
+    "source": "The whiteboard marker has dried out.",
+    "text": "The whiteboard marker ___ dried out.",
+    "answer": "has"
+  },
+  {
+    "id": "blank-fresh-62",
+    "source": "I have a doctor's appointment at noon.",
+    "text": "I ___ a doctor's appointment at noon.",
+    "answer": "have"
+  },
+  {
+    "id": "blank-fresh-63",
+    "source": "Please mute your microphone on the call.",
+    "text": "Please mute ___ microphone on the call.",
+    "answer": "your"
+  },
+  {
+    "id": "blank-fresh-64",
+    "source": "The client liked our new design.",
+    "text": "The client liked ___ new design.",
+    "answer": "our"
+  },
+  {
+    "id": "blank-fresh-65",
+    "source": "Students must show their identity cards at the library entrance.",
+    "text": "Students must show ___ identity cards at the library entrance.",
+    "answer": "their"
+  },
+  {
+    "id": "blank-fresh-66",
+    "source": "We should leave before the rain starts.",
+    "text": "We should leave ___ the rain starts.",
+    "answer": "before"
+  },
+  {
+    "id": "blank-fresh-67",
+    "source": "The backup finished just after midnight.",
+    "text": "The backup finished just ___ midnight.",
+    "answer": "after"
+  },
+  {
+    "id": "blank-fresh-68",
+    "source": "He called the help desk because he could not log in.",
+    "text": "He called the help desk ___ he could not log in.",
+    "answer": "because"
+  },
+  {
+    "id": "blank-fresh-69",
+    "source": "The parking lot is full today.",
+    "text": "The parking lot ___ full today.",
+    "answer": "is"
+  },
+  {
+    "id": "blank-fresh-70",
+    "source": "The students are waiting in the lab.",
+    "text": "The students ___ waiting in the lab.",
+    "answer": "are"
+  },
+  {
+    "id": "blank-fresh-71",
+    "source": "He was late because the metro stopped for ten minutes.",
+    "text": "He ___ late because the metro stopped for ten minutes.",
+    "answer": "was"
+  },
+  {
+    "id": "blank-fresh-72",
+    "source": "The students were asked to form small groups and prepare a short presentation.",
+    "text": "The students ___ asked to form small groups and prepare a short presentation.",
+    "answer": "were"
+  },
+  {
+    "id": "blank-fresh-73",
+    "source": "The meeting has been moved to the large conference room.",
+    "text": "The meeting ___ been moved to the large conference room.",
+    "answer": "has"
+  },
+  {
+    "id": "blank-fresh-74",
+    "source": "I have attached the report and the updated budget for review.",
+    "text": "I ___ attached the report and the updated budget for review.",
+    "answer": "have"
+  },
+  {
+    "id": "blank-fresh-75",
+    "source": "Please confirm your seat by Friday.",
+    "text": "Please confirm ___ seat by Friday.",
+    "answer": "your"
+  },
+  {
+    "id": "blank-fresh-76",
+    "source": "Our class starts in ten minutes.",
+    "text": "___ class starts in ten minutes.",
+    "answer": "our"
+  },
+  {
+    "id": "blank-fresh-77",
+    "source": "New students can collect their welcome kit from room twelve.",
+    "text": "New students can collect ___ welcome kit from room twelve.",
+    "answer": "their"
+  },
+  {
+    "id": "blank-fresh-78",
+    "source": "Please water the plants before leaving.",
+    "text": "Please water the plants ___ leaving.",
+    "answer": "before"
+  },
+  {
+    "id": "blank-fresh-79",
+    "source": "The scanner stopped working after lunch.",
+    "text": "The scanner stopped working ___ lunch.",
+    "answer": "after"
+  },
+  {
+    "id": "blank-fresh-80",
+    "source": "She applied for leave because her sister is getting married.",
+    "text": "She applied for leave ___ her sister is getting married.",
+    "answer": "because"
+  },
+  {
+    "id": "blank-fresh-81",
+    "source": "She is presenting the plan this afternoon.",
+    "text": "She ___ presenting the plan this afternoon.",
+    "answer": "is"
+  },
+  {
+    "id": "blank-fresh-82",
+    "source": "The keys are on the front desk.",
+    "text": "The keys ___ on the front desk.",
+    "answer": "are"
+  },
+  {
+    "id": "blank-fresh-83",
+    "source": "The outdoor match was cancelled because the ground was too wet.",
+    "text": "The outdoor match ___ cancelled because the ground was too wet.",
+    "answer": "was"
+  },
+  {
+    "id": "blank-fresh-84",
+    "source": "After the system update, some users were unable to access their email accounts.",
+    "text": "After the system update, some users ___ unable to access their email accounts.",
+    "answer": "were"
+  },
+  {
+    "id": "blank-fresh-85",
+    "source": "The project deadline has been extended by one more week.",
+    "text": "The project deadline ___ been extended by one more week.",
+    "answer": "has"
+  },
+  {
+    "id": "blank-fresh-86",
+    "source": "If you have any questions about the new schedule, please contact the human resources team.",
+    "text": "If you ___ any questions about the new schedule, please contact the human resources team.",
+    "answer": "have"
+  },
+  {
+    "id": "blank-fresh-87",
+    "source": "I left a message on your desk.",
+    "text": "I left a message on ___ desk.",
+    "answer": "your"
+  },
+  {
+    "id": "blank-fresh-88",
+    "source": "Our team won the design contest.",
+    "text": "___ team won the design contest.",
+    "answer": "our"
+  },
+  {
+    "id": "blank-fresh-89",
+    "source": "Students must show their cards at the library entrance.",
+    "text": "Students must show ___ cards at the library entrance.",
+    "answer": "their"
+  },
+  {
+    "id": "blank-fresh-90",
+    "source": "Please send me the updated report before the end of the day.",
+    "text": "Please send me the updated report ___ the end of the day.",
+    "answer": "before"
+  },
+  {
+    "id": "blank-fresh-91",
+    "source": "She has been promoted to team leader after two years.",
+    "text": "She has been promoted to team leader ___ two years.",
+    "answer": "after"
+  },
+  {
+    "id": "blank-fresh-92",
+    "source": "Rohan called the help desk because the laptop failed.",
+    "text": "Rohan called the help desk ___ the laptop failed.",
+    "answer": "because"
+  },
+  {
+    "id": "blank-fresh-93",
+    "source": "The wifi password is on the notice board.",
+    "text": "The wifi password ___ on the notice board.",
+    "answer": "is"
+  },
+  {
+    "id": "blank-fresh-94",
+    "source": "We are looking for volunteers to help with the event.",
+    "text": "We ___ looking for volunteers to help with the event.",
+    "answer": "are"
+  },
+  {
+    "id": "blank-fresh-95",
+    "source": "Her train was on time, but the taxi was late.",
+    "text": "Her train ___ on time, but the taxi was late.",
+    "answer": "was"
+  },
+  {
+    "id": "blank-fresh-96",
+    "source": "The professor gave the class an extra week because many students were unwell last Monday.",
+    "text": "The professor gave the class an extra week because many students ___ unwell last Monday.",
+    "answer": "were"
+  },
+  {
+    "id": "blank-fresh-97",
+    "source": "The workshop on resume writing has been moved to Thursday.",
+    "text": "The workshop on resume writing ___ been moved to Thursday.",
+    "answer": "has"
+  },
+  {
+    "id": "blank-fresh-98",
+    "source": "Please collect your parcel from security.",
+    "text": "Please collect ___ parcel from security.",
+    "answer": "your"
+  },
+  {
+    "id": "blank-fresh-99",
+    "source": "Our team meets every Monday morning.",
+    "text": "___ team meets every Monday morning.",
+    "answer": "our"
+  },
+  {
+    "id": "blank-fresh-100",
+    "source": "All students must submit their assignments online before the final deadline on Friday.",
+    "text": "All students must submit ___ assignments online before the final deadline on Friday.",
+    "answer": "their"
+  }
+]

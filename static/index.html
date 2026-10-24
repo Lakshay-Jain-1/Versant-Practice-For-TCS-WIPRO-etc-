@@ -1,0 +1,413 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Versant Practice Trainer</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>Versant Practice Trainer</h1>
+      <p class="sub">Independent speaking, listening, reading, and writing practice. Not affiliated with TCS.</p>
+    </div>
+    <div id="helper-status" class="pill pill-muted" title="Win+H helper status">Checking Win+H helper...</div>
+  </header>
+
+  <nav class="tabs" role="tablist">
+    <button class="tab active" data-tab="repeat" role="tab">Repeat Sentences</button>
+    <button class="tab" data-tab="passage" role="tab">Passage Reconstruction</button>
+    <button class="tab" data-tab="email" role="tab">Email Writing</button>
+    <button class="tab" data-tab="read" role="tab">Reading Aloud</button>
+    <button class="tab" data-tab="jumble" role="tab">Jumbled Sentences</button>
+    <button class="tab" data-tab="story" role="tab">Story Retelling</button>
+    <button class="tab" data-tab="blanks" role="tab">Sentence Completion</button>
+    <button class="tab" data-tab="reading" role="tab">Reading Comprehension</button>
+    <button class="tab" data-tab="dictation" role="tab">Dictation</button>
+    <button class="tab" data-tab="response" role="tab">Response Selection</button>
+    <button class="tab" data-tab="listen" role="tab">Passage Comprehension</button>
+    <button class="tab" data-tab="situation" role="tab">Speaking Situations</button>
+    <button class="tab" data-tab="full" role="tab">Full Mock</button>
+    <button class="tab" data-tab="results" role="tab">Past Mock Results</button>
+  </nav>
+
+  <main>
+    <!-- Repeat sentences -->
+    <section id="tab-repeat" class="panel active">
+      <div class="grid">
+        <div class="card main-card">
+          <div class="controls">
+            <label>Level
+              <select id="rs-level">
+                <option value="warmup">Warm-up (6-8 words)</option>
+                <option value="level2" selected>Level 2 (9-12 words)</option>
+                <option value="level3">Level 3 (13-16 words)</option>
+                <option value="level23">Level 2 and 3 (36 sentences, 9-14 words)</option>
+                <option value="mock">Mock test (16 sentences, rising length)</option>
+              </select>
+            </label>
+            <label>Voice
+              <select id="rs-voice"></select>
+            </label>
+            <label>Speed
+              <select id="rs-rate">
+                <option value="0.8">Slow</option>
+                <option value="0.9" selected>Test-like</option>
+                <option value="1">Natural</option>
+                <option value="1.1">Fast</option>
+              </select>
+            </label>
+          </div>
+          <div class="controls toggles">
+            <label class="check"><input type="checkbox" id="rs-auto-winh" checked> Press Win+H when audio ends</label>
+            <label class="check"><input type="checkbox" id="rs-close-winh"> Close voice typing on Check</label>
+            <label class="check"><input type="checkbox" id="rs-auto-next"> Play next sentence automatically</label>
+          </div>
+
+          <div class="progress-row">
+            <span id="rs-progress">Sentence 1 of 24</span>
+            <span id="rs-length" class="muted"></span>
+          </div>
+
+          <div class="stage">
+            <button id="rs-play" class="btn btn-primary btn-big">Play sentence</button>
+            <p id="rs-status" class="status">Press Play. The sentence is spoken once and the text stays hidden.</p>
+          </div>
+
+          <label for="rs-answer" class="field-label">Your repetition (voice typing writes here)</label>
+          <input id="rs-answer" type="text" autocomplete="off" spellcheck="false" placeholder="Speak after the audio ends...">
+
+          <div class="actions">
+            <button id="rs-voice-typing" class="btn">Start voice typing (Win+H)</button>
+            <button id="rs-replay" class="btn">Hear again</button>
+            <button id="rs-check" class="btn btn-primary">Check (Enter)</button>
+            <button id="rs-next" class="btn">Next (Enter)</button>
+          </div>
+
+          <div id="rs-result" class="result hidden"></div>
+          <div id="rs-summary" class="result hidden"></div>
+        </div>
+
+        <aside class="card side-card">
+          <h2>Your progress</h2>
+          <div id="rs-stats" class="stats"></div>
+          <button id="rs-reset" class="btn btn-small">Reset progress</button>
+          <h2>How to score well</h2>
+          <ul class="tips">
+            <li><strong>Keep going if you miss a word.</strong> The whole sentence is scored. Smooth speech with one small word dropped beats a perfect but hesitant repeat.</li>
+            <li><strong>Copy the rhythm.</strong> Match the speaker's pace and intonation. Not faster, not slower.</li>
+            <li><strong>Chunk it.</strong> Hear long sentences as 3-4 word groups: "All students / must submit / their assignments / before the final deadline."</li>
+            <li><strong>Small words count.</strong> Try to keep "a", "the", "to", "for" in place.</li>
+            <li><strong>Start speaking straight away</strong> once the audio stops, before the memory fades.</li>
+          </ul>
+          <h2>Voice typing setup</h2>
+          <ul class="tips">
+            <li>Press <kbd>Win</kbd>+<kbd>H</kbd> once by hand to allow the microphone and set the language to English.</li>
+            <li>Keep this browser window in front when the audio ends, otherwise the helper will not press Win+H.</li>
+            <li>If voice typing does not open, click the answer box and use <em>Start voice typing</em>.</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <!-- Passage reconstruction -->
+    <section id="tab-passage" class="panel">
+      <div class="grid">
+        <div class="card main-card">
+          <div class="controls">
+            <label>Mode
+              <select id="pr-mode">
+                <option value="practice" selected>Practice</option>
+                <option value="mock">Mock test (5)</option>
+              </select>
+            </label>
+            <label id="pr-picker">Passage
+              <select id="pr-select"></select>
+            </label>
+            <button id="pr-random" class="btn">Random passage</button>
+          </div>
+          <div class="progress-row"><span id="pr-progress"></span></div>
+
+          <div class="timer-row">
+            <span id="pr-phase" class="phase">Ready</span>
+            <span id="pr-timer" class="timer">0:30</span>
+          </div>
+          <div class="bar"><div id="pr-bar" class="bar-fill"></div></div>
+
+          <div id="pr-passage" class="passage hidden"></div>
+          <p id="pr-hint" class="status">Press Start. You get 30 seconds to read, then the passage disappears and you have 90 seconds to rewrite it.</p>
+
+          <textarea id="pr-answer" rows="7" spellcheck="false" disabled placeholder="Rewrite the passage in your own words. Keep every detail you remember."></textarea>
+          <div class="meta-row"><span id="pr-count">0 words</span></div>
+
+          <div class="actions">
+            <button id="pr-start" class="btn btn-primary">Start (30s read)</button>
+            <button id="pr-skip" class="btn" disabled>I've read it, start writing</button>
+            <button id="pr-submit" class="btn" disabled>Submit now</button>
+            <button id="pr-next" class="btn hidden">Next passage</button>
+            <button id="pr-spell" class="btn hidden">Show spelling mistakes</button>
+          </div>
+
+          <div id="pr-result" class="result hidden"></div>
+          <div id="pr-summary" class="result hidden"></div>
+        </div>
+
+        <aside class="card side-card">
+          <h2>Your progress</h2>
+          <div id="pr-stats" class="stats"></div>
+          <h2>How to score well</h2>
+          <ul class="tips">
+            <li><strong>Find who, what, where, when and why</strong> while reading. Also note the result at the end.</li>
+            <li><strong>Understand, don't memorize.</strong> Word-for-word memorizing usually fails. Follow the story instead.</li>
+            <li><strong>Keep all the details.</strong> A one-line summary scores low. Names, days, numbers and reasons all count.</li>
+            <li><strong>Keep it simple.</strong> Short, correct sentences beat complex ones with mistakes.</li>
+            <li><strong>Check spelling and full stops</strong> in the last 10 seconds.</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <!-- Email writing -->
+    <section id="tab-email" class="panel">
+      <div class="grid">
+        <div class="card main-card">
+          <div class="controls">
+            <label>Mode
+              <select id="em-mode">
+                <option value="practice" selected>Practice</option>
+                <option value="mock">Mock test (2)</option>
+              </select>
+            </label>
+            <label id="em-picker">Scenario
+              <select id="em-select"></select>
+            </label>
+            <button id="em-random" class="btn">Random scenario</button>
+          </div>
+          <div class="progress-row"><span id="em-progress"></span></div>
+
+          <div id="em-prompt" class="prompt"></div>
+
+          <div class="timer-row">
+            <span id="em-phase" class="phase">Ready</span>
+            <span id="em-timer" class="timer">9:00</span>
+          </div>
+          <div class="bar"><div id="em-bar" class="bar-fill"></div></div>
+
+          <textarea id="em-answer" rows="16" spellcheck="false" disabled placeholder="Dear ...,&#10;&#10;I am writing to ...&#10;&#10;...&#10;&#10;Best regards,&#10;Your name"></textarea>
+          <div class="meta-row"><span id="em-count">0 words</span><span class="muted">Target: at least 100 words</span></div>
+
+          <div class="actions">
+            <button id="em-start" class="btn btn-primary">Start (9 minutes)</button>
+            <button id="em-submit" class="btn" disabled>Submit now</button>
+            <button id="em-next" class="btn hidden">Next email</button>
+            <button id="em-model" class="btn hidden">Show model answer</button>
+          </div>
+
+          <div id="em-result" class="result hidden"></div>
+          <div id="em-summary" class="result hidden"></div>
+          <div id="em-model-box" class="model hidden"></div>
+        </div>
+
+        <aside class="card side-card">
+          <h2>Live checklist</h2>
+          <ul id="em-checklist" class="checklist"></ul>
+          <h2>Useful phrases</h2>
+          <ul class="tips phrases">
+            <li><strong>Open:</strong> I am writing to... / I am writing regarding...</li>
+            <li><strong>Apologize:</strong> I sincerely apologize for... / Please accept my apologies for...</li>
+            <li><strong>Request:</strong> Could you please... / I would be grateful if you could...</li>
+            <li><strong>Propose:</strong> Would it be possible to meet on...? / I am available on...</li>
+            <li><strong>Close:</strong> Please let me know if you need any further information. / Thank you for your understanding.</li>
+            <li><strong>Sign off:</strong> Best regards, / Sincerely, then your name.</li>
+          </ul>
+        </aside>
+      </div>
+    </section>
+
+    <section id="tab-read" class="panel">
+      <div class="card">
+        <div class="timer-row"><span id="ra-progress">Set of 8</span><span id="ra-timer" class="timer">0:15</span></div>
+        <div class="bar"><div id="ra-bar" class="bar-fill"></div></div>
+        <p id="ra-status" class="status">Press Start. Read the sentence aloud within 15 seconds. Voice typing writes what you said.</p>
+        <p id="ra-sentence" class="passage hidden"></p>
+        <input id="ra-answer" type="text" autocomplete="off" spellcheck="false" placeholder="Your reading appears here" readonly>
+        <div class="actions">
+          <button id="ra-start" class="btn btn-primary" type="button">Start set (8)</button>
+          <button id="ra-voice" class="btn" type="button" disabled>Start voice typing (Win+H)</button>
+          <button id="ra-done" class="btn" type="button" disabled>Done</button>
+        </div>
+        <div id="ra-summary" class="result hidden"></div>
+      </div>
+    </section>
+
+    <section id="tab-jumble" class="panel">
+      <div class="card">
+        <div class="timer-row"><span id="ju-progress">Set of 8</span><span id="ju-timer" class="timer">0:15</span></div>
+        <div class="bar"><div id="ju-bar" class="bar-fill"></div></div>
+        <p id="ju-status" class="status">Press Start. Tap the three phrases in the correct order. You have 15 seconds.</p>
+        <div id="ju-bank" class="chips"></div>
+        <p class="field-label">Your sentence</p>
+        <div id="ju-built" class="chips chips-built"></div>
+        <div class="actions">
+          <button id="ju-start" class="btn btn-primary" type="button">Start set (8)</button>
+          <button id="ju-clear" class="btn" type="button" disabled>Clear</button>
+          <button id="ju-done" class="btn" type="button" disabled>Done</button>
+        </div>
+        <div id="ju-summary" class="result hidden"></div>
+      </div>
+    </section>
+
+    <section id="tab-story" class="panel">
+      <div class="card">
+        <div class="timer-row"><span id="st-progress">Set of 3</span><span id="st-timer" class="timer">0:30</span></div>
+        <div class="bar"><div id="st-bar" class="bar-fill"></div></div>
+        <p id="st-status" class="status">Press Start. Listen once, then retell the story in 30 seconds. The original appears in the report.</p>
+        <textarea id="st-answer" rows="5" spellcheck="false" readonly placeholder="Your retelling appears here"></textarea>
+        <div class="actions">
+          <button id="st-start" class="btn btn-primary" type="button">Start set (3)</button>
+          <button id="st-voice" class="btn" type="button" disabled>Start voice typing (Win+H)</button>
+          <button id="st-done" class="btn" type="button" disabled>Done</button>
+        </div>
+        <div id="st-summary" class="result hidden"></div>
+      </div>
+    </section>
+
+    <section id="tab-blanks" class="panel">
+      <div class="card">
+        <div class="timer-row"><span id="bl-progress">Set of 10</span><span id="bl-timer" class="timer">0:25</span></div>
+        <div class="bar"><div id="bl-bar" class="bar-fill"></div></div>
+        <p id="bl-status" class="status">Press Start. Type the missing word or phrase and press Enter to submit. Each item lasts 25 seconds.</p>
+        <p id="bl-sentence" class="passage hidden"></p>
+        <input id="bl-answer" type="text" autocomplete="off" spellcheck="false" placeholder="Type one word or phrase" disabled>
+        <div class="actions">
+          <button id="bl-start" class="btn btn-primary" type="button">Start set (10)</button>
+          <button id="bl-submit" class="btn" type="button" disabled>Submit (Enter)</button>
+        </div>
+        <div id="bl-summary" class="result hidden"></div>
+      </div>
+    </section>
+
+    <section id="tab-reading" class="panel">
+      <div class="card">
+        <div class="timer-row"><span id="rc-progress">One passage, four questions</span><span id="rc-timer" class="timer">6:00</span></div>
+        <div class="bar"><div id="rc-bar" class="bar-fill"></div></div>
+        <p id="rc-status" class="status">Press Start. Read the passage and answer what it states and what it implies. You have 6 minutes.</p>
+        <div id="rc-body"></div>
+        <div class="actions">
+          <button id="rc-start" class="btn btn-primary" type="button">Start passage</button>
+          <button id="rc-done" class="btn" type="button" disabled>Submit</button>
+        </div>
+        <div id="rc-summary" class="result hidden"></div>
+      </div>
+    </section>
+
+    <section id="tab-dictation" class="panel">
+      <div class="card">
+        <div class="timer-row"><span id="dc-progress">Set of 8</span><span id="dc-timer" class="timer">0:25</span></div>
+        <div class="bar"><div id="dc-bar" class="bar-fill"></div></div>
+        <p id="dc-status" class="status">Press Start. You will hear each sentence once. Type it exactly. You have 25 seconds.</p>
+        <input id="dc-answer" type="text" autocomplete="off" spellcheck="false" placeholder="Type the sentence" readonly>
+        <div class="actions">
+          <button id="dc-start" class="btn btn-primary" type="button">Start set (8)</button>
+          <button id="dc-done" class="btn" type="button" disabled>Done</button>
+        </div>
+        <div id="dc-summary" class="result hidden"></div>
+      </div>
+    </section>
+
+    <section id="tab-response" class="panel">
+      <div class="card">
+        <div class="timer-row"><span id="rsp-progress">Set of 8</span><span id="rsp-timer" class="timer">0:08</span></div>
+        <div class="bar"><div id="rsp-bar" class="bar-fill"></div></div>
+        <p id="rsp-status" class="status">Press Start. Listen, then choose the best reply. You have 8 seconds.</p>
+        <p id="rsp-prompt" class="passage hidden"></p>
+        <div id="rsp-options" class="options"></div>
+        <div class="actions">
+          <button id="rsp-start" class="btn btn-primary" type="button">Start set (8)</button>
+        </div>
+        <div id="rsp-summary" class="result hidden"></div>
+      </div>
+    </section>
+
+    <section id="tab-listen" class="panel">
+      <div class="card">
+        <div class="timer-row"><span id="ls-progress">Set of 2</span><span id="ls-timer" class="timer">0:20</span></div>
+        <div class="bar"><div id="ls-bar" class="bar-fill"></div></div>
+        <p id="ls-status" class="status">Press Start. Listen to the story, then answer three questions. You have 20 seconds for each answer.</p>
+        <p id="ls-question" class="passage hidden"></p>
+        <input id="ls-answer" type="text" autocomplete="off" spellcheck="false" placeholder="Type a short answer" readonly>
+        <div class="actions">
+          <button id="ls-start" class="btn btn-primary" type="button">Start set (2)</button>
+          <button id="ls-done" class="btn" type="button" disabled>Done</button>
+        </div>
+        <div id="ls-summary" class="result hidden"></div>
+      </div>
+    </section>
+
+    <section id="tab-situation" class="panel">
+      <div class="card">
+        <div class="timer-row"><span id="si-progress">Set of 2</span><span id="si-timer" class="timer">0:10</span></div>
+        <div class="bar"><div id="si-bar" class="bar-fill"></div></div>
+        <p id="si-status" class="status">Press Start. You have 10 seconds to think, then 60 seconds to speak.</p>
+        <p id="si-prompt" class="passage hidden"></p>
+        <textarea id="si-answer" rows="5" spellcheck="false" readonly placeholder="Your reply appears here"></textarea>
+        <div class="actions">
+          <button id="si-start" class="btn btn-primary" type="button">Start set (2)</button>
+          <button id="si-voice" class="btn" type="button" disabled>Start voice typing (Win+H)</button>
+          <button id="si-done" class="btn" type="button" disabled>Done</button>
+        </div>
+        <div id="si-summary" class="result hidden"></div>
+      </div>
+    </section>
+
+    <section id="tab-full" class="panel">
+      <div class="card">
+        <div id="fm-home">
+          <h2>Full mock</h2>
+          <p>After playback, the Windows helper checks voice typing and resumes its microphone when it can identify the paused control. Your answer box receives focus automatically. You can type answers if voice typing is unavailable.</p>
+          <p>The ten Versant Professional sections, in test order. Each new mock uses questions you have not seen yet.</p>
+          <ol class="tips">
+            <li>Sentence completion: 5 items, 25 seconds, type the word</li>
+            <li>Passage reconstruction: 1 passage, 30 seconds to read and 90 seconds to write</li>
+            <li>Reading comprehension: 1 passage, 2 questions, 3 minutes</li>
+            <li>Email writing: 1 email, 9 minutes</li>
+            <li>Dictation: 4 sentences, 25 seconds</li>
+            <li>Response selection: 4 items, 8 seconds</li>
+            <li>Passage comprehension: 1 spoken story, 3 questions</li>
+            <li>Repeat: 6 sentences</li>
+            <li>Speaking situations: 1 situation, 10 seconds to think and 60 seconds to speak</li>
+            <li>Story retelling: 1 story, 30 seconds</li>
+          </ol>
+          <p class="muted">About 25 minutes. There is a short pause between sections. Spoken answers use Win+H.</p>
+          <button id="fm-start" class="btn btn-primary" type="button">Start full mock</button>
+          <button id="fm-history" class="btn" type="button">View past mock results</button>
+        </div>
+        <div id="fm-run" class="hidden">
+          <div class="timer-row"><span id="fm-progress"></span><span id="fm-timer" class="timer"></span></div>
+          <div class="bar"><div id="fm-bar" class="bar-fill"></div></div>
+          <p id="fm-status" class="status"></p>
+          <div id="fm-stage"></div>
+          <div class="actions">
+            <button id="fm-voice" class="btn hidden" type="button">Start voice typing (Win+H)</button>
+            <button id="fm-done" class="btn btn-primary" type="button">Done</button>
+          </div>
+        </div>
+        <div id="fm-summary" class="result hidden"></div>
+      </div>
+    </section>
+    <section id="tab-results" class="panel">
+      <div class="card">
+        <h2>Past mock results</h2>
+        <p class="muted">Completed mocks are saved in this browser at this address. Each result includes the questions, your answers, and correct answers or sample answers. Earlier tests completed before this feature was added cannot be recovered.</p>
+        <p id="mh-status" class="status" role="status"></p>
+        <div id="mh-list" class="history-list"></div>
+        <div id="mh-detail" class="hidden"></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="/sections.js"></script>
+  <script src="/app.js"></script>
+</body>
+</html>

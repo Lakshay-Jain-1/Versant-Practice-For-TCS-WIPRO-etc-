@@ -1,0 +1,5161 @@
+[
+  {
+    "title": "Ravi's first day",
+    "difficulty": "easy",
+    "text": "Ravi joined a software company in Chennai as a trainee last Monday. On his first day, his laptop would not start, so he could not attend the online training. He called the help desk, and a technician replaced the battery within an hour. Ravi then joined the afternoon session and thanked the technician for his quick help.",
+    "facts": [
+      {
+        "label": "Who: Ravi, a new trainee",
+        "keys": [
+          "ravi",
+          "trainee|intern|new|joined"
+        ]
+      },
+      {
+        "label": "Where: software company in Chennai",
+        "keys": [
+          "software|company|firm",
+          "chennai"
+        ]
+      },
+      {
+        "label": "When: first day / last Monday",
+        "keys": [
+          "first day|monday"
+        ]
+      },
+      {
+        "label": "Problem: laptop would not start",
+        "keys": [
+          "laptop|computer",
+          "start|work|switch|turn on|boot"
+        ]
+      },
+      {
+        "label": "Result: missed the online training",
+        "keys": [
+          "training|session"
+        ]
+      },
+      {
+        "label": "Called the help desk / technician",
+        "keys": [
+          "help desk|helpdesk|technician|support|it team"
+        ]
+      },
+      {
+        "label": "Battery replaced within an hour",
+        "keys": [
+          "battery",
+          "hour"
+        ]
+      },
+      {
+        "label": "Ending: joined afternoon session and thanked",
+        "keys": [
+          "afternoon",
+          "thank"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Meera's bicycle",
+    "difficulty": "easy",
+    "text": "Meera, a college student, wanted to buy a used bicycle to travel to campus. She found an advertisement online and visited the seller on Saturday morning. The bicycle looked good, but the brakes were weak. The seller agreed to reduce the price, so Meera bought it and had the brakes repaired at a nearby shop the same day.",
+    "facts": [
+      {
+        "label": "Who: Meera, a college student",
+        "keys": [
+          "meera",
+          "student|college"
+        ]
+      },
+      {
+        "label": "What: wanted a used bicycle for campus",
+        "keys": [
+          "bicycle|bike|cycle",
+          "used|second|old|campus|college"
+        ]
+      },
+      {
+        "label": "Found an advertisement online",
+        "keys": [
+          "advertisement|advert|ad|online|internet"
+        ]
+      },
+      {
+        "label": "When: visited on Saturday morning",
+        "keys": [
+          "saturday"
+        ]
+      },
+      {
+        "label": "Problem: brakes were weak",
+        "keys": [
+          "brake",
+          "weak|poor|bad|not good|problem"
+        ]
+      },
+      {
+        "label": "Seller reduced the price",
+        "keys": [
+          "price|cheaper|discount|less|lower"
+        ]
+      },
+      {
+        "label": "Ending: bought it and repaired brakes the same day",
+        "keys": [
+          "bought|buy|purchas",
+          "repair|fix"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The delayed launch",
+    "difficulty": "moderate",
+    "text": "The marketing team planned to launch a new product on Thursday. However, on Wednesday evening they discovered a spelling mistake on the packaging. The manager decided to delay the launch by one week. The team printed new boxes, and the product was released the following Thursday. Sales in the first week were higher than expected.",
+    "facts": [
+      {
+        "label": "Who: the marketing team",
+        "keys": [
+          "marketing|team"
+        ]
+      },
+      {
+        "label": "Plan: launch a new product on Thursday",
+        "keys": [
+          "launch|release",
+          "product",
+          "thursday"
+        ]
+      },
+      {
+        "label": "When found: Wednesday evening",
+        "keys": [
+          "wednesday"
+        ]
+      },
+      {
+        "label": "Problem: spelling mistake on the packaging",
+        "keys": [
+          "spelling|mistake|error|typo",
+          "packag|box"
+        ]
+      },
+      {
+        "label": "Manager delayed the launch by one week",
+        "keys": [
+          "delay|postpone|push",
+          "week"
+        ]
+      },
+      {
+        "label": "Printed new boxes",
+        "keys": [
+          "print|new box|reprint"
+        ]
+      },
+      {
+        "label": "Result: sales higher than expected",
+        "keys": [
+          "sales|sold",
+          "expect|higher|more|better|good"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Anil's interview",
+    "difficulty": "hard",
+    "text": "Anil was driving to an important job interview when his car broke down on the highway. He called the company to explain the situation and apologize. The receptionist said the interviewer could meet him an hour later. Anil took a taxi, arrived on time for the new slot, and was offered the job two days later.",
+    "facts": [
+      {
+        "label": "Who: Anil, going to a job interview",
+        "keys": [
+          "anil",
+          "interview"
+        ]
+      },
+      {
+        "label": "Problem: car broke down on the highway",
+        "keys": [
+          "car",
+          "broke|breakdown|stopped|problem",
+          "highway|road|way"
+        ]
+      },
+      {
+        "label": "Called the company to explain and apologize",
+        "keys": [
+          "call|phon|contact",
+          "apolog|sorry|explain"
+        ]
+      },
+      {
+        "label": "Receptionist moved it an hour later",
+        "keys": [
+          "receptionist|hour later|later|resched"
+        ]
+      },
+      {
+        "label": "Took a taxi and arrived on time",
+        "keys": [
+          "taxi|cab",
+          "time"
+        ]
+      },
+      {
+        "label": "Result: offered the job two days later",
+        "keys": [
+          "offer|got the job|hired|selected",
+          "two days|2 days"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The broken air conditioning",
+    "difficulty": "moderate",
+    "text": "Last Friday, the office air conditioning stopped working during a very hot afternoon. Many employees felt uncomfortable and could not concentrate. The facilities manager allowed everyone to go home early and work remotely. A repair team fixed the system over the weekend, and the office was cool again on Monday morning.",
+    "facts": [
+      {
+        "label": "When: last Friday, hot afternoon",
+        "keys": [
+          "friday",
+          "hot|afternoon"
+        ]
+      },
+      {
+        "label": "Problem: office air conditioning stopped",
+        "keys": [
+          "air condition|ac|a/c|cooling",
+          "stop|broke|not work|fail"
+        ]
+      },
+      {
+        "label": "Employees uncomfortable, could not concentrate",
+        "keys": [
+          "uncomfortable|concentrat|focus|hot"
+        ]
+      },
+      {
+        "label": "Facilities manager let everyone go home early",
+        "keys": [
+          "manager",
+          "home|early"
+        ]
+      },
+      {
+        "label": "Work remotely",
+        "keys": [
+          "remote|from home|work from"
+        ]
+      },
+      {
+        "label": "Repair team fixed it over the weekend",
+        "keys": [
+          "repair|fix",
+          "weekend"
+        ]
+      },
+      {
+        "label": "Ending: office cool again on Monday",
+        "keys": [
+          "monday",
+          "cool|normal|work"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Priya's cake",
+    "difficulty": "easy",
+    "text": "Priya ordered a birthday cake for her mother from a local bakery. When she picked it up, she noticed the name on the cake was spelled wrong. The baker apologized and offered to make a new one. Priya waited thirty minutes, received the correct cake, and was given a free box of cookies for the trouble.",
+    "facts": [
+      {
+        "label": "Who: Priya",
+        "keys": [
+          "priya"
+        ]
+      },
+      {
+        "label": "What: birthday cake for her mother",
+        "keys": [
+          "cake",
+          "birthday|mother|mom"
+        ]
+      },
+      {
+        "label": "Where: local bakery",
+        "keys": [
+          "bakery|baker|shop"
+        ]
+      },
+      {
+        "label": "Problem: name spelled wrong",
+        "keys": [
+          "name",
+          "spell|wrong|mistake|incorrect"
+        ]
+      },
+      {
+        "label": "Baker apologized and made a new one",
+        "keys": [
+          "apolog|sorry",
+          "new"
+        ]
+      },
+      {
+        "label": "Waited thirty minutes",
+        "keys": [
+          "thirty|30|half an hour",
+          "minute|hour"
+        ]
+      },
+      {
+        "label": "Ending: free box of cookies",
+        "keys": [
+          "free",
+          "cookie|biscuit"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The charity run",
+    "difficulty": "hard",
+    "text": "A group of students organized a charity run to raise money for a children's hospital. They expected about one hundred runners, but more than three hundred people registered. The students quickly arranged extra water and volunteers. The event was a great success, and they raised twice the amount they had planned.",
+    "facts": [
+      {
+        "label": "Who: a group of students",
+        "keys": [
+          "student"
+        ]
+      },
+      {
+        "label": "What: charity run",
+        "keys": [
+          "charity|run|race|marathon"
+        ]
+      },
+      {
+        "label": "Why: money for a children's hospital",
+        "keys": [
+          "money|fund|raise",
+          "hospital"
+        ]
+      },
+      {
+        "label": "Expected about one hundred runners",
+        "keys": [
+          "hundred|100"
+        ]
+      },
+      {
+        "label": "More than three hundred registered",
+        "keys": [
+          "three hundred|300"
+        ]
+      },
+      {
+        "label": "Arranged extra water and volunteers",
+        "keys": [
+          "water",
+          "volunteer"
+        ]
+      },
+      {
+        "label": "Result: raised twice the planned amount",
+        "keys": [
+          "twice|double|two times|2 times"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Karan's deleted file",
+    "difficulty": "hard",
+    "text": "Karan's team had to present a project report to a client on Tuesday. On Monday night, the shared file was accidentally deleted. Karan found an older backup and stayed late with two colleagues to update it. They finished at midnight, and the next day the client praised the report for being clear and complete.",
+    "facts": [
+      {
+        "label": "Who: Karan and his team",
+        "keys": [
+          "karan"
+        ]
+      },
+      {
+        "label": "Task: present a project report to a client on Tuesday",
+        "keys": [
+          "report",
+          "client",
+          "tuesday"
+        ]
+      },
+      {
+        "label": "Problem: file deleted on Monday night",
+        "keys": [
+          "delet|lost|removed",
+          "monday"
+        ]
+      },
+      {
+        "label": "Found an older backup",
+        "keys": [
+          "backup|back up|old|copy"
+        ]
+      },
+      {
+        "label": "Stayed late with two colleagues",
+        "keys": [
+          "late|night",
+          "colleague|two|team"
+        ]
+      },
+      {
+        "label": "Finished at midnight",
+        "keys": [
+          "midnight|12"
+        ]
+      },
+      {
+        "label": "Result: client praised it as clear and complete",
+        "keys": [
+          "prais|happy|liked|impressed|appreciat",
+          "clear|complete"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The reading program",
+    "difficulty": "easy",
+    "text": "The city library started a free weekend reading program for young children. Parents could bring their kids every Saturday to listen to stories and borrow books. At first, only a few families joined. After the library shared posters in local schools, the number of children attending tripled within two months.",
+    "facts": [
+      {
+        "label": "Who: the city library",
+        "keys": [
+          "library"
+        ]
+      },
+      {
+        "label": "What: free weekend reading program for children",
+        "keys": [
+          "free",
+          "read",
+          "child|kid"
+        ]
+      },
+      {
+        "label": "Every Saturday: stories and borrowing books",
+        "keys": [
+          "saturday",
+          "stor|book"
+        ]
+      },
+      {
+        "label": "At first only a few families joined",
+        "keys": [
+          "few|small|not many|less"
+        ]
+      },
+      {
+        "label": "Shared posters in local schools",
+        "keys": [
+          "poster|advert|promot",
+          "school"
+        ]
+      },
+      {
+        "label": "Result: attendance tripled in two months",
+        "keys": [
+          "tripl|three times|3 times",
+          "two months|2 months"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Neha's train",
+    "difficulty": "moderate",
+    "text": "Neha booked a train ticket to visit her grandparents during the holidays. On the day of travel, heavy rain caused the train to be cancelled. The railway office offered her a refund or a seat on the next morning's train. She chose the morning train and reached her grandparents' house in time for lunch.",
+    "facts": [
+      {
+        "label": "Who: Neha",
+        "keys": [
+          "neha"
+        ]
+      },
+      {
+        "label": "What: train ticket to visit grandparents",
+        "keys": [
+          "train|ticket",
+          "grandparent|grandmother|grandfather|grandma"
+        ]
+      },
+      {
+        "label": "When: during the holidays",
+        "keys": [
+          "holiday|vacation"
+        ]
+      },
+      {
+        "label": "Problem: heavy rain cancelled the train",
+        "keys": [
+          "rain|weather|storm",
+          "cancel"
+        ]
+      },
+      {
+        "label": "Offer: refund or next morning's train",
+        "keys": [
+          "refund|money back",
+          "morning|next"
+        ]
+      },
+      {
+        "label": "Chose the morning train",
+        "keys": [
+          "chose|choose|took|selected|picked|decided"
+        ]
+      },
+      {
+        "label": "Ending: arrived in time for lunch",
+        "keys": [
+          "lunch"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sana's hostel wifi",
+    "difficulty": "moderate",
+    "text": "Sana moved into the college hostel in August. For the first week, the wifi in her room kept disconnecting during online classes. She reported the problem to the warden on Wednesday. A technician replaced the router on Friday morning. After that, Sana could attend her evening classes without any interruption.",
+    "facts": [
+      {
+        "label": "Who: Sana, new to the college hostel",
+        "keys": [
+          "sana",
+          "hostel"
+        ]
+      },
+      {
+        "label": "When: moved in during August",
+        "keys": [
+          "august"
+        ]
+      },
+      {
+        "label": "Problem: wifi kept disconnecting in her room",
+        "keys": [
+          "wifi|internet|connection",
+          "disconnect|drop|cut|stop"
+        ]
+      },
+      {
+        "label": "It happened during online classes",
+        "keys": [
+          "online|class"
+        ]
+      },
+      {
+        "label": "Reported it to the warden on Wednesday",
+        "keys": [
+          "warden",
+          "wednesday"
+        ]
+      },
+      {
+        "label": "Technician replaced the router on Friday morning",
+        "keys": [
+          "technician|repair",
+          "router",
+          "friday"
+        ]
+      },
+      {
+        "label": "Ending: evening classes worked again",
+        "keys": [
+          "evening",
+          "interrupt|without|attend|class"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dev's internship",
+    "difficulty": "hard",
+    "text": "Dev applied for a summer internship at a design studio in Bengaluru. He was asked to submit a portfolio by Monday. He stayed up on Sunday night to finish three sample posters. The studio liked his work and offered him the internship the next afternoon. Dev accepted and will start on the first of June.",
+    "facts": [
+      {
+        "label": "Who: Dev",
+        "keys": [
+          "dev"
+        ]
+      },
+      {
+        "label": "What: summer internship at a design studio in Bengaluru",
+        "keys": [
+          "internship",
+          "design",
+          "bengaluru|bangalore"
+        ]
+      },
+      {
+        "label": "Asked to submit a portfolio by Monday",
+        "keys": [
+          "portfolio",
+          "monday"
+        ]
+      },
+      {
+        "label": "Stayed up Sunday night to finish three posters",
+        "keys": [
+          "sunday",
+          "three|3",
+          "poster"
+        ]
+      },
+      {
+        "label": "Studio offered him the internship the next afternoon",
+        "keys": [
+          "offer",
+          "afternoon"
+        ]
+      },
+      {
+        "label": "Dev accepted",
+        "keys": [
+          "accept"
+        ]
+      },
+      {
+        "label": "Starts on the first of June",
+        "keys": [
+          "june"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Farah's clinic visit",
+    "difficulty": "hard",
+    "text": "Farah had a fever on Tuesday and booked an appointment at the campus clinic. The doctor asked her to rest for two days and drink plenty of water. She emailed her professor to explain why she would miss Thursday's lab. The professor allowed her to submit the lab report the following Monday. Farah recovered over the weekend and attended class on time.",
+    "facts": [
+      {
+        "label": "Who: Farah",
+        "keys": [
+          "farah"
+        ]
+      },
+      {
+        "label": "Problem: fever on Tuesday",
+        "keys": [
+          "fever",
+          "tuesday"
+        ]
+      },
+      {
+        "label": "Appointment at the campus clinic",
+        "keys": [
+          "clinic|doctor"
+        ]
+      },
+      {
+        "label": "Doctor told her to rest two days and drink water",
+        "keys": [
+          "rest",
+          "two|2",
+          "water"
+        ]
+      },
+      {
+        "label": "Emailed her professor about missing Thursday's lab",
+        "keys": [
+          "professor|teacher",
+          "thursday",
+          "lab"
+        ]
+      },
+      {
+        "label": "Could submit the lab report the following Monday",
+        "keys": [
+          "report",
+          "monday"
+        ]
+      },
+      {
+        "label": "Ending: recovered over the weekend and attended class",
+        "keys": [
+          "weekend",
+          "class|attend"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The power cut",
+    "difficulty": "hard",
+    "text": "The evening exam was scheduled in Hall B at six o'clock. Ten minutes after it started, the power went out across the campus. The invigilator asked the students to stop writing and wait quietly. The lights returned after twenty minutes, and the college added the same amount of time to the exam. Everyone finished, and the results were published the next week.",
+    "facts": [
+      {
+        "label": "What: evening exam in Hall B at six",
+        "keys": [
+          "exam",
+          "hall",
+          "six|6"
+        ]
+      },
+      {
+        "label": "Power went out ten minutes after the start",
+        "keys": [
+          "power|electric",
+          "ten|10"
+        ]
+      },
+      {
+        "label": "It affected the whole campus",
+        "keys": [
+          "campus"
+        ]
+      },
+      {
+        "label": "Invigilator told students to stop and wait",
+        "keys": [
+          "invigilator|supervisor",
+          "stop|wait"
+        ]
+      },
+      {
+        "label": "Lights returned after twenty minutes",
+        "keys": [
+          "twenty|20",
+          "light|power|electric"
+        ]
+      },
+      {
+        "label": "College added the same amount of time",
+        "keys": [
+          "added|extra|more time|same"
+        ]
+      },
+      {
+        "label": "Results were published the next week",
+        "keys": [
+          "result",
+          "week"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rohan's suitcase",
+    "difficulty": "moderate",
+    "text": "Rohan flew to Delhi for a family wedding and found that his suitcase had not arrived. He filed a report at the airport desk and gave them his hotel address. The airline delivered the suitcase the next evening. His wedding clothes were inside and undamaged. Rohan reached the venue on time and thanked the staff for their help.",
+    "facts": [
+      {
+        "label": "Who: Rohan",
+        "keys": [
+          "rohan"
+        ]
+      },
+      {
+        "label": "Flew to Delhi for a family wedding",
+        "keys": [
+          "delhi",
+          "wedding"
+        ]
+      },
+      {
+        "label": "Suitcase had not arrived",
+        "keys": [
+          "suitcase|luggage|bag"
+        ]
+      },
+      {
+        "label": "Filed a report at the airport and gave his hotel address",
+        "keys": [
+          "airport|airline",
+          "hotel|address|report"
+        ]
+      },
+      {
+        "label": "Airline delivered it the next evening",
+        "keys": [
+          "deliver|brought|arrived|came",
+          "evening"
+        ]
+      },
+      {
+        "label": "Wedding clothes were undamaged",
+        "keys": [
+          "clothes|dress|suit",
+          "undamaged|safe|fine|not damaged"
+        ]
+      },
+      {
+        "label": "Reached the venue on time and thanked the staff",
+        "keys": [
+          "venue|wedding|time",
+          "thank"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Aisha's scholarship",
+    "difficulty": "hard",
+    "text": "Aisha applied for a college scholarship to help pay her hostel fees. She submitted her mark sheets and a short essay before the March deadline. A week later, the office asked her to correct her bank account number. She sent the updated details the same day. In April she received an email saying that the scholarship had been approved.",
+    "facts": [
+      {
+        "label": "Who: Aisha",
+        "keys": [
+          "aisha"
+        ]
+      },
+      {
+        "label": "Applied for a scholarship to pay hostel fees",
+        "keys": [
+          "scholarship",
+          "hostel|fees|fee"
+        ]
+      },
+      {
+        "label": "Submitted mark sheets and an essay before the March deadline",
+        "keys": [
+          "mark|grade|essay",
+          "march"
+        ]
+      },
+      {
+        "label": "Office asked her to correct her bank account number",
+        "keys": [
+          "bank|account",
+          "correct|fix|update|wrong"
+        ]
+      },
+      {
+        "label": "She sent the updated details the same day",
+        "keys": [
+          "same day|that day"
+        ]
+      },
+      {
+        "label": "Heard back in April by email",
+        "keys": [
+          "april",
+          "email|mail"
+        ]
+      },
+      {
+        "label": "The scholarship was approved",
+        "keys": [
+          "approv|accept|grant"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The metro delay",
+    "difficulty": "hard",
+    "text": "A group of new employees was traveling by metro to a client meeting in the city center. The train stopped between stations for fifteen minutes because of a signal failure. They called their manager and explained that they would be late. The client agreed to start half an hour later. The team arrived, gave the presentation, and the client approved the proposal.",
+    "facts": [
+      {
+        "label": "Who: new employees going to a client meeting",
+        "keys": [
+          "employee|team",
+          "client"
+        ]
+      },
+      {
+        "label": "Traveling by metro to the city center",
+        "keys": [
+          "metro|train",
+          "city|center|centre"
+        ]
+      },
+      {
+        "label": "Train stopped for fifteen minutes",
+        "keys": [
+          "fifteen|15",
+          "stop|delay|stuck"
+        ]
+      },
+      {
+        "label": "Cause: a signal failure",
+        "keys": [
+          "signal"
+        ]
+      },
+      {
+        "label": "They called their manager to say they would be late",
+        "keys": [
+          "manager",
+          "late"
+        ]
+      },
+      {
+        "label": "Client started half an hour later",
+        "keys": [
+          "half|30|thirty",
+          "later|delay"
+        ]
+      },
+      {
+        "label": "Ending: client approved the proposal",
+        "keys": [
+          "approv",
+          "proposal|presentation"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The lab spill",
+    "difficulty": "moderate",
+    "text": "During a chemistry practical, Imran accidentally spilled a small amount of solution on the bench. He told the lab assistant at once and did not try to wipe it up himself. The assistant followed the safety steps and cleared the area within ten minutes. No one was hurt. The professor praised Imran for reporting the spill quickly instead of hiding it.",
+    "facts": [
+      {
+        "label": "Who: Imran, during a chemistry practical",
+        "keys": [
+          "imran",
+          "chemistry|lab|practical"
+        ]
+      },
+      {
+        "label": "Spilled solution on the bench",
+        "keys": [
+          "spill",
+          "bench|table"
+        ]
+      },
+      {
+        "label": "Told the lab assistant immediately",
+        "keys": [
+          "assistant",
+          "once|immediately|right away|straight"
+        ]
+      },
+      {
+        "label": "Did not clean it himself",
+        "keys": [
+          "did not|didn't"
+        ]
+      },
+      {
+        "label": "Assistant cleared it within ten minutes using safety steps",
+        "keys": [
+          "safety",
+          "ten|10"
+        ]
+      },
+      {
+        "label": "No one was hurt",
+        "keys": [
+          "hurt|injur|safe|no one|nobody"
+        ]
+      },
+      {
+        "label": "Professor praised him for reporting it",
+        "keys": [
+          "professor|teacher",
+          "prais|report"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The festival stall",
+    "difficulty": "moderate",
+    "text": "The student council set up a food stall at the college festival on Saturday. They planned to sell sandwiches and fresh juice to raise money for the library. By noon they had run out of bread because the crowd was larger than expected. Two volunteers bought more supplies from a nearby shop. The stall stayed open until evening and raised more than they had hoped.",
+    "facts": [
+      {
+        "label": "Who: the student council",
+        "keys": [
+          "student|council"
+        ]
+      },
+      {
+        "label": "Food stall at the college festival on Saturday",
+        "keys": [
+          "stall|food",
+          "festival",
+          "saturday"
+        ]
+      },
+      {
+        "label": "Sold sandwiches and juice for the library",
+        "keys": [
+          "sandwich",
+          "juice",
+          "library"
+        ]
+      },
+      {
+        "label": "Ran out of bread by noon",
+        "keys": [
+          "bread",
+          "noon"
+        ]
+      },
+      {
+        "label": "The crowd was larger than expected",
+        "keys": [
+          "crowd",
+          "expected|larger"
+        ]
+      },
+      {
+        "label": "Two volunteers bought more supplies nearby",
+        "keys": [
+          "volunteer",
+          "two|2",
+          "shop|bought|supplies"
+        ]
+      },
+      {
+        "label": "Stayed open until evening and raised more than hoped",
+        "keys": [
+          "evening",
+          "raised|money|more"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The kitchen leak",
+    "difficulty": "moderate",
+    "text": "Leela noticed water leaking under her kitchen sink on Sunday night. She called the building supervisor and sent a photo of the wet floor. He arranged a plumber for Monday morning. The plumber replaced a cracked pipe and checked the other taps. Leela paid the bill and the owner later refunded the full cost.",
+    "facts": [
+      {
+        "label": "Who: Leela",
+        "keys": [
+          "leela"
+        ]
+      },
+      {
+        "label": "Water leaking under the kitchen sink on Sunday night",
+        "keys": [
+          "leak|water",
+          "kitchen|sink",
+          "sunday"
+        ]
+      },
+      {
+        "label": "Called the supervisor and sent a photo",
+        "keys": [
+          "supervisor|manager",
+          "photo|picture"
+        ]
+      },
+      {
+        "label": "Plumber came on Monday morning",
+        "keys": [
+          "plumber",
+          "monday"
+        ]
+      },
+      {
+        "label": "Replaced a cracked pipe and checked the taps",
+        "keys": [
+          "pipe",
+          "taps|tap|faucet"
+        ]
+      },
+      {
+        "label": "Leela paid the bill",
+        "keys": [
+          "paid|pay|bill"
+        ]
+      },
+      {
+        "label": "The owner refunded the full cost",
+        "keys": [
+          "owner|landlord",
+          "refund"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Vikram's online interview",
+    "difficulty": "hard",
+    "text": "Vikram had an online interview at ten in the morning, but his laptop speaker had stopped working. He joined the call from his phone and explained the problem at the start. The interviewer continued the questions and asked him to share his screen from the laptop afterward. Vikram answered clearly. He was invited for a second round the following week.",
+    "facts": [
+      {
+        "label": "Who: Vikram",
+        "keys": [
+          "vikram"
+        ]
+      },
+      {
+        "label": "Online interview at ten in the morning",
+        "keys": [
+          "interview",
+          "ten|10",
+          "morning"
+        ]
+      },
+      {
+        "label": "Laptop speaker had stopped working",
+        "keys": [
+          "speaker|audio|sound",
+          "laptop"
+        ]
+      },
+      {
+        "label": "Joined from his phone and explained at the start",
+        "keys": [
+          "phone",
+          "explain"
+        ]
+      },
+      {
+        "label": "Shared his screen from the laptop afterward",
+        "keys": [
+          "screen",
+          "after|afterward|later"
+        ]
+      },
+      {
+        "label": "He answered clearly",
+        "keys": [
+          "clear"
+        ]
+      },
+      {
+        "label": "Invited for a second round the following week",
+        "keys": [
+          "second",
+          "week"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The donation camp",
+    "difficulty": "hard",
+    "text": "The company organized a blood donation camp in the office lobby on Thursday. Employees who wanted to donate had to bring an identity card and eat breakfast first. Forty people registered, which was more than the medical team had expected. Extra chairs were brought in from the meeting room. By three o'clock the camp had collected enough units for the local hospital.",
+    "facts": [
+      {
+        "label": "What: blood donation camp in the office lobby",
+        "keys": [
+          "blood",
+          "lobby|office"
+        ]
+      },
+      {
+        "label": "When: Thursday",
+        "keys": [
+          "thursday"
+        ]
+      },
+      {
+        "label": "Donors needed an identity card and breakfast",
+        "keys": [
+          "identity|id card|card",
+          "breakfast"
+        ]
+      },
+      {
+        "label": "Forty people registered, more than expected",
+        "keys": [
+          "forty|40",
+          "expected|more"
+        ]
+      },
+      {
+        "label": "Extra chairs came from the meeting room",
+        "keys": [
+          "chair",
+          "meeting"
+        ]
+      },
+      {
+        "label": "Finished by three o'clock",
+        "keys": [
+          "three|3"
+        ]
+      },
+      {
+        "label": "Collected enough units for the local hospital",
+        "keys": [
+          "hospital",
+          "enough|unit"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Nandini's library fine",
+    "difficulty": "hard",
+    "text": "Nandini forgot to return two library books before the due date in September. The library emailed her about a small fine, so she went to the desk the next morning. The librarian said she could return the books and pay the fine at the same counter. Nandini did both that day. Her account was active again within an hour.",
+    "facts": [
+      {
+        "label": "Who: Nandini",
+        "keys": [
+          "nandini"
+        ]
+      },
+      {
+        "label": "Forgot to return two library books",
+        "keys": [
+          "two|2",
+          "book",
+          "return"
+        ]
+      },
+      {
+        "label": "Due date was in September",
+        "keys": [
+          "september|due"
+        ]
+      },
+      {
+        "label": "Library emailed her about a small fine",
+        "keys": [
+          "email|mail",
+          "fine"
+        ]
+      },
+      {
+        "label": "She went to the desk the next morning",
+        "keys": [
+          "desk|counter|library",
+          "morning"
+        ]
+      },
+      {
+        "label": "Returned the books and paid at the same counter",
+        "keys": [
+          "pay|paid",
+          "same"
+        ]
+      },
+      {
+        "label": "Account was active again within an hour",
+        "keys": [
+          "account|active",
+          "hour"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "The cancelled workshop",
+    "difficulty": "hard",
+    "text": "The sales team had planned a workshop at a resort outside the city on Tuesday. On the morning of the trip, heavy rain flooded the main highway. The manager cancelled the journey and moved the sessions to the office conference room. Lunch was ordered from a restaurant nearby. The team finished the workshop and shared the notes with colleagues who had stayed back.",
+    "facts": [
+      {
+        "label": "Who: the sales team",
+        "keys": [
+          "sales"
+        ]
+      },
+      {
+        "label": "Workshop at a resort outside the city on Tuesday",
+        "keys": [
+          "workshop",
+          "resort",
+          "tuesday"
+        ]
+      },
+      {
+        "label": "Heavy rain flooded the highway that morning",
+        "keys": [
+          "rain",
+          "flood|highway"
+        ]
+      },
+      {
+        "label": "Manager cancelled the journey",
+        "keys": [
+          "manager",
+          "cancel"
+        ]
+      },
+      {
+        "label": "Sessions moved to the office conference room",
+        "keys": [
+          "conference|office"
+        ]
+      },
+      {
+        "label": "Lunch ordered from a nearby restaurant",
+        "keys": [
+          "lunch",
+          "restaurant"
+        ]
+      },
+      {
+        "label": "Finished and shared notes with colleagues who stayed back",
+        "keys": [
+          "notes|note",
+          "colleague"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "passages-workplace-001",
+    "family": "workplace-001",
+    "title": "Duplicate supplier invoice",
+    "text": "We received two invoices for the same shipment, although only one delivery was recorded by our reception team. Both invoices show purchase order 614, and I have attached the delivery receipt and the two invoice copies for comparison. Please cancel the duplicate charge and send a corrected account statement before our next payment run.",
+    "facts": [
+      {
+        "label": "the billing error",
+        "keys": [
+          "duplicate|double|twice"
+        ]
+      },
+      {
+        "label": "the evidence available",
+        "keys": [
+          "invoice|delivery|receipt"
+        ]
+      },
+      {
+        "label": "the correction required",
+        "keys": [
+          "cancel|correct|credit"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-002",
+    "family": "workplace-002",
+    "title": "Blocked emergency exit",
+    "text": "The emergency exit on the second floor is blocked by several boxes, which could prevent staff from leaving safely during an evacuation. I have asked the moving team to keep the corridor clear and move the boxes into the designated storage area. Please arrange a daily corridor inspection this week and remind the contractors that emergency routes must remain unobstructed.",
+    "facts": [
+      {
+        "label": "the safety concern",
+        "keys": [
+          "exit|blocked|boxes"
+        ]
+      },
+      {
+        "label": "the temporary precaution",
+        "keys": [
+          "clear|move|storage"
+        ]
+      },
+      {
+        "label": "the prevention measure",
+        "keys": [
+          "inspection|check|remind"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-003",
+    "family": "workplace-003",
+    "title": "Customer data sent to the wrong address",
+    "text": "A customer contact list was sent to an incorrect external address, and the file contains names, telephone numbers, and business email addresses. The employee reported the mistake immediately, attempted to recall the message, and asked the recipient to delete the attachment without opening it. Please review the incident and advise us on any further reporting, customer communication, or access restrictions that may be necessary.",
+    "facts": [
+      {
+        "label": "the information involved",
+        "keys": [
+          "customer|contact|list"
+        ]
+      },
+      {
+        "label": "the immediate response",
+        "keys": [
+          "recall|delete|report"
+        ]
+      },
+      {
+        "label": "the advice needed",
+        "keys": [
+          "investigate|review|guidance"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-004",
+    "family": "workplace-004",
+    "title": "Accessible training venue",
+    "text": "The current training room is upstairs and has no lift access, so one of our employees cannot attend the course there. The large ground-floor meeting room has step-free access, an accessible washroom nearby, and enough space for the planned practical exercises. Please move the course to that room and update the joining instructions before the invitations are issued.",
+    "facts": [
+      {
+        "label": "the access difficulty",
+        "keys": [
+          "wheelchair|stairs|access"
+        ]
+      },
+      {
+        "label": "the suitable alternative",
+        "keys": [
+          "ground|accessible|alternative"
+        ]
+      },
+      {
+        "label": "the booking request",
+        "keys": [
+          "move|change|book"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-005",
+    "family": "workplace-005",
+    "title": "Missing expense receipt",
+    "text": "The receipt for the taxi journey after my client visit is missing, although the payment appears in my bank statement. I have attached the card statement and the booking confirmation, which show the journey date, destination, and amount paid. Could you confirm whether this evidence is acceptable or tell me what alternative document I should obtain before submitting the claim?",
+    "facts": [
+      {
+        "label": "the missing document",
+        "keys": [
+          "taxi|receipt|missing"
+        ]
+      },
+      {
+        "label": "the supporting evidence",
+        "keys": [
+          "statement|booking|payment"
+        ]
+      },
+      {
+        "label": "the approval request",
+        "keys": [
+          "accept|approve|alternative"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-006",
+    "family": "workplace-006",
+    "title": "Software licence renewal",
+    "text": "Our design software licence expires at the end of the month, and the team needs uninterrupted access for two ongoing client projects. We require six active user seats, while the two unused seats from last year's purchase can be removed from the renewal. Please obtain an updated quotation and begin the renewal process this week so that there is time for approval before expiry.",
+    "facts": [
+      {
+        "label": "the renewal deadline",
+        "keys": [
+          "licence|license|expire"
+        ]
+      },
+      {
+        "label": "the usage requirement",
+        "keys": [
+          "users|seats|design"
+        ]
+      },
+      {
+        "label": "the purchase action",
+        "keys": [
+          "renew|quote|purchase"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-007",
+    "family": "workplace-007",
+    "title": "Interpreting a revised product specification",
+    "text": "The revised specification lists a ten-megabyte upload limit in the overview but a twenty-megabyte limit in the detailed requirements. We cannot complete the upload validation or write reliable test cases until the intended limit has been confirmed. Please confirm which limit applies and publish a single corrected version that both the development and testing teams can use.",
+    "facts": [
+      {
+        "label": "the conflicting requirement",
+        "keys": [
+          "limit|file|specification"
+        ]
+      },
+      {
+        "label": "the effect on development",
+        "keys": [
+          "test|development|validation"
+        ]
+      },
+      {
+        "label": "the clarification request",
+        "keys": [
+          "confirm|clarify|limit"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-008",
+    "family": "workplace-008",
+    "title": "Invitation to a supplier demonstration",
+    "text": "We would like to arrange a demonstration of your stock-tracking system so that our warehouse team can assess its suitability for daily operations. Please include barcode scanning, returned goods, and the procedure for recording stock when the internet connection is unavailable. Could you share your availability for a ninety-minute session next week and tell us whether a temporary trial account can be provided?",
+    "facts": [
+      {
+        "label": "the demonstration purpose",
+        "keys": [
+          "stock|inventory|warehouse"
+        ]
+      },
+      {
+        "label": "the requested coverage",
+        "keys": [
+          "barcode|offline|returns"
+        ]
+      },
+      {
+        "label": "the scheduling proposal",
+        "keys": [
+          "schedule|available|demonstration"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-009",
+    "family": "workplace-009",
+    "title": "Water damage to archived files",
+    "text": "Water from a leaking pipe has soaked several boxes of archived paper files, although the electronic copies appear to be unaffected. We have moved the undamaged boxes to a dry room and kept the wet records separate so that specialist recovery work can be assessed. Please arrange an inspection and advise which records require professional recovery and which can be replaced from the electronic archive.",
+    "facts": [
+      {
+        "label": "the damage observed",
+        "keys": [
+          "leak|water|files"
+        ]
+      },
+      {
+        "label": "the preservation steps",
+        "keys": [
+          "dry|move|protect"
+        ]
+      },
+      {
+        "label": "the recovery decision",
+        "keys": [
+          "recover|restore|specialist"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-010",
+    "family": "workplace-010",
+    "title": "Visitor identity checks",
+    "text": "Several visitors reached the restricted office area without an identity check when reception was handling a large group arrival. We have asked hosts to collect their visitors from reception and ensure that each guest receives a badge before entering the work area. Please provide temporary reception support during group arrivals and review the sign-in procedure with the team.",
+    "facts": [
+      {
+        "label": "the security gap",
+        "keys": [
+          "visitor|identification|restricted"
+        ]
+      },
+      {
+        "label": "the immediate safeguard",
+        "keys": [
+          "escort|badge|check"
+        ]
+      },
+      {
+        "label": "the staffing request",
+        "keys": [
+          "staff|support|reception"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-011",
+    "family": "workplace-011",
+    "title": "Request for a project handover",
+    "text": "I will take responsibility for the project when our colleague leaves, and I would like to arrange a structured handover before their final day. The handover should cover open tasks, key customer contacts, outstanding decisions, and the risks that need attention during the next release. Please schedule a handover session early next week and ask the outgoing colleague to share the current project documents beforehand.",
+    "facts": [
+      {
+        "label": "the handover need",
+        "keys": [
+          "handover|take|leave"
+        ]
+      },
+      {
+        "label": "the information required",
+        "keys": [
+          "risks|contacts|tasks"
+        ]
+      },
+      {
+        "label": "the meeting proposal",
+        "keys": [
+          "meeting|session|schedule"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-012",
+    "family": "workplace-012",
+    "title": "Incorrect delivery address",
+    "text": "The courier delivered the customer order to our old warehouse address, while the shipping instructions clearly show the new distribution centre. This error may delay the customer's installation, because the goods must be transferred before we can complete the final dispatch checks. Please arrange collection from the old warehouse today and confirm the time when the goods will reach the correct address.",
+    "facts": [
+      {
+        "label": "the delivery mistake",
+        "keys": [
+          "old|address|warehouse"
+        ]
+      },
+      {
+        "label": "the customer impact",
+        "keys": [
+          "delay|customer|dispatch"
+        ]
+      },
+      {
+        "label": "the recovery request",
+        "keys": [
+          "collect|transfer|redeliver"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-013",
+    "family": "workplace-013",
+    "title": "Reducing unnecessary printed reports",
+    "text": "Our weekly reports are printed for every employee, but most copies remain unused because the team reads the digital version on their laptops. I suggest distributing the report electronically and printing copies only when a team member specifically requests one. Could we trial this approach for one month and compare paper use, printing costs, and staff feedback before making a permanent change?",
+    "facts": [
+      {
+        "label": "the waste identified",
+        "keys": [
+          "print|paper|reports"
+        ]
+      },
+      {
+        "label": "the suggested change",
+        "keys": [
+          "digital|electronic|print"
+        ]
+      },
+      {
+        "label": "the trial and review",
+        "keys": [
+          "trial|review|measure"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-014",
+    "family": "workplace-014",
+    "title": "Meeting recording consent",
+    "text": "The manager would like to record the workshop for colleagues who cannot attend, but the original invitation did not tell the external guests about this. We should inform all participants in advance, explain who will be able to view the recording, and give them a way to raise concerns. Please advise us on the required consent wording and confirm how long the recording may be retained.",
+    "facts": [
+      {
+        "label": "the planned recording",
+        "keys": [
+          "record|workshop|guests"
+        ]
+      },
+      {
+        "label": "the participant notice",
+        "keys": [
+          "notice|consent|inform"
+        ]
+      },
+      {
+        "label": "the policy guidance",
+        "keys": [
+          "policy|permission|consent"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-015",
+    "family": "workplace-015",
+    "title": "Equipment loan for a remote worker",
+    "text": "The new employee has received a working laptop but still needs a headset and an external keyboard to complete calls and training comfortably. The employee is working from home, and their current delivery address and telephone number are included in the attached onboarding record. Please arrange a loan of both items and confirm the expected delivery date so that we can plan the remaining training sessions.",
+    "facts": [
+      {
+        "label": "the missing equipment",
+        "keys": [
+          "headset|keyboard|equipment"
+        ]
+      },
+      {
+        "label": "the delivery information",
+        "keys": [
+          "address|delivery|remote"
+        ]
+      },
+      {
+        "label": "the service request",
+        "keys": [
+          "send|dispatch|loan"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-016",
+    "family": "workplace-016",
+    "title": "Extending a library loan for research",
+    "text": "I would like to extend the loan of the supply-chain reference book for one additional week while I complete our research report. The supplier data arrived later than expected, and I still need to compare it with the examples in the final two chapters. Please let me know whether renewal is possible; if another reader has reserved the book, I will return it on the original due date.",
+    "facts": [
+      {
+        "label": "the extension requested",
+        "keys": [
+          "extend|renew|week"
+        ]
+      },
+      {
+        "label": "the reason for the delay",
+        "keys": [
+          "research|report|data"
+        ]
+      },
+      {
+        "label": "the return commitment",
+        "keys": [
+          "return|date|next"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-017",
+    "family": "workplace-017",
+    "title": "Changing a catering order",
+    "text": "The confirmed headcount for our event has increased from thirty to forty-two people, so we need to revise the original catering order. The revised list includes six vegetarian meals and two gluten-free meals, and one attendee has a severe nut allergy. Please send a revised menu and total cost, and confirm how the allergy information will be communicated to the kitchen staff.",
+    "facts": [
+      {
+        "label": "the revised headcount",
+        "keys": [
+          "attendees|people|number"
+        ]
+      },
+      {
+        "label": "the dietary needs",
+        "keys": [
+          "vegetarian|allergy|gluten"
+        ]
+      },
+      {
+        "label": "the confirmation required",
+        "keys": [
+          "confirm|cost|menu"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-018",
+    "family": "workplace-018",
+    "title": "Emergency cover for a customer help desk",
+    "text": "Two help-desk colleagues are absent today, leaving fewer staff available just as customers begin receiving the product update. I propose moving one trained colleague from the internal support queue and using staggered breaks to keep the customer phone line covered. Please approve this temporary arrangement and tell us which issues should be escalated directly to the product team.",
+    "facts": [
+      {
+        "label": "the staffing shortage",
+        "keys": [
+          "absent|staff|help"
+        ]
+      },
+      {
+        "label": "the temporary coverage plan",
+        "keys": [
+          "cover|rota|shift"
+        ]
+      },
+      {
+        "label": "the approval needed",
+        "keys": [
+          "approve|cover|plan"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-019",
+    "family": "workplace-019",
+    "title": "Returning a faulty demonstration unit",
+    "text": "The demonstration tablet becomes unusually hot after a short presentation and then shuts down, even when it is not connected to its charger. We observed the same problem during three tests using the supplied charger, and we have stopped using the device as a precaution. Please provide safe return instructions and arrange a replacement demonstration unit before our customer event.",
+    "facts": [
+      {
+        "label": "the fault observed",
+        "keys": [
+          "overheat|hot|tablet"
+        ]
+      },
+      {
+        "label": "the testing information",
+        "keys": [
+          "tested|charger|minutes"
+        ]
+      },
+      {
+        "label": "the return instructions",
+        "keys": [
+          "return|collection|replacement"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-020",
+    "family": "workplace-020",
+    "title": "Request for a salary correction",
+    "text": "My latest payslip does not include the approved overtime payment for the weekend release work completed earlier this month. I have attached the approved timesheet and the manager's email confirming the number of hours and the applicable payment rate. Please check the calculation and let me know when the missing amount can be paid or included in a corrected payslip.",
+    "facts": [
+      {
+        "label": "the missing payment",
+        "keys": [
+          "overtime|payment|payslip"
+        ]
+      },
+      {
+        "label": "the approval evidence",
+        "keys": [
+          "approved|timesheet|manager"
+        ]
+      },
+      {
+        "label": "the correction timeline",
+        "keys": [
+          "correct|pay|when"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-021",
+    "family": "workplace-021",
+    "title": "Delayed approval for a marketing campaign",
+    "text": "The campaign materials are ready, but the final artwork is still awaiting legal approval for the customer claims printed on the main banner. Unless the review is completed tomorrow, we will miss the agreed publishing slot and need to revise the launch schedule with our media partner. Please help us prioritise the legal review or confirm whether a version without the disputed claims may be released first.",
+    "facts": [
+      {
+        "label": "the outstanding approval",
+        "keys": [
+          "legal|artwork|approval"
+        ]
+      },
+      {
+        "label": "the schedule impact",
+        "keys": [
+          "launch|schedule|delay"
+        ]
+      },
+      {
+        "label": "the escalation request",
+        "keys": [
+          "review|prioritise|decision"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-022",
+    "family": "workplace-022",
+    "title": "Inviting staff to a mentoring programme",
+    "text": "We propose a voluntary mentoring programme to help recently joined employees understand their roles, build confidence, and find support across departments. Each mentor would meet their assigned colleague for one hour each month during the first six months, with brief guidance provided by Human Resources. Please invite experienced employees to volunteer and collect registrations before we match mentors with the new starters.",
+    "facts": [
+      {
+        "label": "the programme purpose",
+        "keys": [
+          "mentor|new|joined"
+        ]
+      },
+      {
+        "label": "the expected commitment",
+        "keys": [
+          "monthly|hour|commitment"
+        ]
+      },
+      {
+        "label": "the recruitment request",
+        "keys": [
+          "invite|volunteer|register"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-023",
+    "family": "workplace-023",
+    "title": "Requesting a quiet room for interviews",
+    "text": "We need a quiet room for next week's recruitment interviews because the discussions involve personal information and should not be overheard in the open office. The room should have a reliable video connection, a table, and four chairs, with access available throughout the scheduled interview blocks. Please reserve a suitable room and confirm its location so that we can include accurate joining details in the candidate invitations.",
+    "facts": [
+      {
+        "label": "the privacy requirement",
+        "keys": [
+          "confidential|interviews|quiet"
+        ]
+      },
+      {
+        "label": "the facilities needed",
+        "keys": [
+          "video|table|chairs"
+        ]
+      },
+      {
+        "label": "the reservation request",
+        "keys": [
+          "reserve|book|confirm"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-024",
+    "family": "workplace-024",
+    "title": "Correcting an error in a published timetable",
+    "text": "The timetable on the company website shows the seminar starting at ten, while the approved programme and speaker booking both specify eleven. We should update the website immediately and send a short correction to everyone who has already registered for the seminar. Please confirm who will make each update and check the final timetable against the speaker's booking before it is republished.",
+    "facts": [
+      {
+        "label": "the published error",
+        "keys": [
+          "time|timetable|website"
+        ]
+      },
+      {
+        "label": "the correction channels",
+        "keys": [
+          "website|email|notice"
+        ]
+      },
+      {
+        "label": "the ownership and confirmation",
+        "keys": [
+          "confirm|update|check"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-025",
+    "family": "workplace-025",
+    "title": "Request for a supplier sustainability report",
+    "text": "We are reviewing the environmental performance of our furniture suppliers before deciding whether to renew the current purchasing agreement. The review needs evidence about responsibly sourced materials, packaging recycling, and the emissions associated with manufacturing and delivery. Please request the latest sustainability report and supporting certificates from the supplier by the end of next week.",
+    "facts": [
+      {
+        "label": "the review purpose",
+        "keys": [
+          "environment|sustainability|supplier"
+        ]
+      },
+      {
+        "label": "the information required",
+        "keys": [
+          "materials|recycling|emissions"
+        ]
+      },
+      {
+        "label": "the submission deadline",
+        "keys": [
+          "send|report|deadline"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-026",
+    "family": "workplace-026",
+    "title": "Reporting a successful pilot project",
+    "text": "The reminder trial reduced missed appointments, and staff reported that fewer customers needed a telephone call to confirm their booking. The main limitation was that reminders could not be delivered when customer mobile numbers were missing or entered incorrectly. I recommend extending the trial to another branch after we update the contact records and add a check for invalid telephone numbers.",
+    "facts": [
+      {
+        "label": "the trial outcome",
+        "keys": [
+          "reminder|missed|appointments"
+        ]
+      },
+      {
+        "label": "the limitation found",
+        "keys": [
+          "mobile|number|contact"
+        ]
+      },
+      {
+        "label": "the recommended next step",
+        "keys": [
+          "extend|update|trial"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-027",
+    "family": "workplace-027",
+    "title": "Adjusting a warehouse shift pattern",
+    "text": "Most deliveries arrive before nine in the morning, while the current shift pattern provides its lowest staffing level during that period. I suggest moving the start time of one team forward by an hour and creating a short overlap between the early and regular shifts. Please review the proposal with the affected staff and approve a two-week trial if the revised arrangement is acceptable.",
+    "facts": [
+      {
+        "label": "the demand mismatch",
+        "keys": [
+          "morning|deliveries|staff"
+        ]
+      },
+      {
+        "label": "the proposed arrangement",
+        "keys": [
+          "earlier|shift|overlap"
+        ]
+      },
+      {
+        "label": "the consultation request",
+        "keys": [
+          "consult|review|approve"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-028",
+    "family": "workplace-028",
+    "title": "Requesting a lost property search",
+    "text": "A blue folder containing interview notes was left in the small meeting room after yesterday's afternoon recruitment session. I checked the room and the reception cupboard this morning, but it was not there; the evening cleaning team may have moved it. Please contact the cleaning team and keep the folder in a secure place if it is found, since the notes contain personal information.",
+    "facts": [
+      {
+        "label": "the missing item",
+        "keys": [
+          "folder|notes|missing"
+        ]
+      },
+      {
+        "label": "the search details",
+        "keys": [
+          "room|cleaning|reception"
+        ]
+      },
+      {
+        "label": "the recovery request",
+        "keys": [
+          "search|contact|secure"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-029",
+    "family": "workplace-029",
+    "title": "Explaining a budget variance",
+    "text": "Travel spending exceeded the original budget after the customer requested two additional site visits that were not included in the project plan. The visits allowed the team to resolve installation issues on site and prevented a longer interruption to the customer's normal operations. We will update the monthly forecast and seek approval before arranging any further unplanned travel so that future costs remain visible.",
+    "facts": [
+      {
+        "label": "the overspend",
+        "keys": [
+          "travel|budget|extra"
+        ]
+      },
+      {
+        "label": "the business justification",
+        "keys": [
+          "customer|site|resolve"
+        ]
+      },
+      {
+        "label": "the control measure",
+        "keys": [
+          "forecast|approval|limit"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-030",
+    "family": "workplace-030",
+    "title": "Organising a charity collection",
+    "text": "We would like to organise a voluntary collection of suitable supplies for the local food bank during the final week of this month. Staff can leave sealed, in-date food items in the labelled collection boxes beside reception, and the charity has provided a list of its current needs. Please approve the use of that space and allow us to circulate a short announcement explaining the collection dates and accepted items.",
+    "facts": [
+      {
+        "label": "the collection purpose",
+        "keys": [
+          "food|charity|collection"
+        ]
+      },
+      {
+        "label": "the collection arrangements",
+        "keys": [
+          "sealed|box|reception"
+        ]
+      },
+      {
+        "label": "the permission requested",
+        "keys": [
+          "permission|approve|allow"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-031",
+    "family": "workplace-031",
+    "title": "Reviewing a customer refund request",
+    "text": "The customer paid for a full two-hour service, but the visit ended after seventy-five minutes without completing all the work listed in the package. The booking record and the technician's report confirm the early finish, and the customer has sent photographs of the unfinished work. I recommend offering either a partial refund or a free return visit, according to the customer's preference and our service policy.",
+    "facts": [
+      {
+        "label": "the customer concern",
+        "keys": [
+          "refund|shorter|service"
+        ]
+      },
+      {
+        "label": "the evidence reviewed",
+        "keys": [
+          "booking|report|photos"
+        ]
+      },
+      {
+        "label": "the proposed resolution",
+        "keys": [
+          "refund|revisit|resolve"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-032",
+    "family": "workplace-032",
+    "title": "Approving a translation of safety instructions",
+    "text": "Several employees are having difficulty understanding the English safety instructions for the new machine, which may affect their ability to operate it safely. We propose a checked translation of the essential instructions and a practical demonstration led by a trained operator before the machine is used independently. Please review the translated version and confirm that it accurately explains the hazards, emergency stop procedure, and required protective equipment.",
+    "facts": [
+      {
+        "label": "the communication problem",
+        "keys": [
+          "instructions|language|understand"
+        ]
+      },
+      {
+        "label": "the proposed support",
+        "keys": [
+          "translate|demonstration|training"
+        ]
+      },
+      {
+        "label": "the review request",
+        "keys": [
+          "check|approve|translation"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-033",
+    "family": "workplace-033",
+    "title": "Request for a flexible payment schedule",
+    "text": "We would like to divide the payment for the equipment order into two instalments because the purchase is larger than our usual monthly spending. We propose paying half when the order is confirmed and the remaining balance within thirty days of delivery, while keeping the existing delivery date. Please confirm whether you can accept these terms and send an updated order acknowledgement showing the revised payment schedule.",
+    "facts": [
+      {
+        "label": "the payment request",
+        "keys": [
+          "instalment|installment|split"
+        ]
+      },
+      {
+        "label": "the proposed dates",
+        "keys": [
+          "deposit|balance|delivery"
+        ]
+      },
+      {
+        "label": "the confirmation required",
+        "keys": [
+          "agree|confirm|terms"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-034",
+    "family": "workplace-034",
+    "title": "Updating a staff emergency contact list",
+    "text": "During the recent drill, several emergency contact numbers could not be reached because the details in our staff records were out of date. We suggest asking every employee to verify their details using a secure update form, with access limited to the authorised Human Resources team. Please approve a two-week completion period and arrange a reminder for anyone whose record has not been confirmed by the deadline.",
+    "facts": [
+      {
+        "label": "the outdated information",
+        "keys": [
+          "emergency|contact|outdated"
+        ]
+      },
+      {
+        "label": "the update process",
+        "keys": [
+          "verify|update|form"
+        ]
+      },
+      {
+        "label": "the completion target",
+        "keys": [
+          "deadline|complete|reminder"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-035",
+    "family": "workplace-035",
+    "title": "Preparing for an external audit",
+    "text": "The auditor's requested evidence is spread across shared folders and paper records, making it difficult to check whether everything is complete. We plan to create a central evidence index that identifies the current document, its storage location, and the employee responsible for maintaining it. Please arrange a preparation meeting next week so that we can identify missing records and assign clear deadlines for completing them.",
+    "facts": [
+      {
+        "label": "the preparation challenge",
+        "keys": [
+          "audit|evidence|documents"
+        ]
+      },
+      {
+        "label": "the organisation plan",
+        "keys": [
+          "index|folder|owner"
+        ]
+      },
+      {
+        "label": "the review meeting",
+        "keys": [
+          "review|check|meeting"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-036",
+    "family": "workplace-036",
+    "title": "Reporting a change in customer demand",
+    "text": "Recent customer enquiries show growing demand for smaller subscription packages, especially from businesses that do not need the full range of services. I have summarised the enquiries from the last four weeks and included examples of the features that these customers use most often. Please review whether a smaller package can be offered and update the brochure so that the available choices are clearly explained.",
+    "facts": [
+      {
+        "label": "the demand observed",
+        "keys": [
+          "smaller|subscription|customers"
+        ]
+      },
+      {
+        "label": "the evidence supplied",
+        "keys": [
+          "enquiries|feedback|examples"
+        ]
+      },
+      {
+        "label": "the proposed response",
+        "keys": [
+          "package|brochure|review"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-037",
+    "family": "workplace-037",
+    "title": "Reducing noise from building work",
+    "text": "Drilling in the neighbouring unit is making it difficult for our staff to hear customers during the late-morning peak in telephone calls. We suggest scheduling the loudest work before our phone lines open or during the afternoon break, while allowing quieter tasks to continue throughout the day. Please discuss this arrangement with the contractor and share an agreed timetable so that we can plan customer appointments around the work.",
+    "facts": [
+      {
+        "label": "the disruption",
+        "keys": [
+          "noise|calls|drilling"
+        ]
+      },
+      {
+        "label": "the practical compromise",
+        "keys": [
+          "schedule|quiet|break"
+        ]
+      },
+      {
+        "label": "the coordination request",
+        "keys": [
+          "contractor|agree|timetable"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-038",
+    "family": "workplace-038",
+    "title": "Booking a demonstration for a school visit",
+    "text": "The visiting school group consists of pupils aged nine to eleven, and the teachers would like an activity that all pupils can participate in safely. We propose a simple water-filter experiment using safe household materials, with pupils working in small groups under staff supervision. Please confirm the available demonstration space and staffing so that we can prepare the materials and send the teachers a clear visit plan.",
+    "facts": [
+      {
+        "label": "the group requirements",
+        "keys": [
+          "pupils|school|age"
+        ]
+      },
+      {
+        "label": "the activity proposal",
+        "keys": [
+          "experiment|materials|groups"
+        ]
+      },
+      {
+        "label": "the planning confirmation",
+        "keys": [
+          "confirm|staff|materials"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-039",
+    "family": "workplace-039",
+    "title": "Clarifying a warranty exclusion",
+    "text": "Our repair claim was rejected under a warranty exclusion for a component that we understood to be included when the equipment was purchased. The original quotation describes the component as covered, and I have attached that document together with the service provider's rejection notice. Please review the documents and explain the basis for the exclusion, or reconsider the claim if the quotation forms part of the agreed terms.",
+    "facts": [
+      {
+        "label": "the rejected claim",
+        "keys": [
+          "warranty|claim|rejected"
+        ]
+      },
+      {
+        "label": "the contract evidence",
+        "keys": [
+          "contract|quotation|covered"
+        ]
+      },
+      {
+        "label": "the review request",
+        "keys": [
+          "review|explain|reconsider"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-040",
+    "family": "workplace-040",
+    "title": "Changing the onboarding schedule",
+    "text": "The trainer is unavailable for the planned induction session, so the new starters cannot complete the original programme on their first morning. We can use that morning for workplace introductions, a building tour, and computer setup, then hold the main training session the following afternoon. Please send the revised schedule to the new starters and their managers and confirm which colleague will supervise the morning activities.",
+    "facts": [
+      {
+        "label": "the trainer's absence",
+        "keys": [
+          "trainer|unavailable|induction"
+        ]
+      },
+      {
+        "label": "the replacement activities",
+        "keys": [
+          "tour|setup|introductions"
+        ]
+      },
+      {
+        "label": "the updated invitation",
+        "keys": [
+          "update|inform|schedule"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-041",
+    "family": "workplace-041",
+    "title": "Requesting a reference for a former colleague",
+    "text": "I worked closely with the candidate for two years and can provide a professional reference about their responsibilities and performance during that period. Please let me know which skills are relevant to the new role and whether you would prefer a written response to specific questions or a brief telephone discussion. Once the candidate's consent is confirmed, I will arrange a suitable time or return the completed reference form by your stated deadline.",
+    "facts": [
+      {
+        "label": "the reference connection",
+        "keys": [
+          "worked|colleague|reference"
+        ]
+      },
+      {
+        "label": "the scope clarification",
+        "keys": [
+          "skills|role|questions"
+        ]
+      },
+      {
+        "label": "the response arrangements",
+        "keys": [
+          "consent|available|arrange"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-042",
+    "family": "workplace-042",
+    "title": "Correcting attendance records",
+    "text": "The online course is marked as incomplete for several employees even though they have completed all the modules and passed the final assessment. I have attached their completion certificates and assessment results, along with a list of the affected employee records. Please correct the training records and confirm when the revised status will be visible to the employees and their managers.",
+    "facts": [
+      {
+        "label": "the record discrepancy",
+        "keys": [
+          "course|incomplete|completed"
+        ]
+      },
+      {
+        "label": "the evidence submitted",
+        "keys": [
+          "certificate|results|completion"
+        ]
+      },
+      {
+        "label": "the requested update",
+        "keys": [
+          "update|correct|records"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-043",
+    "family": "workplace-043",
+    "title": "Changing a customer demonstration format",
+    "text": "The customer is unable to travel for the planned demonstration and has asked whether the same material can be presented in an online session. We can provide a meeting link, test the screen-sharing connection beforehand, and send sample data so that the customer can follow the practical examples. Please confirm the revised format and meeting time with the customer and ask whether any additional participants should receive the invitation.",
+    "facts": [
+      {
+        "label": "the customer's change",
+        "keys": [
+          "travel|online|demonstration"
+        ]
+      },
+      {
+        "label": "the remote preparation",
+        "keys": [
+          "link|test|sample"
+        ]
+      },
+      {
+        "label": "the revised confirmation",
+        "keys": [
+          "confirm|time|participants"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-044",
+    "family": "workplace-044",
+    "title": "Requesting additional stock before a promotion",
+    "text": "Our current stock is below the forecast demand for the promotion, and a shortage could leave customers unable to buy the advertised product. The nearby branch has enough spare units to cover our forecast shortfall, and a stock transfer would be faster than a new supplier order. Please approve the transfer and confirm when the additional units can arrive so that we can update the promotion display accurately.",
+    "facts": [
+      {
+        "label": "the stock shortfall",
+        "keys": [
+          "stock|promotion|short"
+        ]
+      },
+      {
+        "label": "the transfer details",
+        "keys": [
+          "transfer|branch|units"
+        ]
+      },
+      {
+        "label": "the delivery request",
+        "keys": [
+          "arrange|delivery|confirm"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-045",
+    "family": "workplace-045",
+    "title": "Reporting a phishing message",
+    "text": "The message claims to be from payroll and asks employees to enter their passwords through a link that does not use our normal company address. We have told staff not to follow the link, to report the message using the security tool, and to delete it after the report is submitted. Please investigate the message, block the sender where appropriate, and circulate a warning if the same attempt has reached other departments.",
+    "facts": [
+      {
+        "label": "the suspicious content",
+        "keys": [
+          "payroll|password|link"
+        ]
+      },
+      {
+        "label": "the staff response",
+        "keys": [
+          "avoid|report|delete"
+        ]
+      },
+      {
+        "label": "the security follow-up",
+        "keys": [
+          "block|investigate|warning"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-046",
+    "family": "workplace-046",
+    "title": "Proposing a shared calendar for equipment",
+    "text": "Two researchers recently reserved the same portable testing instrument for overlapping experiments because their teams were using separate booking records. A shared calendar with a named owner for every reservation would make availability visible and help us identify conflicts before experiments are planned. Please approve a trial of the shared calendar and nominate a colleague to check reservations and resolve any scheduling conflicts.",
+    "facts": [
+      {
+        "label": "the booking conflict",
+        "keys": [
+          "instrument|bookings|conflict"
+        ]
+      },
+      {
+        "label": "the shared system",
+        "keys": [
+          "calendar|shared|reservation"
+        ]
+      },
+      {
+        "label": "the trial request",
+        "keys": [
+          "trial|approve|calendar"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-047",
+    "family": "workplace-047",
+    "title": "Requesting a change to an interview time",
+    "text": "The interview time conflicts with a mandatory college examination, and I am unable to leave the examination before the scheduled finish. I remain very interested in the role and would appreciate the opportunity to attend the interview at a different time. I am available on either of the following two afternoons and would be happy to attend online if that would make rescheduling easier.",
+    "facts": [
+      {
+        "label": "the scheduling conflict",
+        "keys": [
+          "interview|examination|exam"
+        ]
+      },
+      {
+        "label": "the continued interest",
+        "keys": [
+          "interested|opportunity|role"
+        ]
+      },
+      {
+        "label": "the alternative availability",
+        "keys": [
+          "available|afternoon|alternative"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-048",
+    "family": "workplace-048",
+    "title": "Arranging the return of company equipment",
+    "text": "The departing employee needs to return a company laptop, its charger, and a security token after their final working day. We propose a tracked courier collection from their home, with suitable protective packaging supplied in advance and a record of the parcel contents. Please confirm the return checklist and coordinate the collection with the access removal process so that the equipment can be checked when it arrives.",
+    "facts": [
+      {
+        "label": "the items to return",
+        "keys": [
+          "laptop|token|equipment"
+        ]
+      },
+      {
+        "label": "the collection arrangements",
+        "keys": [
+          "courier|packaging|collection"
+        ]
+      },
+      {
+        "label": "the checklist confirmation",
+        "keys": [
+          "checklist|access|confirm"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-049",
+    "family": "workplace-049",
+    "title": "Notifying customers of planned maintenance",
+    "text": "The online booking system will be unavailable during a planned maintenance window from seven to eight on the evening specified in the service notice. Customers who need to make an urgent booking during that hour can contact our telephone team or send an email for manual handling. Please publish a clear notice on the booking page and send an advance message to customers who have appointments affected by the maintenance window.",
+    "facts": [
+      {
+        "label": "the maintenance period",
+        "keys": [
+          "maintenance|evening|unavailable"
+        ]
+      },
+      {
+        "label": "the customer alternative",
+        "keys": [
+          "telephone|email|booking"
+        ]
+      },
+      {
+        "label": "the communication request",
+        "keys": [
+          "notify|notice|publish"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-050",
+    "family": "workplace-050",
+    "title": "Request for an updated price list",
+    "text": "The price list in our shared folder is out of date, and I need the current figures before preparing a quotation for the new customer. Please include the latest unit prices, applicable discounts, tax treatment, and any delivery charges that should appear in the quotation. Could you send the updated list before tomorrow afternoon so that I can check the quotation before the customer presentation?",
+    "facts": [
+      {
+        "label": "the outdated document",
+        "keys": [
+          "price|outdated|list"
+        ]
+      },
+      {
+        "label": "the information required",
+        "keys": [
+          "discount|tax|delivery"
+        ]
+      },
+      {
+        "label": "the preparation deadline",
+        "keys": [
+          "send|before|deadline"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-051",
+    "family": "workplace-051",
+    "title": "Replacing damaged uniforms",
+    "text": "Several uniforms in the recent delivery have torn seams, making them unsuitable for staff to wear at the public event. I have listed the affected sizes and quantities and attached photographs showing the damage before any of the uniforms were worn. Please arrange replacements in the correct sizes before the event and confirm how the damaged garments should be returned.",
+    "facts": [
+      {
+        "label": "the quality problem",
+        "keys": [
+          "uniform|seams|torn"
+        ]
+      },
+      {
+        "label": "the affected quantities",
+        "keys": [
+          "sizes|quantity|photos"
+        ]
+      },
+      {
+        "label": "the replacement deadline",
+        "keys": [
+          "replace|event|before"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-052",
+    "family": "workplace-052",
+    "title": "Permission to attend an industry conference",
+    "text": "The conference includes sessions on the technology we plan to use in our next project, so attending would help us evaluate the available approaches. I have attached an estimate of the registration and travel costs, and a colleague has agreed to cover my urgent work while I am away. Please approve my attendance if the budget allows; I will prepare a short report and share the practical lessons with the team afterwards.",
+    "facts": [
+      {
+        "label": "the learning benefit",
+        "keys": [
+          "conference|project|learn"
+        ]
+      },
+      {
+        "label": "the cost and coverage",
+        "keys": [
+          "cost|cover|work"
+        ]
+      },
+      {
+        "label": "the approval and follow-up",
+        "keys": [
+          "approve|report|share"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-053",
+    "family": "workplace-053",
+    "title": "Disputed parking charge",
+    "text": "The vehicle received a parking charge even though a valid visitor permit was displayed for the full period of the meeting. I have attached the permit confirmation, a photograph taken on arrival, and the vehicle registration number so that the record can be checked. Please review the charge with the parking operator and let us know whether it can be cancelled without requiring the visitor to make a separate appeal.",
+    "facts": [
+      {
+        "label": "the disputed charge",
+        "keys": [
+          "parking|permit|charge"
+        ]
+      },
+      {
+        "label": "the supporting details",
+        "keys": [
+          "registration|photo|permit"
+        ]
+      },
+      {
+        "label": "the cancellation request",
+        "keys": [
+          "cancel|review|charge"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-054",
+    "family": "workplace-054",
+    "title": "Requesting captions for training videos",
+    "text": "Our training videos need accurate captions so that employees with hearing difficulties can access the same information as their colleagues. The safety and onboarding videos should be updated first because they contain information that every employee must understand before starting work. Please provide a timeline for adding and checking the captions, including a way for employees to report any errors in the finished material.",
+    "facts": [
+      {
+        "label": "the access need",
+        "keys": [
+          "captions|hearing|videos"
+        ]
+      },
+      {
+        "label": "the implementation priority",
+        "keys": [
+          "priority|safety|essential"
+        ]
+      },
+      {
+        "label": "the delivery plan",
+        "keys": [
+          "timeline|review|captions"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-055",
+    "family": "workplace-055",
+    "title": "Complaint about repeated internet interruptions",
+    "text": "The office internet connection has failed several times during working hours since the recent repair visit, disrupting customer calls and online transactions. We have attached an incident log showing the dates, times, and duration of each interruption, together with the reference number from the repair visit. Please investigate the underlying fault and arrange a lasting repair, with a named contact who can keep us informed of progress.",
+    "facts": [
+      {
+        "label": "the recurring failure",
+        "keys": [
+          "internet|connection|interrupt"
+        ]
+      },
+      {
+        "label": "the incident evidence",
+        "keys": [
+          "log|times|repair"
+        ]
+      },
+      {
+        "label": "the remedy requested",
+        "keys": [
+          "investigate|stable|repair"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-056",
+    "family": "workplace-056",
+    "title": "Explaining a change to a delivery method",
+    "text": "The usual delivery van is unavailable because of a mechanical fault, so we propose using a tracked courier service for the affected orders. The planned delivery dates can still be met, and we will provide tracking information without passing the additional courier cost to the customers. Please notify the affected customers of the change and confirm whether any delivery requires special handling or a different receiving contact.",
+    "facts": [
+      {
+        "label": "the change of method",
+        "keys": [
+          "courier|vehicle|van"
+        ]
+      },
+      {
+        "label": "the service commitment",
+        "keys": [
+          "tracking|date|cost"
+        ]
+      },
+      {
+        "label": "the customer notice",
+        "keys": [
+          "inform|notify|confirm"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-057",
+    "family": "workplace-057",
+    "title": "Asking for feedback on a draft policy",
+    "text": "I would like managers to review the draft remote-work policy before it is finalised, with particular attention to how it will work in their departments. Please comment on equipment provision, information security, and the expected availability of staff during agreed working hours. Please return your comments by the end of next week so that we can resolve the main issues before submitting the policy for approval.",
+    "facts": [
+      {
+        "label": "the review purpose",
+        "keys": [
+          "draft|policy|feedback"
+        ]
+      },
+      {
+        "label": "the areas to consider",
+        "keys": [
+          "equipment|security|availability"
+        ]
+      },
+      {
+        "label": "the response deadline",
+        "keys": [
+          "comments|deadline|review"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-058",
+    "family": "workplace-058",
+    "title": "Seeking a sponsor for a student event",
+    "text": "The student group is organising a technology event that will give local students practical demonstrations and opportunities to meet employers. They have asked our company to cover part of the venue cost in return for acknowledgement in the event programme and space for a small information stand. Please review the proposal and confirm whether it fits our community budget, or suggest another form of support we could offer.",
+    "facts": [
+      {
+        "label": "the event purpose",
+        "keys": [
+          "students|technology|event"
+        ]
+      },
+      {
+        "label": "the sponsorship proposal",
+        "keys": [
+          "venue|sponsor|cost"
+        ]
+      },
+      {
+        "label": "the decision requested",
+        "keys": [
+          "review|approve|budget"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-059",
+    "family": "workplace-059",
+    "title": "Requesting an extension to a customer survey",
+    "text": "The customer survey has received fewer responses than expected, which may make the planned comparison between customer groups unreliable. I propose extending the survey by one week and sending a single polite reminder to customers who have not yet responded. Please approve the extension and confirm whether the final report can be delivered one week later than originally agreed.",
+    "facts": [
+      {
+        "label": "the response shortage",
+        "keys": [
+          "survey|responses|few"
+        ]
+      },
+      {
+        "label": "the proposed improvement",
+        "keys": [
+          "reminder|extend|week"
+        ]
+      },
+      {
+        "label": "the revised reporting date",
+        "keys": [
+          "report|date|approve"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-060",
+    "family": "workplace-060",
+    "title": "Reporting a misplaced stock label",
+    "text": "The shelf label identifies the wrong product, and staff have used it to select incorrect items for several orders prepared this morning. We have stopped picking from that shelf, checked the affected orders, and replaced the label after verifying the stock codes against the inventory record. Please arrange a check of the nearby shelves and remind the team to verify product codes whenever labels are moved or replaced.",
+    "facts": [
+      {
+        "label": "the labelling error",
+        "keys": [
+          "label|shelf|product"
+        ]
+      },
+      {
+        "label": "the immediate correction",
+        "keys": [
+          "check|relabel|orders"
+        ]
+      },
+      {
+        "label": "the follow-up check",
+        "keys": [
+          "audit|check|labels"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-061",
+    "family": "workplace-061",
+    "title": "Introducing a new account contact",
+    "text": "The customer's current account contact is moving to another role, and a colleague from the same team will take over responsibility for the account. The outgoing contact will share the open orders, recent decisions, and agreed service commitments so that current work can continue without interruption. Please arrange a short introductory call and send the customer the new colleague's contact details before the handover is completed.",
+    "facts": [
+      {
+        "label": "the change of contact",
+        "keys": [
+          "contact|take|role"
+        ]
+      },
+      {
+        "label": "the continuity arrangements",
+        "keys": [
+          "handover|orders|continue"
+        ]
+      },
+      {
+        "label": "the introduction meeting",
+        "keys": [
+          "introduce|meeting|contact"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-062",
+    "family": "workplace-062",
+    "title": "Requesting a safer cycle parking area",
+    "text": "Employees have reported that the bicycle parking area is frequently full and poorly lit, especially when they leave after evening shifts. We suggest adding more secure bicycle racks and improving the lighting along the route between the parking area and the building entrance. Please assess the available space and cost of these improvements and tell us whether a temporary solution can be provided while the work is planned.",
+    "facts": [
+      {
+        "label": "the current problem",
+        "keys": [
+          "bicycle|parking|lighting"
+        ]
+      },
+      {
+        "label": "the proposed improvements",
+        "keys": [
+          "lights|racks|secure"
+        ]
+      },
+      {
+        "label": "the assessment request",
+        "keys": [
+          "assess|cost|review"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-063",
+    "family": "workplace-063",
+    "title": "Correcting a customer name on a certificate",
+    "text": "The customer's surname is misspelled on their course completion certificate, even though the registration record contains the correct spelling. I have attached the registration confirmation and the customer's correction request so that the name can be checked against the existing record. Please issue a corrected certificate as soon as possible because the customer needs to submit it with a job application later this week.",
+    "facts": [
+      {
+        "label": "the certificate error",
+        "keys": [
+          "name|spelling|certificate"
+        ]
+      },
+      {
+        "label": "the identity evidence",
+        "keys": [
+          "registration|correct|details"
+        ]
+      },
+      {
+        "label": "the urgent replacement",
+        "keys": [
+          "replace|certificate|application"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-064",
+    "family": "workplace-064",
+    "title": "Proposing a simpler approval process",
+    "text": "Small routine purchases are taking too long because they follow the same multi-stage approval process used for major equipment orders. We suggest allowing department managers to approve purchases below a clearly defined limit, provided the spending is within an existing budget. Please approve a limited trial with a recorded purchase log and a monthly review so that speed improves without losing financial oversight.",
+    "facts": [
+      {
+        "label": "the delay identified",
+        "keys": [
+          "small|purchases|approval"
+        ]
+      },
+      {
+        "label": "the proposed threshold",
+        "keys": [
+          "limit|budget|manager"
+        ]
+      },
+      {
+        "label": "the control and trial",
+        "keys": [
+          "audit|trial|record"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-065",
+    "family": "workplace-065",
+    "title": "Reporting an unexpected laboratory result",
+    "text": "One test result is far outside the expected range, while the other samples in the same batch are consistent with the earlier measurements. We have repeated the test, checked the instrument calibration, and reviewed the sample label, but the unusual result remains unchanged. Please review the evidence and advise whether further testing is required before we communicate the result to the client.",
+    "facts": [
+      {
+        "label": "the unusual result",
+        "keys": [
+          "result|range|unexpected"
+        ]
+      },
+      {
+        "label": "the verification performed",
+        "keys": [
+          "repeat|calibration|check"
+        ]
+      },
+      {
+        "label": "the next decision",
+        "keys": [
+          "review|investigate|client"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-066",
+    "family": "workplace-066",
+    "title": "Organising an employee skills exchange",
+    "text": "Several colleagues have offered to share practical skills such as spreadsheet shortcuts, presentation design, and basic troubleshooting with the wider team. We propose one short lunchtime session each month, with voluntary attendance and a simple list of upcoming topics circulated in advance. Please approve the pilot programme and allow us to reserve a room and appoint a coordinator to collect topics and organise speakers.",
+    "facts": [
+      {
+        "label": "the learning opportunity",
+        "keys": [
+          "skills|share|colleagues"
+        ]
+      },
+      {
+        "label": "the session format",
+        "keys": [
+          "short|monthly|session"
+        ]
+      },
+      {
+        "label": "the support requested",
+        "keys": [
+          "approve|room|coordinate"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-067",
+    "family": "workplace-067",
+    "title": "Requesting a backup transport plan",
+    "text": "The announced rail strike may prevent several employees from reaching the regional customer meeting at the agreed time. A shared minibus is available within the travel budget, while employees who cannot travel could join through a tested video connection. Please confirm which option we should use before the transport reservation deadline so that all participants receive a clear travel plan.",
+    "facts": [
+      {
+        "label": "the travel risk",
+        "keys": [
+          "strike|train|meeting"
+        ]
+      },
+      {
+        "label": "the available options",
+        "keys": [
+          "minibus|remote|alternative"
+        ]
+      },
+      {
+        "label": "the booking decision",
+        "keys": [
+          "confirm|book|decision"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-068",
+    "family": "workplace-068",
+    "title": "Improving the reception queue",
+    "text": "Visitors are waiting too long at reception because each arrival requires several manual checks and the desk handles only one visitor at a time. We suggest allowing hosts to pre-register expected visitors so that reception can prepare badges and complete the remaining identity check more quickly. Please approve a small pilot and measure waiting times and visitor feedback before deciding whether to use the approach throughout the building.",
+    "facts": [
+      {
+        "label": "the waiting problem",
+        "keys": [
+          "queue|wait|reception"
+        ]
+      },
+      {
+        "label": "the proposed change",
+        "keys": [
+          "pre-register|registration|check"
+        ]
+      },
+      {
+        "label": "the pilot review",
+        "keys": [
+          "pilot|measure|feedback"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-069",
+    "family": "workplace-069",
+    "title": "Request for a revised research quotation",
+    "text": "The quotation includes telephone interviews that we do not need, while the required group of recently joined customers is missing from the sample. We need an online survey covering both long-standing and recently joined customers, with the results reported separately for each group. Please send a revised proposal showing the updated sample, total cost, and delivery timeline so that we can compare it fairly with the other offers.",
+    "facts": [
+      {
+        "label": "the scope mismatch",
+        "keys": [
+          "quotation|scope|group"
+        ]
+      },
+      {
+        "label": "the revised requirements",
+        "keys": [
+          "online|sample|customers"
+        ]
+      },
+      {
+        "label": "the updated proposal",
+        "keys": [
+          "revised|cost|timeline"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-070",
+    "family": "workplace-070",
+    "title": "Restoring access after a role change",
+    "text": "The employee still has access to folders from their former department but cannot open several files required for their new responsibilities. The new manager has approved the required permissions, and the former department has confirmed which access rights should be removed. Please update the permissions using the attached approvals and confirm the changes so that the employee can begin work in the new role.",
+    "facts": [
+      {
+        "label": "the access mismatch",
+        "keys": [
+          "access|old|new"
+        ]
+      },
+      {
+        "label": "the authorised permissions",
+        "keys": [
+          "manager|approval|permissions"
+        ]
+      },
+      {
+        "label": "the access update",
+        "keys": [
+          "remove|grant|update"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-071",
+    "family": "workplace-071",
+    "title": "Requesting a customer testimonial",
+    "text": "We would like permission to use a short quotation from the customer's positive project feedback in our company case study. The quotation would appear on our website with the customer's company name, and we would send the exact wording for approval before publication. Please contact the customer's authorised representative and record their written permission, including any restrictions on how the quotation may be used.",
+    "facts": [
+      {
+        "label": "the testimonial request",
+        "keys": [
+          "testimonial|quote|feedback"
+        ]
+      },
+      {
+        "label": "the proposed use",
+        "keys": [
+          "website|name|approval"
+        ]
+      },
+      {
+        "label": "the consent process",
+        "keys": [
+          "permission|consent|approve"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-072",
+    "family": "workplace-072",
+    "title": "Changing an event registration deadline",
+    "text": "The venue now needs our final attendance list three days earlier than expected so that its security team can prepare visitor passes. We should inform everyone invited, send a reminder before the revised deadline, and explain that late registrations may need separate approval. Please approve the revised registration date and confirm how we should handle essential attendees who cannot respond in time.",
+    "facts": [
+      {
+        "label": "the earlier deadline",
+        "keys": [
+          "venue|list|deadline"
+        ]
+      },
+      {
+        "label": "the communication plan",
+        "keys": [
+          "registrants|reminder|inform"
+        ]
+      },
+      {
+        "label": "the decision requested",
+        "keys": [
+          "approve|exception|confirm"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-073",
+    "family": "workplace-073",
+    "title": "Reporting a broken temperature alarm",
+    "text": "The temperature alarm is not working, even though the refrigeration unit is maintaining the room within the required range. Until the alarm is repaired, a staff member will record the temperature manually every hour and report any movement outside the safe range. Please arrange an urgent technician visit and confirm whether any additional precautions are required while we rely on manual monitoring.",
+    "facts": [
+      {
+        "label": "the alarm failure",
+        "keys": [
+          "alarm|temperature|failed"
+        ]
+      },
+      {
+        "label": "the temporary monitoring",
+        "keys": [
+          "manual|hour|log"
+        ]
+      },
+      {
+        "label": "the repair request",
+        "keys": [
+          "repair|urgent|technician"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-074",
+    "family": "workplace-074",
+    "title": "Requesting permission to reuse a photograph",
+    "text": "We would like to reuse a photograph from the previous company event in the new recruitment brochure and its online version. Before publication, we need to check the photographer's licence and confirm that the people shown gave permission for this type of use. Please confirm whether the photograph is cleared for reuse or recommend an alternative image that has the necessary permissions.",
+    "facts": [
+      {
+        "label": "the intended use",
+        "keys": [
+          "photo|recruitment|brochure"
+        ]
+      },
+      {
+        "label": "the consent check",
+        "keys": [
+          "consent|photographer|permission"
+        ]
+      },
+      {
+        "label": "the approval request",
+        "keys": [
+          "approve|alternative|confirm"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-075",
+    "family": "workplace-075",
+    "title": "Organising a service review with a supplier",
+    "text": "The cleaning supplier has met most contract targets, but the staff kitchen checks have repeatedly been missed during the evening service. Our inspection log includes the dates and photographs of the missed checks, along with the earlier reminders sent to the supplier's supervisor. Please arrange a service review and agree a measurable improvement plan with a follow-up inspection date.",
+    "facts": [
+      {
+        "label": "the performance concern",
+        "keys": [
+          "cleaning|kitchen|checks"
+        ]
+      },
+      {
+        "label": "the supporting record",
+        "keys": [
+          "log|photos|dates"
+        ]
+      },
+      {
+        "label": "the review meeting",
+        "keys": [
+          "review|meeting|improvement"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-076",
+    "family": "workplace-076",
+    "title": "Requesting an ergonomic workstation review",
+    "text": "The employee has reported wrist and shoulder discomfort since their desk was moved and the workstation layout changed. We have adjusted the chair and screen position and encouraged regular short breaks, but the employee would benefit from a professional assessment. Please arrange an ergonomic workstation review and advise whether any equipment or further adjustments are needed.",
+    "facts": [
+      {
+        "label": "the reported discomfort",
+        "keys": [
+          "discomfort|desk|workstation"
+        ]
+      },
+      {
+        "label": "the temporary adjustments",
+        "keys": [
+          "chair|screen|breaks"
+        ]
+      },
+      {
+        "label": "the assessment request",
+        "keys": [
+          "assess|review|ergonomic"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-077",
+    "family": "workplace-077",
+    "title": "Explaining why a lower-cost supplier was rejected",
+    "text": "The cheaper packaging did not meet the required strength tests, so it would have increased the risk of damage during transport. The selected supplier also demonstrated more reliable delivery performance, which is essential because the production schedule leaves little spare stock. Although the purchase price is higher, we expect fewer damaged goods and delivery interruptions to reduce the overall cost of using the packaging.",
+    "facts": [
+      {
+        "label": "the quality comparison",
+        "keys": [
+          "quality|strength|cheaper"
+        ]
+      },
+      {
+        "label": "the reliability comparison",
+        "keys": [
+          "delivery|reliable|schedule"
+        ]
+      },
+      {
+        "label": "the overall value",
+        "keys": [
+          "cost|damage|value"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-078",
+    "family": "workplace-078",
+    "title": "Requesting a temporary recruitment freeze exception",
+    "text": "The vacant role is essential to maintaining the customer service schedule, and the remaining staff cannot cover it indefinitely without reducing service hours. We have considered redistributing duties and using temporary cover, but neither option provides the required specialist skills within the available budget. Please approve an exception for this vacancy and confirm the evidence required to begin recruitment under the current restrictions.",
+    "facts": [
+      {
+        "label": "the business need",
+        "keys": [
+          "vacancy|critical|service"
+        ]
+      },
+      {
+        "label": "the alternatives considered",
+        "keys": [
+          "temporary|overtime|redistribute"
+        ]
+      },
+      {
+        "label": "the exception request",
+        "keys": [
+          "exception|recruit|approve"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-079",
+    "family": "workplace-079",
+    "title": "Inviting a customer to test a prototype",
+    "text": "We would like a small customer group to test the prototype and give feedback before the final design is approved for development. Each participant would attend a one-hour session, complete a few realistic tasks, and agree to keep the unreleased design confidential. Please invite suitable customers, explain the participation requirements, and collect their consent before confirming the testing schedule.",
+    "facts": [
+      {
+        "label": "the testing purpose",
+        "keys": [
+          "prototype|feedback|design"
+        ]
+      },
+      {
+        "label": "the participation details",
+        "keys": [
+          "session|tasks|confidential"
+        ]
+      },
+      {
+        "label": "the recruitment request",
+        "keys": [
+          "invite|consent|participants"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-080",
+    "family": "workplace-080",
+    "title": "Requesting a delivery status update",
+    "text": "The production line cannot restart until the replacement part arrives, so the delay is affecting the day's planned output. The part was ordered under reference 782 and was expected yesterday, but the dispatch confirmation does not include a working tracking number. Please provide the current delivery status and a confirmed arrival time, and tell us whether an expedited shipment is possible.",
+    "facts": [
+      {
+        "label": "the urgent need",
+        "keys": [
+          "part|production|restart"
+        ]
+      },
+      {
+        "label": "the order information",
+        "keys": [
+          "order|dispatch|tracking"
+        ]
+      },
+      {
+        "label": "the update required",
+        "keys": [
+          "status|arrival|expedite"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-081",
+    "family": "workplace-081",
+    "title": "Reporting an error in a customer dashboard",
+    "text": "The dashboard overstates sales because the latest two data imports contain overlapping records that have been counted twice. We have paused the scheduled report, identified the duplicate records, and informed the colleagues who had already downloaded the affected figures. Please approve a validation check before future imports and confirm who will review the corrected totals before the dashboard is republished.",
+    "facts": [
+      {
+        "label": "the reporting error",
+        "keys": [
+          "duplicate|sales|dashboard"
+        ]
+      },
+      {
+        "label": "the containment step",
+        "keys": [
+          "pause|correct|notify"
+        ]
+      },
+      {
+        "label": "the prevention plan",
+        "keys": [
+          "validation|check|import"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-082",
+    "family": "workplace-082",
+    "title": "Requesting a larger meeting room",
+    "text": "The confirmed attendance is now higher than the capacity of the room originally booked for the client planning workshop. We need a larger room with a projector, movable seating, and space for small-group discussions during the practical planning activity. Please change the reservation and send the new room details so that we can update the invitations before the participants travel.",
+    "facts": [
+      {
+        "label": "the capacity problem",
+        "keys": [
+          "capacity|attendees|room"
+        ]
+      },
+      {
+        "label": "the room requirements",
+        "keys": [
+          "projector|seating|groups"
+        ]
+      },
+      {
+        "label": "the booking update",
+        "keys": [
+          "change|book|inform"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-083",
+    "family": "workplace-083",
+    "title": "Clarifying responsibility for a shared task",
+    "text": "The customer update was not sent because each department believed the other team was responsible for preparing and issuing it. We have now prepared a joint update and agreed who will send it to the customer after the content is checked. Please assign a named owner for each future update and add the responsibility to the shared delivery checklist.",
+    "facts": [
+      {
+        "label": "the ownership gap",
+        "keys": [
+          "responsibility|update|missed"
+        ]
+      },
+      {
+        "label": "the immediate solution",
+        "keys": [
+          "draft|send|customer"
+        ]
+      },
+      {
+        "label": "the future agreement",
+        "keys": [
+          "owner|checklist|responsibility"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-084",
+    "family": "workplace-084",
+    "title": "Requesting a replacement access card",
+    "text": "The employee's access card is physically damaged and no longer opens the secure doors, although their access permissions have not changed. The manager can confirm the employee's identity, and we have arranged escorted access until a temporary pass or replacement is available. Please deactivate the damaged card and issue a replacement or temporary pass, with instructions for collecting it securely.",
+    "facts": [
+      {
+        "label": "the damaged card",
+        "keys": [
+          "card|damaged|access"
+        ]
+      },
+      {
+        "label": "the identity and temporary cover",
+        "keys": [
+          "identity|temporary|escort"
+        ]
+      },
+      {
+        "label": "the replacement request",
+        "keys": [
+          "replace|deactivate|pass"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-085",
+    "family": "workplace-085",
+    "title": "Requesting an updated project risk register",
+    "text": "Recent supplier and staffing changes may affect the project schedule, but the risk register still reflects the assumptions from the previous planning stage. The review should update each risk's likelihood, impact, mitigation plan, and named owner, with particular attention to dependencies on external teams. Please arrange a risk review before the next sponsor meeting so that the project forecast and escalation decisions use current information.",
+    "facts": [
+      {
+        "label": "the need for review",
+        "keys": [
+          "risk|changes|review"
+        ]
+      },
+      {
+        "label": "the information to update",
+        "keys": [
+          "likelihood|impact|owner"
+        ]
+      },
+      {
+        "label": "the review date",
+        "keys": [
+          "meeting|update|deadline"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-086",
+    "family": "workplace-086",
+    "title": "Seeking approval for a team skills assessment",
+    "text": "We would like to assess the team's current skills before buying courses, so that the training budget addresses real gaps rather than repeating familiar material. The assessment would combine a short self-review with a few practical tasks linked to the work employees actually perform. Please approve this approach and confirm how the results should be used to create individual development plans without ranking employees publicly.",
+    "facts": [
+      {
+        "label": "the assessment purpose",
+        "keys": [
+          "skills|gaps|training"
+        ]
+      },
+      {
+        "label": "the proposed approach",
+        "keys": [
+          "survey|practical|tasks"
+        ]
+      },
+      {
+        "label": "the approval request",
+        "keys": [
+          "approve|results|development"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-087",
+    "family": "workplace-087",
+    "title": "Reporting an unsafe loading practice",
+    "text": "The contractor unloaded heavy boxes without the required lifting equipment, creating a risk of injury to both their staff and our receiving team. We stopped the unloading activity and asked the contractor to provide the correct equipment before continuing in the designated loading area. Please review the incident with the contractor and confirm the safety briefing and supervision required for future deliveries.",
+    "facts": [
+      {
+        "label": "the unsafe activity",
+        "keys": [
+          "lifting|heavy|equipment"
+        ]
+      },
+      {
+        "label": "the immediate intervention",
+        "keys": [
+          "stopped|unloading|safe"
+        ]
+      },
+      {
+        "label": "the follow-up requirement",
+        "keys": [
+          "review|contractor|training"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-088",
+    "family": "workplace-088",
+    "title": "Requesting confirmation of a reservation",
+    "text": "We have paid the deposit for the training event, but we have not yet received a final confirmation covering the room and accommodation reservations. Please verify the event date, number of bedrooms, training-room layout, and audiovisual equipment against the booking form attached to this email. Please send the written confirmation and deposit receipt so that we can issue the participants' travel instructions with confidence.",
+    "facts": [
+      {
+        "label": "the unconfirmed booking",
+        "keys": [
+          "booking|deposit|confirmation"
+        ]
+      },
+      {
+        "label": "the details to verify",
+        "keys": [
+          "date|rooms|equipment"
+        ]
+      },
+      {
+        "label": "the written confirmation",
+        "keys": [
+          "written|confirm|receipt"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-089",
+    "family": "workplace-089",
+    "title": "Requesting a product accessibility review",
+    "text": "The prototype uses small buttons and low-contrast text in several important screens, which may make the application difficult for some customers to use. The review should check text readability, keyboard and assistive-technology navigation, and whether controls remain usable when the display size is increased. Please arrange an accessibility review before development is completed and identify the changes that should be prioritised in the next design revision.",
+    "facts": [
+      {
+        "label": "the usability concerns",
+        "keys": [
+          "contrast|buttons|accessibility"
+        ]
+      },
+      {
+        "label": "the review priorities",
+        "keys": [
+          "navigation|text|assistive"
+        ]
+      },
+      {
+        "label": "the next step",
+        "keys": [
+          "review|test|improve"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-090",
+    "family": "workplace-090",
+    "title": "Proposing a way to reduce missed appointments",
+    "text": "A growing number of clients are missing appointments without cancelling, which leaves staff time unused and reduces availability for other clients. We propose sending a simple reminder in advance with a clear way to confirm or cancel the appointment. Please approve a short trial and compare attendance rates, cancellations, and customer feedback before expanding the reminder service.",
+    "facts": [
+      {
+        "label": "the attendance problem",
+        "keys": [
+          "missed|appointments|forget"
+        ]
+      },
+      {
+        "label": "the reminder proposal",
+        "keys": [
+          "reminder|text|cancel"
+        ]
+      },
+      {
+        "label": "the trial evaluation",
+        "keys": [
+          "trial|measure|attendance"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-091",
+    "family": "workplace-091",
+    "title": "Requesting a customer complaint review",
+    "text": "The customer's complaint has been passed between several departments, and no single person has taken responsibility for providing a complete response. I have prepared a timeline of the customer's messages and the actions already taken so that the next reviewer can see the full history. Please assign one case owner and agree a response deadline, with a clear escalation route if the proposed resolution cannot be approved.",
+    "facts": [
+      {
+        "label": "the handling problem",
+        "keys": [
+          "complaint|departments|response"
+        ]
+      },
+      {
+        "label": "the background provided",
+        "keys": [
+          "timeline|messages|summary"
+        ]
+      },
+      {
+        "label": "the ownership request",
+        "keys": [
+          "owner|respond|resolve"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-092",
+    "family": "workplace-092",
+    "title": "Requesting a change to a purchase order",
+    "text": "The component specification has changed since the purchase order was issued, and the revised drawing replaces the version originally sent to the supplier. The supplier has confirmed that production has not started, so the change can still be made without discarding completed parts. Please amend the purchase order, send the revised drawing, and obtain written confirmation of any change to the price or delivery date.",
+    "facts": [
+      {
+        "label": "the specification change",
+        "keys": [
+          "specification|component|change"
+        ]
+      },
+      {
+        "label": "the production status",
+        "keys": [
+          "production|not|started"
+        ]
+      },
+      {
+        "label": "the amendment request",
+        "keys": [
+          "amend|update|order"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-093",
+    "family": "workplace-093",
+    "title": "Thanking a team after an urgent repair",
+    "text": "Your team worked beyond its normal hours to repair the electrical fault and restore power before our office reopened the next morning. This effort allowed us to keep our customer appointments and prevented a full day of disruption to normal office operations. Please pass on our thanks to everyone involved; we would also welcome a short maintenance summary to help us prevent a similar fault.",
+    "facts": [
+      {
+        "label": "the assistance provided",
+        "keys": [
+          "power|repair|restored"
+        ]
+      },
+      {
+        "label": "the effect of the work",
+        "keys": [
+          "customers|operations|disruption"
+        ]
+      },
+      {
+        "label": "the appreciation and follow-up",
+        "keys": [
+          "thank|appreciate|feedback"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-094",
+    "family": "workplace-094",
+    "title": "Inviting a partner to a planning workshop",
+    "text": "We would like your team to join a planning workshop focused on improving the customer service process that our organisations manage together. Please bring recent service data and examples of the issues that create delays or repeated contacts for customers. Please confirm which representatives can attend and whether the proposed workshop date is suitable for your operational team.",
+    "facts": [
+      {
+        "label": "the workshop objective",
+        "keys": [
+          "workshop|process|customer"
+        ]
+      },
+      {
+        "label": "the preparation requested",
+        "keys": [
+          "examples|data|issues"
+        ]
+      },
+      {
+        "label": "the attendance confirmation",
+        "keys": [
+          "confirm|attend|representative"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-095",
+    "family": "workplace-095",
+    "title": "Requesting a review of a public sign",
+    "text": "Visitors are following the temporary entrance sign towards a closed corridor, which suggests that the current wording or arrow is unclear. We suggest replacing the sign with a simpler instruction, a clearer arrow, and a small map showing the route from the main gate. Please review the new sign with someone unfamiliar with the building and arrange replacement once the route can be followed without assistance.",
+    "facts": [
+      {
+        "label": "the sign confusion",
+        "keys": [
+          "sign|entrance|confused"
+        ]
+      },
+      {
+        "label": "the proposed correction",
+        "keys": [
+          "arrow|map|wording"
+        ]
+      },
+      {
+        "label": "the check requested",
+        "keys": [
+          "test|check|replace"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-096",
+    "family": "workplace-096",
+    "title": "Requesting a quality check before dispatch",
+    "text": "The batch is ready for dispatch, but the final inspection record has not been signed by the authorised quality reviewer. We should hold the shipment until the check is complete, because releasing it now would leave us unable to demonstrate that the required quality controls were followed. Please arrange an authorised reviewer as soon as possible and confirm when the batch can be released to the dispatch team.",
+    "facts": [
+      {
+        "label": "the missing inspection",
+        "keys": [
+          "inspection|sign|record"
+        ]
+      },
+      {
+        "label": "the shipment risk",
+        "keys": [
+          "dispatch|hold|quality"
+        ]
+      },
+      {
+        "label": "the urgent review",
+        "keys": [
+          "review|check|release"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-097",
+    "family": "workplace-097",
+    "title": "Requesting a secure file transfer method",
+    "text": "The customer needs a large confidential design file that exceeds the limit for ordinary email attachments. The transfer method should provide encryption, access limited to the named recipient, and an expiry date after which the link stops working. Please recommend an approved file-transfer service and confirm any checks required before we upload the design file.",
+    "facts": [
+      {
+        "label": "the transfer need",
+        "keys": [
+          "confidential|large|file"
+        ]
+      },
+      {
+        "label": "the security requirements",
+        "keys": [
+          "encrypted|access|expiry"
+        ]
+      },
+      {
+        "label": "the approved method",
+        "keys": [
+          "approved|method|transfer"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-098",
+    "family": "workplace-098",
+    "title": "Requesting a revised service-level target",
+    "text": "The current response-time target does not distinguish between routine questions and urgent service failures, so critical cases may wait behind simple enquiries. We propose separate priority categories with a faster response for service failures that prevent customers from operating. Please review the proposed categories and agree realistic response targets with the teams who will be responsible for meeting them.",
+    "facts": [
+      {
+        "label": "the target problem",
+        "keys": [
+          "urgent|routine|response"
+        ]
+      },
+      {
+        "label": "the priority proposal",
+        "keys": [
+          "priority|critical|categories"
+        ]
+      },
+      {
+        "label": "the agreement request",
+        "keys": [
+          "agree|review|targets"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-099",
+    "family": "workplace-099",
+    "title": "Reporting damaged reusable packaging",
+    "text": "Several reusable transport boxes have returned with damaged hinges, so they cannot safely protect the goods in the next shipment. We have separated the damaged boxes and checked the spare stock, but a shortage may occur unless repairs or replacements are arranged soon. Please arrange inspection of the damaged boxes and agree a repair or replacement plan with the packaging supplier.",
+    "facts": [
+      {
+        "label": "the packaging damage",
+        "keys": [
+          "boxes|hinges|damaged"
+        ]
+      },
+      {
+        "label": "the stock impact",
+        "keys": [
+          "spare|shortage|repair"
+        ]
+      },
+      {
+        "label": "the recovery plan",
+        "keys": [
+          "repair|replace|inspect"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-100",
+    "family": "workplace-100",
+    "title": "Requesting a single source for customer documents",
+    "text": "The sales and support teams are using different versions of the product document, which has led to inconsistent answers to customer questions. We suggest a central location for the approved current version, with older files archived and clearly labelled so that they cannot be mistaken for live guidance. Please appoint a document owner and agree the approval process for future changes before we move the files into the shared location.",
+    "facts": [
+      {
+        "label": "the version conflict",
+        "keys": [
+          "versions|document|different"
+        ]
+      },
+      {
+        "label": "the shared source proposal",
+        "keys": [
+          "central|current|archive"
+        ]
+      },
+      {
+        "label": "the ownership decision",
+        "keys": [
+          "owner|update|approve"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-101",
+    "family": "workplace-101",
+    "title": "Explaining a cancelled outdoor activity",
+    "text": "The outdoor activity must be cancelled because the weather warning creates a safety risk for participants travelling to and using the site. An indoor team activity is available at the office during the same time slot, so employees can still take part without arranging extra travel. Please inform the attendees of the revised plan and confirm whether any prepaid travel or activity costs can be refunded.",
+    "facts": [
+      {
+        "label": "the reason for cancellation",
+        "keys": [
+          "weather|warning|safety"
+        ]
+      },
+      {
+        "label": "the indoor alternative",
+        "keys": [
+          "indoor|alternative|activity"
+        ]
+      },
+      {
+        "label": "the attendee message",
+        "keys": [
+          "notify|inform|refund"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-102",
+    "family": "workplace-102",
+    "title": "Requesting a review of customer consent forms",
+    "text": "The new registration form requests personal information that does not appear necessary for delivering the service described to customers. Please review whether the full date of birth and home address are required, and whether any remaining optional fields are clearly identified. Please approve a revised form that explains why each required field is collected and records the customer's consent where it is needed.",
+    "facts": [
+      {
+        "label": "the information concern",
+        "keys": [
+          "personal|data|unnecessary"
+        ]
+      },
+      {
+        "label": "the fields to review",
+        "keys": [
+          "birth|address|optional"
+        ]
+      },
+      {
+        "label": "the approved revision",
+        "keys": [
+          "revise|consent|purpose"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-103",
+    "family": "workplace-103",
+    "title": "Requesting a rehearsal for a joint presentation",
+    "text": "The presentation includes speakers from several departments, and we need to rehearse the transitions so that the customer sees a clear, coordinated message. The rehearsal should check the total timing, remove repeated content from the slides, and agree who will answer questions about each topic. Please schedule a rehearsal before the customer meeting and ask every speaker to attend with their final slides.",
+    "facts": [
+      {
+        "label": "the coordination need",
+        "keys": [
+          "speakers|transitions|presentation"
+        ]
+      },
+      {
+        "label": "the rehearsal agenda",
+        "keys": [
+          "timing|slides|questions"
+        ]
+      },
+      {
+        "label": "the session request",
+        "keys": [
+          "rehearsal|schedule|attend"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-104",
+    "family": "workplace-104",
+    "title": "Requesting a replacement examination venue",
+    "text": "The planned assessment room is next to ongoing construction work, and the noise could prevent candidates from hearing instructions or concentrating on their answers. We need a quiet room with enough working computers, reliable internet access, and suitable spacing between candidates. Please confirm an alternative venue and arrange a short equipment check before we send the updated assessment instructions.",
+    "facts": [
+      {
+        "label": "the unsuitable environment",
+        "keys": [
+          "noise|construction|assessment"
+        ]
+      },
+      {
+        "label": "the alternative requirements",
+        "keys": [
+          "quiet|computers|connection"
+        ]
+      },
+      {
+        "label": "the relocation request",
+        "keys": [
+          "move|confirm|venue"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-105",
+    "family": "workplace-105",
+    "title": "Requesting approval for a spare-parts reserve",
+    "text": "Several repairs have been delayed while we wait for inexpensive replacement parts, even though the repair itself takes only a short time. We propose keeping a small reserve of the most commonly used parts, with minimum stock levels based on the recent maintenance records. Please approve a limited budget for the reserve and review stock use after three months to check that the approach is worthwhile.",
+    "facts": [
+      {
+        "label": "the repeated delay",
+        "keys": [
+          "parts|repair|wait"
+        ]
+      },
+      {
+        "label": "the proposed reserve",
+        "keys": [
+          "stock|spare|common"
+        ]
+      },
+      {
+        "label": "the budget request",
+        "keys": [
+          "budget|approve|review"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-106",
+    "family": "workplace-106",
+    "title": "Requesting a revised quotation for event insurance",
+    "text": "The event has changed to a public outdoor demonstration, which introduces risks that were not included in the original indoor-meeting quotation. I have attached the revised attendance estimate, location plan, and list of demonstration equipment for you to review. Please provide a revised quotation and confirm any exclusions or safety conditions that must be met before the event can proceed.",
+    "facts": [
+      {
+        "label": "the change in risk",
+        "keys": [
+          "outdoor|public|event"
+        ]
+      },
+      {
+        "label": "the updated information",
+        "keys": [
+          "attendance|equipment|location"
+        ]
+      },
+      {
+        "label": "the coverage confirmation",
+        "keys": [
+          "cover|revised|quotation"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-107",
+    "family": "workplace-107",
+    "title": "Requesting a simpler customer feedback form",
+    "text": "Many customers begin the feedback form but do not finish it, and several have said that it is too long and asks similar questions more than once. We suggest a shorter form that keeps the essential service questions and removes repeated or optional questions that do not support a current decision. Please test the revised form with a small customer group and compare completion rates before replacing the existing version.",
+    "facts": [
+      {
+        "label": "the completion problem",
+        "keys": [
+          "form|long|abandon"
+        ]
+      },
+      {
+        "label": "the proposed revision",
+        "keys": [
+          "shorter|remove|questions"
+        ]
+      },
+      {
+        "label": "the testing request",
+        "keys": [
+          "test|compare|completion"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-108",
+    "family": "workplace-108",
+    "title": "Requesting confirmation of a research data source",
+    "text": "The two market reports give different figures for the same period, and the difference is large enough to affect the conclusion in our client document. We should compare the reports' publication dates, definitions, geographical coverage, and collection methods before choosing a figure. Please confirm which source should be cited and whether the final document should explain the difference between the estimates.",
+    "facts": [
+      {
+        "label": "the conflicting figures",
+        "keys": [
+          "figures|reports|different"
+        ]
+      },
+      {
+        "label": "the comparison needed",
+        "keys": [
+          "methodology|date|coverage"
+        ]
+      },
+      {
+        "label": "the source decision",
+        "keys": [
+          "source|confirm|cite"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-109",
+    "family": "workplace-109",
+    "title": "Requesting support for a first-time supervisor",
+    "text": "The new supervisor has strong technical experience but needs support with the people-management responsibilities of the role. The most useful initial topics would be giving constructive feedback, delegating work clearly, and handling disagreements within the team. Please recommend suitable training and a mentor, with a short development plan that can be reviewed after the first three months.",
+    "facts": [
+      {
+        "label": "the development need",
+        "keys": [
+          "supervisor|manage|team"
+        ]
+      },
+      {
+        "label": "the priority topics",
+        "keys": [
+          "feedback|delegation|conflict"
+        ]
+      },
+      {
+        "label": "the support plan",
+        "keys": [
+          "training|mentor|plan"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-110",
+    "family": "workplace-110",
+    "title": "Requesting a check of a damaged parcel",
+    "text": "The parcel arrived with a torn outer box, and two items listed on the packing slip were missing when it was opened. I have attached photographs taken on delivery, the packing slip, and the tracking reference so that the shipment can be investigated. Please explain the claim process and confirm whether the missing items can be replaced or their value reimbursed.",
+    "facts": [
+      {
+        "label": "the delivery condition",
+        "keys": [
+          "torn|missing|parcel"
+        ]
+      },
+      {
+        "label": "the evidence supplied",
+        "keys": [
+          "photos|packing|tracking"
+        ]
+      },
+      {
+        "label": "the claim request",
+        "keys": [
+          "claim|investigate|reimburse"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-111",
+    "family": "workplace-111",
+    "title": "Requesting a change to an induction checklist",
+    "text": "The induction checklist and the welcome email give different instructions about the order of the identity check and equipment collection. New employees have arrived at the wrong desk and waited unnecessarily because the teams expected the steps to happen in a different order. Please align the two documents and confirm the agreed sequence with reception, Human Resources, and the equipment team.",
+    "facts": [
+      {
+        "label": "the inconsistent instructions",
+        "keys": [
+          "identity|equipment|conflicting"
+        ]
+      },
+      {
+        "label": "the practical effect",
+        "keys": [
+          "wait|delay|new"
+        ]
+      },
+      {
+        "label": "the correction requested",
+        "keys": [
+          "align|update|checklist"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-112",
+    "family": "workplace-112",
+    "title": "Requesting a review of a long customer contract",
+    "text": "The customer has proposed several contract changes shortly before the planned project start date, and we need to understand their effect before accepting them. The main changes concern liability, payment timing, and the customer's right to end the agreement before the project is completed. Please review the marked-up contract and identify which changes we can accept and which should be discussed with the customer before work begins.",
+    "facts": [
+      {
+        "label": "the review urgency",
+        "keys": [
+          "contract|changes|start"
+        ]
+      },
+      {
+        "label": "the clauses needing attention",
+        "keys": [
+          "liability|payment|termination"
+        ]
+      },
+      {
+        "label": "the advice requested",
+        "keys": [
+          "review|advice|negotiate"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-113",
+    "family": "workplace-113",
+    "title": "Requesting an overflow plan for a busy season",
+    "text": "The forecast demand for the holiday season is higher than the capacity of the usual processing team, so delays are likely without extra support. We propose using cross-trained staff from a quieter department and temporary support for simple tasks, while keeping complex cases with experienced employees. Please approve the overflow plan and its budget so that training and scheduling can be completed before demand increases.",
+    "facts": [
+      {
+        "label": "the capacity risk",
+        "keys": [
+          "demand|capacity|season"
+        ]
+      },
+      {
+        "label": "the proposed support",
+        "keys": [
+          "temporary|cross-trained|overflow"
+        ]
+      },
+      {
+        "label": "the approval request",
+        "keys": [
+          "approve|plan|budget"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-114",
+    "family": "workplace-114",
+    "title": "Requesting a review of a product return trend",
+    "text": "Returns of this product have increased, and many customers describe the same problem with the power button becoming difficult to operate. We have grouped the return reports by production batch and kept several returned samples for inspection to help identify whether the fault is widespread. Please investigate the samples and recommend any corrective action, including guidance for the customer support team while the review is in progress.",
+    "facts": [
+      {
+        "label": "the pattern observed",
+        "keys": [
+          "returns|power|button"
+        ]
+      },
+      {
+        "label": "the supporting analysis",
+        "keys": [
+          "batch|reports|samples"
+        ]
+      },
+      {
+        "label": "the investigation request",
+        "keys": [
+          "investigate|corrective|inspect"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-115",
+    "family": "workplace-115",
+    "title": "Requesting a review of an international meeting schedule",
+    "text": "The recurring meeting time requires the overseas team to join late at night every week, while the other teams attend during normal office hours. We suggest rotating the meeting time and sharing a written summary or recording so that the same team does not always carry the inconvenience. Please consult the participating teams and agree a revised schedule that still provides enough overlap for important joint decisions.",
+    "facts": [
+      {
+        "label": "the unequal schedule",
+        "keys": [
+          "time|night|overseas"
+        ]
+      },
+      {
+        "label": "the fairer arrangement",
+        "keys": [
+          "rotate|times|record"
+        ]
+      },
+      {
+        "label": "the agreement request",
+        "keys": [
+          "agree|schedule|consult"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-116",
+    "family": "workplace-116",
+    "title": "Requesting a correction to a product label",
+    "text": "The draft label still shows the old ingredient list, while the formulation approved for the next production batch includes a recent change. We should hold printing and product release until the text has been checked, because customers must receive accurate information about the product contents. Please review the updated formulation, correct the label, and provide written approval before the packaging supplier begins printing.",
+    "facts": [
+      {
+        "label": "the incorrect label",
+        "keys": [
+          "label|ingredients|old"
+        ]
+      },
+      {
+        "label": "the release risk",
+        "keys": [
+          "hold|printing|release"
+        ]
+      },
+      {
+        "label": "the approval required",
+        "keys": [
+          "review|correct|approve"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-117",
+    "family": "workplace-117",
+    "title": "Requesting approval for a customer knowledge session",
+    "text": "Customers repeatedly ask the same setup questions, which suggests that a short guided session could help them begin using the service more confidently. The session would demonstrate the initial setup steps, explain common mistakes, and leave time for questions using a realistic example account. Please approve a pilot session and invite a small customer group so that we can collect feedback before offering it more widely.",
+    "facts": [
+      {
+        "label": "the repeated need",
+        "keys": [
+          "setup|questions|customers"
+        ]
+      },
+      {
+        "label": "the proposed content",
+        "keys": [
+          "demonstration|common|questions"
+        ]
+      },
+      {
+        "label": "the pilot request",
+        "keys": [
+          "approve|session|feedback"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-118",
+    "family": "workplace-118",
+    "title": "Requesting a review of a handover between shifts",
+    "text": "Several unresolved issues were omitted from the shift handover, so the morning team had to repeat checks that the evening team had already completed. We suggest a short standard record showing each open issue, its current status, the person responsible, and the next action required. Please trial the record with both shifts and review whether it improves continuity without adding unnecessary paperwork.",
+    "facts": [
+      {
+        "label": "the handover gap",
+        "keys": [
+          "handover|issues|omitted"
+        ]
+      },
+      {
+        "label": "the standard record",
+        "keys": [
+          "status|owner|next"
+        ]
+      },
+      {
+        "label": "the implementation request",
+        "keys": [
+          "trial|review|handover"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-119",
+    "family": "workplace-119",
+    "title": "Requesting approval for a secure disposal service",
+    "text": "The listed customer files have reached the end of their approved retention period and no longer need to be kept for normal business purposes. We propose using the approved secure shredding service and obtaining a destruction certificate that identifies the collection date and records covered. Please confirm that no legal hold applies and approve the disposal before we arrange collection of the sealed record boxes.",
+    "facts": [
+      {
+        "label": "the records to dispose of",
+        "keys": [
+          "retention|files|dispose"
+        ]
+      },
+      {
+        "label": "the secure process",
+        "keys": [
+          "shredding|certificate|secure"
+        ]
+      },
+      {
+        "label": "the approval request",
+        "keys": [
+          "approve|check|disposal"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-120",
+    "family": "workplace-120",
+    "title": "Requesting a revised business continuity exercise",
+    "text": "The previous continuity exercise assumed that all staff were in the office, which no longer reflects how our teams work across home and office locations. A revised exercise should test remote internet failure, access to critical systems, and the process for contacting staff when normal communication channels are unavailable. Please plan an updated exercise and involve the remote team representatives so that the response arrangements can be tested realistically.",
+    "facts": [
+      {
+        "label": "the outdated assumption",
+        "keys": [
+          "exercise|remote|home"
+        ]
+      },
+      {
+        "label": "the scenarios to include",
+        "keys": [
+          "internet|access|contact"
+        ]
+      },
+      {
+        "label": "the planning request",
+        "keys": [
+          "revise|schedule|exercise"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-121",
+    "family": "workplace-121",
+    "title": "Requesting a revised customer appointment process",
+    "text": "Customers are receiving confirmed appointment slots before the technicians' travel availability has been checked, leading to avoidable rescheduling. We should check the technicians' shared calendar and travel time before confirming a slot, with provisional holds used only when the customer understands the condition. Please update the booking procedure and brief the scheduling team so that new appointments follow the agreed sequence.",
+    "facts": [
+      {
+        "label": "the booking problem",
+        "keys": [
+          "slots|technicians|availability"
+        ]
+      },
+      {
+        "label": "the proposed sequence",
+        "keys": [
+          "check|confirm|calendar"
+        ]
+      },
+      {
+        "label": "the procedure update",
+        "keys": [
+          "update|process|brief"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-122",
+    "family": "workplace-122",
+    "title": "Requesting support for an employee relocation",
+    "text": "The employee is preparing to move to the new branch and needs clear information about the support available during the transition. Please explain the approved travel arrangements, any temporary housing support, and the confirmed first working day at the new location. Please nominate a contact at each branch and share a relocation checklist so that equipment, access, and reporting arrangements are ready in time.",
+    "facts": [
+      {
+        "label": "the relocation needs",
+        "keys": [
+          "relocation|branch|moving"
+        ]
+      },
+      {
+        "label": "the details to provide",
+        "keys": [
+          "travel|housing|start"
+        ]
+      },
+      {
+        "label": "the coordination request",
+        "keys": [
+          "contact|checklist|coordinate"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-123",
+    "family": "workplace-123",
+    "title": "Requesting a review of an unsuccessful tender",
+    "text": "We would appreciate feedback on our unsuccessful tender so that we can understand how to improve the clarity and competitiveness of future proposals. It would be particularly useful to understand how our technical response, delivery plan, and pricing compared with the published evaluation criteria. Please let us know whether a short feedback meeting or a written summary can be provided, within the information you are permitted to share.",
+    "facts": [
+      {
+        "label": "the feedback purpose",
+        "keys": [
+          "tender|feedback|proposal"
+        ]
+      },
+      {
+        "label": "the areas to discuss",
+        "keys": [
+          "technical|price|evaluation"
+        ]
+      },
+      {
+        "label": "the follow-up request",
+        "keys": [
+          "meeting|written|feedback"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-124",
+    "family": "workplace-124",
+    "title": "Requesting a review of an automatic email reminder",
+    "text": "The automatic reminder is being sent to some customers who have already completed the requested action, creating confusion and unnecessary support contacts. The customer status appears to update after the reminder list is generated, so the system may be using information that is no longer current. Please check the timing of the status update and stop incorrect reminders while a reliable correction is tested.",
+    "facts": [
+      {
+        "label": "the incorrect reminder",
+        "keys": [
+          "reminder|completed|automatic"
+        ]
+      },
+      {
+        "label": "the likely data issue",
+        "keys": [
+          "status|update|system"
+        ]
+      },
+      {
+        "label": "the correction request",
+        "keys": [
+          "check|stop|correct"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-125",
+    "family": "workplace-125",
+    "title": "Requesting a public transport benefit review",
+    "text": "Employees have asked whether a public transport benefit could help reduce commuting costs and make alternatives to driving more practical. Possible options include a season-ticket loan, a negotiated travel discount, or support for employees whose shifts fall outside normal service hours. Please review these options and gather staff preferences before recommending an approach that fits the benefits budget.",
+    "facts": [
+      {
+        "label": "the employee request",
+        "keys": [
+          "transport|commute|cost"
+        ]
+      },
+      {
+        "label": "the options to assess",
+        "keys": [
+          "season|ticket|discount"
+        ]
+      },
+      {
+        "label": "the review request",
+        "keys": [
+          "review|survey|budget"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-126",
+    "family": "workplace-126",
+    "title": "Requesting a review of equipment instructions",
+    "text": "The operating guide in the shared folder describes the old software interface, while the equipment now uses the updated version installed last week. Several screen names and settings have changed, so new users cannot reliably follow the existing step-by-step instructions. Please revise the guide with current screenshots and mark the old version as withdrawn so that staff can identify the correct instructions.",
+    "facts": [
+      {
+        "label": "the outdated guidance",
+        "keys": [
+          "guide|software|update"
+        ]
+      },
+      {
+        "label": "the practical problems",
+        "keys": [
+          "screens|settings|confusion"
+        ]
+      },
+      {
+        "label": "the updated documentation",
+        "keys": [
+          "revise|screenshots|current"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-127",
+    "family": "workplace-127",
+    "title": "Requesting a revised delivery forecast",
+    "text": "The supplier has warned of a material shortage that may affect the next deliveries, while our production forecast still assumes the original schedule. We need confirmed quantities and dates for the next shipments, together with the stock already available and any approved substitute material. Please update the delivery forecast and propose which customer orders should be prioritised if the shortage cannot be resolved in time.",
+    "facts": [
+      {
+        "label": "the supply risk",
+        "keys": [
+          "shortage|material|supplier"
+        ]
+      },
+      {
+        "label": "the planning information",
+        "keys": [
+          "quantities|dates|stock"
+        ]
+      },
+      {
+        "label": "the forecast update",
+        "keys": [
+          "update|forecast|priority"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-128",
+    "family": "workplace-128",
+    "title": "Requesting a review of a donation policy",
+    "text": "Employees would like to organise a voluntary collection for the emergency appeal and have asked whether the company can support the activity. We propose using a verified charity, keeping participation voluntary, and recording the transfer with a receipt so that the collection remains transparent. Please confirm the relevant policy and tell us whether permission or donation matching is available before we announce the collection.",
+    "facts": [
+      {
+        "label": "the appeal purpose",
+        "keys": [
+          "appeal|donation|emergency"
+        ]
+      },
+      {
+        "label": "the safeguards proposed",
+        "keys": [
+          "charity|voluntary|receipt"
+        ]
+      },
+      {
+        "label": "the policy confirmation",
+        "keys": [
+          "policy|permission|matching"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-129",
+    "family": "workplace-129",
+    "title": "Requesting a review of an account closure",
+    "text": "The customer account was closed even though the billing dispute was still being investigated, which has prevented the customer from viewing their records. We should restore limited access to the records and pause any further action on the disputed amount while the investigation continues. Please review how the closure was triggered and confirm the correct process for resolving the dispute before any final account closure.",
+    "facts": [
+      {
+        "label": "the closure problem",
+        "keys": [
+          "account|closed|dispute"
+        ]
+      },
+      {
+        "label": "the interim arrangement",
+        "keys": [
+          "restore|access|pause"
+        ]
+      },
+      {
+        "label": "the review request",
+        "keys": [
+          "review|process|resolve"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-130",
+    "family": "workplace-130",
+    "title": "Requesting approval for a repair instead of replacement",
+    "text": "The damaged chair can be repaired by replacing its adjustment mechanism, and the frame has passed the supplier's safety inspection. The repair quotation is considerably lower than the price of a suitable replacement, and the repaired part would carry a service warranty. Please approve the repair if it meets our asset policy and confirm how the warranty details should be recorded after the work is completed.",
+    "facts": [
+      {
+        "label": "the repair option",
+        "keys": [
+          "repair|chair|damaged"
+        ]
+      },
+      {
+        "label": "the cost comparison",
+        "keys": [
+          "cost|replacement|cheaper"
+        ]
+      },
+      {
+        "label": "the approval request",
+        "keys": [
+          "approve|repair|warranty"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-131",
+    "family": "workplace-131",
+    "title": "Requesting a review of a subscription cancellation",
+    "text": "We cancelled the subscription before the renewal deadline and received an acknowledgement, but a new annual renewal invoice has still been issued. I have attached the cancellation acknowledgement and the original request, both of which show the date and account reference. Please withdraw the renewal invoice or issue the appropriate credit and confirm that the subscription will not renew again.",
+    "facts": [
+      {
+        "label": "the cancellation record",
+        "keys": [
+          "cancel|subscription|renewal"
+        ]
+      },
+      {
+        "label": "the supporting evidence",
+        "keys": [
+          "acknowledgement|date|reference"
+        ]
+      },
+      {
+        "label": "the invoice correction",
+        "keys": [
+          "withdraw|credit|correct"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-132",
+    "family": "workplace-132",
+    "title": "Requesting a review of a volunteer rota",
+    "text": "The current rota gives some volunteers long shifts without a planned break, while other time slots have more volunteers than the activities require. We suggest redistributing the shifts, including regular breaks, and ensuring that each activity has enough trained cover throughout the event. Please revise the rota and confirm the changes with the volunteers before sending the final event instructions.",
+    "facts": [
+      {
+        "label": "the uneven allocation",
+        "keys": [
+          "rota|shifts|break"
+        ]
+      },
+      {
+        "label": "the proposed adjustment",
+        "keys": [
+          "redistribute|breaks|cover"
+        ]
+      },
+      {
+        "label": "the confirmation request",
+        "keys": [
+          "confirm|availability|revise"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-133",
+    "family": "workplace-133",
+    "title": "Requesting a review of a website checkout problem",
+    "text": "The payment button is partly hidden on smaller mobile screens, which prevents some customers from completing the checkout process. We have reproduced the problem on several devices and attached screenshots with the browser and screen-size details from each test. Please prioritise a correction and test the revised checkout on the affected devices before releasing it to customers.",
+    "facts": [
+      {
+        "label": "the mobile fault",
+        "keys": [
+          "mobile|button|checkout"
+        ]
+      },
+      {
+        "label": "the test evidence",
+        "keys": [
+          "screenshots|devices|tests"
+        ]
+      },
+      {
+        "label": "the repair priority",
+        "keys": [
+          "fix|priority|test"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-134",
+    "family": "workplace-134",
+    "title": "Requesting approval for a document scanning project",
+    "text": "Staff spend considerable time retrieving frequently used paper records from off-site storage whenever a customer enquiry requires them. We propose scanning the most frequently requested records into a searchable folder with access limited to authorised employees. Please approve a small pilot and compare the retrieval time, scanning cost, and information-security requirements before extending the project.",
+    "facts": [
+      {
+        "label": "the retrieval problem",
+        "keys": [
+          "paper|records|time"
+        ]
+      },
+      {
+        "label": "the proposed digitisation",
+        "keys": [
+          "scan|search|access"
+        ]
+      },
+      {
+        "label": "the pilot request",
+        "keys": [
+          "pilot|cost|approve"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-135",
+    "family": "workplace-135",
+    "title": "Requesting a review of a product launch checklist",
+    "text": "The customer support briefing was missed because the product and support teams use separate launch checklists with no shared confirmation step. A shared launch milestone should name the owner of the briefing and require confirmation that support materials and staff training are ready. Please update the launch process before the next release and arrange a joint check of the remaining readiness tasks.",
+    "facts": [
+      {
+        "label": "the missed coordination",
+        "keys": [
+          "launch|support|briefing"
+        ]
+      },
+      {
+        "label": "the shared milestone",
+        "keys": [
+          "checklist|owner|confirmation"
+        ]
+      },
+      {
+        "label": "the next release plan",
+        "keys": [
+          "update|release|check"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-136",
+    "family": "workplace-136",
+    "title": "Requesting a review of a delivery route",
+    "text": "The revised delivery route adds unnecessary distance and crosses a road that frequently has access restrictions, making arrival times less predictable. Drivers have suggested an alternative route that avoids the restricted road and appears to reduce travel time during the main delivery period. Please compare the routes using recent journey records and arrange a trial before deciding whether to change the permanent delivery plan.",
+    "facts": [
+      {
+        "label": "the route problem",
+        "keys": [
+          "route|distance|restrictions"
+        ]
+      },
+      {
+        "label": "the alternative proposed",
+        "keys": [
+          "alternative|route|travel"
+        ]
+      },
+      {
+        "label": "the assessment request",
+        "keys": [
+          "compare|trial|review"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-137",
+    "family": "workplace-137",
+    "title": "Requesting a review of a damaged training kit",
+    "text": "The practical training kit is missing several small components that are essential for completing the scheduled exercises safely. We have checked the kit against its inventory list and identified exactly which components need to be replaced before the next session. Please arrange the missing parts or a loan kit and confirm whether it will be ready before the next learner group arrives.",
+    "facts": [
+      {
+        "label": "the missing components",
+        "keys": [
+          "kit|parts|missing"
+        ]
+      },
+      {
+        "label": "the inventory evidence",
+        "keys": [
+          "inventory|list|check"
+        ]
+      },
+      {
+        "label": "the replacement request",
+        "keys": [
+          "replace|session|arrange"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-138",
+    "family": "workplace-138",
+    "title": "Requesting a review of a shared inbox process",
+    "text": "The shared inbox contains messages that have received duplicate replies and others that remain unanswered because ownership is not visible. We suggest assigning each message to a named colleague and using clear status labels for new, in-progress, and completed enquiries. Please trial the method and review response times and duplicate replies before choosing a permanent shared-inbox process.",
+    "facts": [
+      {
+        "label": "the inconsistent handling",
+        "keys": [
+          "inbox|duplicate|unanswered"
+        ]
+      },
+      {
+        "label": "the ownership method",
+        "keys": [
+          "assign|status|owner"
+        ]
+      },
+      {
+        "label": "the trial request",
+        "keys": [
+          "trial|response|review"
+        ]
+      }
+    ],
+    "difficulty": "moderate"
+  },
+  {
+    "id": "passages-workplace-139",
+    "family": "workplace-139",
+    "title": "Requesting a review of course prerequisite information",
+    "text": "Several employees registered for the course without realising that prior knowledge of the software was required, because the prerequisite was not clear in the course listing. We would like an introductory session or preparation material that covers the essential software skills before the main course begins. Please update the course listing and confirm which preparation option you can provide so that we can advise the registered employees.",
+    "facts": [
+      {
+        "label": "the missing prerequisite",
+        "keys": [
+          "course|prerequisite|software"
+        ]
+      },
+      {
+        "label": "the preparation option",
+        "keys": [
+          "introductory|preparation|material"
+        ]
+      },
+      {
+        "label": "the listing correction",
+        "keys": [
+          "update|listing|confirm"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-140",
+    "family": "workplace-140",
+    "title": "Requesting a review of an external link in a report",
+    "text": "The report links to a document that is no longer available, leaving readers unable to verify an important claim in the recommendations. We have identified a current source supporting the same point and checked that its definitions and reporting period match the report. Please replace the reference and issue a corrected version, with a short notice to the readers who received the original report.",
+    "facts": [
+      {
+        "label": "the missing reference",
+        "keys": [
+          "link|reference|unavailable"
+        ]
+      },
+      {
+        "label": "the replacement source",
+        "keys": [
+          "source|current|reference"
+        ]
+      },
+      {
+        "label": "the publication update",
+        "keys": [
+          "replace|update|notify"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-141",
+    "family": "workplace-141",
+    "title": "Requesting a review of a visitor group booking",
+    "text": "The booked group is larger than the safe capacity for one guide in the exhibition area, especially at the narrow points on the tour route. We suggest splitting the visitors into two smaller groups with separate guides and slightly staggered starting times. Please confirm whether two guides are available and send the revised schedule to the group organiser before the visit.",
+    "facts": [
+      {
+        "label": "the capacity concern",
+        "keys": [
+          "group|capacity|guide"
+        ]
+      },
+      {
+        "label": "the proposed arrangement",
+        "keys": [
+          "split|groups|guides"
+        ]
+      },
+      {
+        "label": "the booking confirmation",
+        "keys": [
+          "confirm|guides|schedule"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-142",
+    "family": "workplace-142",
+    "title": "Requesting a review of a time-zone setting",
+    "text": "The appointment confirmation shows our office time without converting it to the customer's local time, which has caused confusion for customers in another country. The confirmation should clearly show the customer's local time and the relevant time zone, with the office time included only where it helps staff coordinate. Please correct the time-zone handling and test bookings from the affected country before the next appointment reminders are sent.",
+    "facts": [
+      {
+        "label": "the time display error",
+        "keys": [
+          "time|zone|customers"
+        ]
+      },
+      {
+        "label": "the expected behaviour",
+        "keys": [
+          "local|zone|confirmation"
+        ]
+      },
+      {
+        "label": "the correction request",
+        "keys": [
+          "correct|test|settings"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  },
+  {
+    "id": "passages-workplace-143",
+    "family": "workplace-143",
+    "title": "Requesting approval for a lessons-learned meeting",
+    "text": "We would like to review the completed project so that the successful practices can be reused and the avoidable delays can be addressed in future work. The meeting should focus on planning assumptions, communication between teams, and the decisions that had the greatest effect on the schedule. Please schedule a short lessons-learned meeting and record a small set of practical actions with named owners after the discussion.",
+    "facts": [
+      {
+        "label": "the review purpose",
+        "keys": [
+          "lessons|project|review"
+        ]
+      },
+      {
+        "label": "the discussion themes",
+        "keys": [
+          "planning|communication|decisions"
+        ]
+      },
+      {
+        "label": "the meeting request",
+        "keys": [
+          "schedule|actions|owners"
+        ]
+      }
+    ],
+    "difficulty": "hard"
+  }
+]

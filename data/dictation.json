@@ -1,0 +1,402 @@
+[
+  {
+    "id": "dict-1",
+    "text": "Please close the door."
+  },
+  {
+    "id": "dict-2",
+    "text": "The meeting starts at nine."
+  },
+  {
+    "id": "dict-3",
+    "text": "She sent the report this morning."
+  },
+  {
+    "id": "dict-4",
+    "text": "Can you call me after lunch?"
+  },
+  {
+    "id": "dict-5",
+    "text": "We need more chairs in this room."
+  },
+  {
+    "id": "dict-6",
+    "text": "The printer on this floor is broken."
+  },
+  {
+    "id": "dict-7",
+    "text": "Please save your work before you leave."
+  },
+  {
+    "id": "dict-8",
+    "text": "He usually takes the train to work."
+  },
+  {
+    "id": "dict-9",
+    "text": "Students can access the course materials online."
+  },
+  {
+    "id": "dict-10",
+    "text": "The meeting has been moved to Thursday."
+  },
+  {
+    "id": "dict-11",
+    "text": "I will be working from home on Friday."
+  },
+  {
+    "id": "dict-12",
+    "text": "Could you remind the team about tomorrow's training?"
+  },
+  {
+    "id": "dict-13",
+    "text": "Our flight was delayed because of the heavy rain."
+  },
+  {
+    "id": "dict-14",
+    "text": "You need your student card to borrow books."
+  },
+  {
+    "id": "dict-15",
+    "text": "The project deadline has been extended by one week."
+  },
+  {
+    "id": "dict-16",
+    "text": "Everyone should complete the safety training this month."
+  },
+  {
+    "id": "dict-17",
+    "text": "If you have questions, please contact the human resources team."
+  },
+  {
+    "id": "dict-18",
+    "text": "The training was cancelled because the trainer was unwell."
+  },
+  {
+    "id": "dict-19",
+    "text": "Before you leave, lock your computer and clear your desk."
+  },
+  {
+    "id": "dict-20",
+    "text": "Customers who order before noon receive their packages today."
+  },
+  {
+    "id": "dict-21",
+    "text": "The library will be closed on Monday because of repairs."
+  },
+  {
+    "id": "dict-22",
+    "text": "She could not attend, so her colleague presented the research."
+  },
+  {
+    "id": "dict-23",
+    "text": "Employees who travel must submit their expense reports within two weeks."
+  },
+  {
+    "id": "dict-24",
+    "text": "You will need a valid photo ID when you arrive at the center."
+  },
+  {
+    "id": "dict-fresh-1",
+    "text": "Students can access the course materials on the college website."
+  },
+  {
+    "id": "dict-fresh-2",
+    "text": "The meeting has been moved to the large conference room."
+  },
+  {
+    "id": "dict-fresh-3",
+    "text": "Please send me the updated report before the end of the day."
+  },
+  {
+    "id": "dict-fresh-4",
+    "text": "I will be working from home on Friday this week."
+  },
+  {
+    "id": "dict-fresh-5",
+    "text": "The new employees will receive their laptops on Monday morning."
+  },
+  {
+    "id": "dict-fresh-6",
+    "text": "Could you remind the team about tomorrow's training session?"
+  },
+  {
+    "id": "dict-fresh-7",
+    "text": "The cafeteria stays open until eight o'clock in the evening."
+  },
+  {
+    "id": "dict-fresh-8",
+    "text": "We are looking for volunteers to help with the event."
+  },
+  {
+    "id": "dict-fresh-9",
+    "text": "Please make sure all the lights are off before you leave."
+  },
+  {
+    "id": "dict-fresh-10",
+    "text": "The customer asked for a refund because the product was damaged."
+  },
+  {
+    "id": "dict-fresh-11",
+    "text": "You need your student card to borrow books from the library."
+  },
+  {
+    "id": "dict-fresh-12",
+    "text": "The project deadline has been extended by one more week."
+  },
+  {
+    "id": "dict-fresh-13",
+    "text": "He called the help desk because he could not log in."
+  },
+  {
+    "id": "dict-fresh-14",
+    "text": "The company is planning to open a new office in Pune."
+  },
+  {
+    "id": "dict-fresh-15",
+    "text": "Everyone should complete the safety training by the end of the month."
+  },
+  {
+    "id": "dict-fresh-16",
+    "text": "The results of the survey will be shared with all departments."
+  },
+  {
+    "id": "dict-fresh-17",
+    "text": "I missed the bus, so I took a taxi to the office."
+  },
+  {
+    "id": "dict-fresh-18",
+    "text": "The internet connection in the meeting room is very slow today."
+  },
+  {
+    "id": "dict-fresh-19",
+    "text": "She has been promoted to team leader after two years."
+  },
+  {
+    "id": "dict-fresh-20",
+    "text": "Please print twenty copies of the agenda for the meeting."
+  },
+  {
+    "id": "dict-fresh-21",
+    "text": "The new policy will apply to all full-time employees."
+  },
+  {
+    "id": "dict-fresh-22",
+    "text": "We should book the hotel rooms before the prices go up."
+  },
+  {
+    "id": "dict-fresh-23",
+    "text": "The professor explained the topic again for the students who were absent."
+  },
+  {
+    "id": "dict-fresh-24",
+    "text": "Please send the signed form to the accounts team today."
+  },
+  {
+    "id": "dict-fresh-25",
+    "text": "The workshop on resume writing has been moved to Thursday."
+  },
+  {
+    "id": "dict-fresh-26",
+    "text": "I could not join the call because my microphone was not working."
+  },
+  {
+    "id": "dict-fresh-27",
+    "text": "Students must show their identity cards at the library entrance."
+  },
+  {
+    "id": "dict-fresh-28",
+    "text": "The bus to the campus leaves every fifteen minutes."
+  },
+  {
+    "id": "dict-fresh-29",
+    "text": "Could you book a meeting room for ten people tomorrow morning?"
+  },
+  {
+    "id": "dict-fresh-30",
+    "text": "She finished the presentation and emailed it to her manager."
+  },
+  {
+    "id": "dict-fresh-31",
+    "text": "We are closed on Sunday and will reopen on Monday morning."
+  },
+  {
+    "id": "dict-fresh-32",
+    "text": "The new intern will sit with the design team this month."
+  },
+  {
+    "id": "dict-fresh-33",
+    "text": "Please keep your phone on silent during the training session."
+  },
+  {
+    "id": "dict-fresh-34",
+    "text": "He missed the last train and stayed with a friend nearby."
+  },
+  {
+    "id": "dict-fresh-35",
+    "text": "The canteen will serve a special lunch for the festival."
+  },
+  {
+    "id": "dict-fresh-36",
+    "text": "You can collect your identity card from the front office."
+  },
+  {
+    "id": "dict-fresh-37",
+    "text": "The professor posted the notes on the class website last night."
+  },
+  {
+    "id": "dict-fresh-38",
+    "text": "Our client asked us to change the color of the logo."
+  },
+  {
+    "id": "dict-fresh-39",
+    "text": "I will be in a meeting until three o'clock this afternoon."
+  },
+  {
+    "id": "dict-fresh-40",
+    "text": "Please return the borrowed laptop before you leave for the weekend."
+  },
+  {
+    "id": "dict-fresh-41",
+    "text": "The test center opens at eight and closes at five."
+  },
+  {
+    "id": "dict-fresh-42",
+    "text": "She applied for leave because her sister is getting married."
+  },
+  {
+    "id": "dict-fresh-43",
+    "text": "We need two volunteers to welcome guests at the main gate."
+  },
+  {
+    "id": "dict-fresh-44",
+    "text": "The payment failed, so I tried again with a different card."
+  },
+  {
+    "id": "dict-fresh-45",
+    "text": "Students can download the timetable from the college portal."
+  },
+  {
+    "id": "dict-fresh-46",
+    "text": "He was late because the metro stopped for ten minutes."
+  },
+  {
+    "id": "dict-fresh-47",
+    "text": "Please check that your name is spelled correctly on the form."
+  },
+  {
+    "id": "dict-fresh-48",
+    "text": "The team will present the results to the client on Wednesday."
+  },
+  {
+    "id": "dict-fresh-49",
+    "text": "I left my charger at home and cannot join the call."
+  },
+  {
+    "id": "dict-fresh-50",
+    "text": "The library fine must be paid before you borrow more books."
+  },
+  {
+    "id": "dict-fresh-51",
+    "text": "A technician will visit the office to repair the printer."
+  },
+  {
+    "id": "dict-fresh-52",
+    "text": "We should arrive fifteen minutes early for the security check."
+  },
+  {
+    "id": "dict-fresh-53",
+    "text": "The course starts next Monday and runs for six weeks."
+  },
+  {
+    "id": "dict-fresh-54",
+    "text": "Could you share the meeting link with the people who were absent?"
+  },
+  {
+    "id": "dict-fresh-55",
+    "text": "The hotel confirmed our booking for three rooms on Friday night."
+  },
+  {
+    "id": "dict-fresh-56",
+    "text": "She spoke to the manager about moving the deadline to Monday."
+  },
+  {
+    "id": "dict-fresh-57",
+    "text": "Please write your full name and phone number on the sheet."
+  },
+  {
+    "id": "dict-fresh-58",
+    "text": "The outdoor match was cancelled because the ground was too wet."
+  },
+  {
+    "id": "dict-fresh-59",
+    "text": "I have attached the report and the updated budget for review."
+  },
+  {
+    "id": "dict-fresh-60",
+    "text": "New students can collect their welcome kit from room twelve."
+  },
+  {
+    "id": "dict-fresh-61",
+    "text": "The doctor advised him to rest and drink plenty of water."
+  },
+  {
+    "id": "dict-fresh-62",
+    "text": "We will lock the lab at six, so please finish before then."
+  },
+  {
+    "id": "dict-fresh-63",
+    "text": "Her train was on time, but the taxi was late."
+  },
+  {
+    "id": "dict-fresh-64",
+    "text": "Please let the receptionist know if you are expecting a visitor."
+  },
+  {
+    "id": "dict-fresh-65",
+    "text": "The company will pay for the course if you finish it."
+  },
+  {
+    "id": "dict-fresh-66",
+    "text": "He saved the file on the desktop and emailed a copy."
+  },
+  {
+    "id": "dict-fresh-67",
+    "text": "Students who arrive after nine will not be allowed into the hall."
+  },
+  {
+    "id": "dict-fresh-68",
+    "text": "The cafe near the gate opens early and closes at eight."
+  },
+  {
+    "id": "dict-fresh-69",
+    "text": "I need to renew my bus pass before Friday."
+  },
+  {
+    "id": "dict-fresh-70",
+    "text": "Please read the safety notice before you enter the server room."
+  },
+  {
+    "id": "dict-fresh-71",
+    "text": "We thanked the client for the feedback and updated the plan."
+  },
+  {
+    "id": "dict-fresh-72",
+    "text": "Please send the updated report to Asha before Monday."
+  },
+  {
+    "id": "dict-fresh-73",
+    "text": "The design meeting has been moved to Tuesday morning."
+  },
+  {
+    "id": "dict-fresh-74",
+    "text": "Meera will be working from the Delhi office this week."
+  },
+  {
+    "id": "dict-fresh-75",
+    "text": "Students must show their cards at the library entrance."
+  },
+  {
+    "id": "dict-fresh-76",
+    "text": "Could you book a room for the training team on Friday?"
+  }
+]

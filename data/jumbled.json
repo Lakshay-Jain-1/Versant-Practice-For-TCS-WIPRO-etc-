@@ -1,0 +1,882 @@
+[
+  {
+    "parts": [
+      "the manager",
+      "approved the budget",
+      "yesterday afternoon"
+    ],
+    "sentence": "The manager approved the budget yesterday afternoon."
+  },
+  {
+    "parts": [
+      "please send",
+      "the signed form",
+      "to the accounts team"
+    ],
+    "sentence": "Please send the signed form to the accounts team."
+  },
+  {
+    "parts": [
+      "we moved",
+      "the meeting",
+      "to the large conference room"
+    ],
+    "sentence": "We moved the meeting to the large conference room."
+  },
+  {
+    "parts": [
+      "students must",
+      "submit the assignment",
+      "before Friday evening"
+    ],
+    "sentence": "Students must submit the assignment before Friday evening."
+  },
+  {
+    "parts": [
+      "the client",
+      "asked for a refund",
+      "because the screen was cracked"
+    ],
+    "sentence": "The client asked for a refund because the screen was cracked."
+  },
+  {
+    "parts": [
+      "she called",
+      "the help desk",
+      "when her laptop would not start"
+    ],
+    "sentence": "She called the help desk when her laptop would not start."
+  },
+  {
+    "parts": [
+      "our team",
+      "finished the report",
+      "late last night"
+    ],
+    "sentence": "Our team finished the report late last night."
+  },
+  {
+    "parts": [
+      "please arrive",
+      "at the station",
+      "fifteen minutes early"
+    ],
+    "sentence": "Please arrive at the station fifteen minutes early."
+  },
+  {
+    "parts": [
+      "the library",
+      "will stay open",
+      "until ten tonight"
+    ],
+    "sentence": "The library will stay open until ten tonight."
+  },
+  {
+    "parts": [
+      "he missed",
+      "the morning train",
+      "and took a taxi"
+    ],
+    "sentence": "He missed the morning train and took a taxi."
+  },
+  {
+    "parts": [
+      "if the rain continues",
+      "the match",
+      "will be played indoors"
+    ],
+    "sentence": "If the rain continues the match will be played indoors."
+  },
+  {
+    "parts": [
+      "the trainer",
+      "shared the slides",
+      "after the workshop"
+    ],
+    "sentence": "The trainer shared the slides after the workshop."
+  },
+  {
+    "parts": [
+      "you should",
+      "lock your computer",
+      "before you leave"
+    ],
+    "sentence": "You should lock your computer before you leave."
+  },
+  {
+    "parts": [
+      "the company",
+      "will hire",
+      "ten new engineers"
+    ],
+    "sentence": "The company will hire ten new engineers."
+  },
+  {
+    "parts": [
+      "please check",
+      "your name",
+      "on the admit card"
+    ],
+    "sentence": "Please check your name on the admit card."
+  },
+  {
+    "parts": [
+      "we booked",
+      "three rooms",
+      "for Friday night"
+    ],
+    "sentence": "We booked three rooms for Friday night."
+  },
+  {
+    "parts": [
+      "the doctor",
+      "asked her",
+      "to rest for two days"
+    ],
+    "sentence": "The doctor asked her to rest for two days."
+  },
+  {
+    "parts": [
+      "customers who order",
+      "before noon",
+      "receive the parcel today"
+    ],
+    "sentence": "Customers who order before noon receive the parcel today."
+  },
+  {
+    "parts": [
+      "the office",
+      "will move",
+      "to a larger building"
+    ],
+    "sentence": "The office will move to a larger building."
+  },
+  {
+    "parts": [
+      "she could not",
+      "join the call",
+      "because the internet failed"
+    ],
+    "sentence": "She could not join the call because the internet failed."
+  },
+  {
+    "id": "jumble-fresh-1",
+    "sentence": "Students can access the course materials on the college website.",
+    "parts": [
+      "Students can access",
+      "the course materials",
+      "on the college website."
+    ]
+  },
+  {
+    "id": "jumble-fresh-2",
+    "sentence": "The meeting has been moved to the large conference room.",
+    "parts": [
+      "The meeting has",
+      "been moved to",
+      "the large conference room."
+    ]
+  },
+  {
+    "id": "jumble-fresh-3",
+    "sentence": "Please send me the updated report before the end of the day.",
+    "parts": [
+      "Please send me the",
+      "updated report before the",
+      "end of the day."
+    ]
+  },
+  {
+    "id": "jumble-fresh-4",
+    "sentence": "I will be working from home on Friday this week.",
+    "parts": [
+      "I will be",
+      "working from home",
+      "on Friday this week."
+    ]
+  },
+  {
+    "id": "jumble-fresh-5",
+    "sentence": "The new employees will receive their laptops on Monday morning.",
+    "parts": [
+      "The new employees",
+      "will receive their",
+      "laptops on Monday morning."
+    ]
+  },
+  {
+    "id": "jumble-fresh-6",
+    "sentence": "Could you remind the team about tomorrow's training session?",
+    "parts": [
+      "Could you remind",
+      "the team about",
+      "tomorrow's training session?"
+    ]
+  },
+  {
+    "id": "jumble-fresh-7",
+    "sentence": "The cafeteria stays open until eight o'clock in the evening.",
+    "parts": [
+      "The cafeteria stays",
+      "open until eight",
+      "o'clock in the evening."
+    ]
+  },
+  {
+    "id": "jumble-fresh-8",
+    "sentence": "We are looking for volunteers to help with the event.",
+    "parts": [
+      "We are looking",
+      "for volunteers to",
+      "help with the event."
+    ]
+  },
+  {
+    "id": "jumble-fresh-9",
+    "sentence": "Our flight was delayed because of the heavy rain.",
+    "parts": [
+      "Our flight was",
+      "delayed because of",
+      "the heavy rain."
+    ]
+  },
+  {
+    "id": "jumble-fresh-10",
+    "sentence": "Please make sure all the lights are off before you leave.",
+    "parts": [
+      "Please make sure",
+      "all the lights are",
+      "off before you leave."
+    ]
+  },
+  {
+    "id": "jumble-fresh-11",
+    "sentence": "The customer asked for a refund because the product was damaged.",
+    "parts": [
+      "The customer asked",
+      "for a refund because",
+      "the product was damaged."
+    ]
+  },
+  {
+    "id": "jumble-fresh-12",
+    "sentence": "You need your student card to borrow books from the library.",
+    "parts": [
+      "You need your",
+      "student card to borrow",
+      "books from the library."
+    ]
+  },
+  {
+    "id": "jumble-fresh-13",
+    "sentence": "The project deadline has been extended by one more week.",
+    "parts": [
+      "The project deadline",
+      "has been extended",
+      "by one more week."
+    ]
+  },
+  {
+    "id": "jumble-fresh-14",
+    "sentence": "He called the help desk because he could not log in.",
+    "parts": [
+      "He called the",
+      "help desk because he",
+      "could not log in."
+    ]
+  },
+  {
+    "id": "jumble-fresh-15",
+    "sentence": "The company is planning to open a new office in Pune.",
+    "parts": [
+      "The company is",
+      "planning to open a",
+      "new office in Pune."
+    ]
+  },
+  {
+    "id": "jumble-fresh-16",
+    "sentence": "Everyone should complete the safety training by the end of the month.",
+    "parts": [
+      "Everyone should complete the",
+      "safety training by the",
+      "end of the month."
+    ]
+  },
+  {
+    "id": "jumble-fresh-17",
+    "sentence": "The results of the survey will be shared with all departments.",
+    "parts": [
+      "The results of",
+      "the survey will be",
+      "shared with all departments."
+    ]
+  },
+  {
+    "id": "jumble-fresh-18",
+    "sentence": "I missed the bus, so I took a taxi to the office.",
+    "parts": [
+      "I missed the bus,",
+      "so I took a",
+      "taxi to the office."
+    ]
+  },
+  {
+    "id": "jumble-fresh-19",
+    "sentence": "The internet connection in the meeting room is very slow today.",
+    "parts": [
+      "The internet connection",
+      "in the meeting room",
+      "is very slow today."
+    ]
+  },
+  {
+    "id": "jumble-fresh-20",
+    "sentence": "She has been promoted to team leader after two years.",
+    "parts": [
+      "She has been",
+      "promoted to team",
+      "leader after two years."
+    ]
+  },
+  {
+    "id": "jumble-fresh-21",
+    "sentence": "Please print twenty copies of the agenda for the meeting.",
+    "parts": [
+      "Please print twenty",
+      "copies of the",
+      "agenda for the meeting."
+    ]
+  },
+  {
+    "id": "jumble-fresh-22",
+    "sentence": "The new policy will apply to all full-time employees.",
+    "parts": [
+      "The new policy",
+      "will apply to",
+      "all full-time employees."
+    ]
+  },
+  {
+    "id": "jumble-fresh-23",
+    "sentence": "We should book the hotel rooms before the prices go up.",
+    "parts": [
+      "We should book",
+      "the hotel rooms before",
+      "the prices go up."
+    ]
+  },
+  {
+    "id": "jumble-fresh-24",
+    "sentence": "The professor explained the topic again for the students who were absent.",
+    "parts": [
+      "The professor explained the",
+      "topic again for the",
+      "students who were absent."
+    ]
+  },
+  {
+    "id": "jumble-fresh-25",
+    "sentence": "Please send the signed form to the accounts team today.",
+    "parts": [
+      "Please send the",
+      "signed form to",
+      "the accounts team today."
+    ]
+  },
+  {
+    "id": "jumble-fresh-26",
+    "sentence": "The workshop on resume writing has been moved to Thursday.",
+    "parts": [
+      "The workshop on",
+      "resume writing has",
+      "been moved to Thursday."
+    ]
+  },
+  {
+    "id": "jumble-fresh-27",
+    "sentence": "I could not join the call because my microphone was not working.",
+    "parts": [
+      "I could not join",
+      "the call because my",
+      "microphone was not working."
+    ]
+  },
+  {
+    "id": "jumble-fresh-28",
+    "sentence": "Students must show their identity cards at the library entrance.",
+    "parts": [
+      "Students must show",
+      "their identity cards",
+      "at the library entrance."
+    ]
+  },
+  {
+    "id": "jumble-fresh-29",
+    "sentence": "The bus to the campus leaves every fifteen minutes.",
+    "parts": [
+      "The bus to",
+      "the campus leaves",
+      "every fifteen minutes."
+    ]
+  },
+  {
+    "id": "jumble-fresh-30",
+    "sentence": "Could you book a meeting room for ten people tomorrow morning?",
+    "parts": [
+      "Could you book",
+      "a meeting room for",
+      "ten people tomorrow morning?"
+    ]
+  },
+  {
+    "id": "jumble-fresh-31",
+    "sentence": "She finished the presentation and emailed it to her manager.",
+    "parts": [
+      "She finished the",
+      "presentation and emailed",
+      "it to her manager."
+    ]
+  },
+  {
+    "id": "jumble-fresh-32",
+    "sentence": "We are closed on Sunday and will reopen on Monday morning.",
+    "parts": [
+      "We are closed",
+      "on Sunday and will",
+      "reopen on Monday morning."
+    ]
+  },
+  {
+    "id": "jumble-fresh-33",
+    "sentence": "The new intern will sit with the design team this month.",
+    "parts": [
+      "The new intern",
+      "will sit with the",
+      "design team this month."
+    ]
+  },
+  {
+    "id": "jumble-fresh-34",
+    "sentence": "Please keep your phone on silent during the training session.",
+    "parts": [
+      "Please keep your",
+      "phone on silent",
+      "during the training session."
+    ]
+  },
+  {
+    "id": "jumble-fresh-35",
+    "sentence": "He missed the last train and stayed with a friend nearby.",
+    "parts": [
+      "He missed the",
+      "last train and stayed",
+      "with a friend nearby."
+    ]
+  },
+  {
+    "id": "jumble-fresh-36",
+    "sentence": "The canteen will serve a special lunch for the festival.",
+    "parts": [
+      "The canteen will",
+      "serve a special",
+      "lunch for the festival."
+    ]
+  },
+  {
+    "id": "jumble-fresh-37",
+    "sentence": "You can collect your identity card from the front office.",
+    "parts": [
+      "You can collect",
+      "your identity card",
+      "from the front office."
+    ]
+  },
+  {
+    "id": "jumble-fresh-38",
+    "sentence": "The professor posted the notes on the class website last night.",
+    "parts": [
+      "The professor posted",
+      "the notes on the",
+      "class website last night."
+    ]
+  },
+  {
+    "id": "jumble-fresh-39",
+    "sentence": "Our client asked us to change the color of the logo.",
+    "parts": [
+      "Our client asked",
+      "us to change the",
+      "color of the logo."
+    ]
+  },
+  {
+    "id": "jumble-fresh-40",
+    "sentence": "I will be in a meeting until three o'clock this afternoon.",
+    "parts": [
+      "I will be",
+      "in a meeting until",
+      "three o'clock this afternoon."
+    ]
+  },
+  {
+    "id": "jumble-fresh-41",
+    "sentence": "Please return the borrowed laptop before you leave for the weekend.",
+    "parts": [
+      "Please return the",
+      "borrowed laptop before you",
+      "leave for the weekend."
+    ]
+  },
+  {
+    "id": "jumble-fresh-42",
+    "sentence": "The test center opens at eight and closes at five.",
+    "parts": [
+      "The test center",
+      "opens at eight",
+      "and closes at five."
+    ]
+  },
+  {
+    "id": "jumble-fresh-43",
+    "sentence": "She applied for leave because her sister is getting married.",
+    "parts": [
+      "She applied for",
+      "leave because her",
+      "sister is getting married."
+    ]
+  },
+  {
+    "id": "jumble-fresh-44",
+    "sentence": "We need two volunteers to welcome guests at the main gate.",
+    "parts": [
+      "We need two",
+      "volunteers to welcome guests",
+      "at the main gate."
+    ]
+  },
+  {
+    "id": "jumble-fresh-45",
+    "sentence": "The payment failed, so I tried again with a different card.",
+    "parts": [
+      "The payment failed,",
+      "so I tried again",
+      "with a different card."
+    ]
+  },
+  {
+    "id": "jumble-fresh-46",
+    "sentence": "Students can download the timetable from the college portal.",
+    "parts": [
+      "Students can download",
+      "the timetable from",
+      "the college portal."
+    ]
+  },
+  {
+    "id": "jumble-fresh-47",
+    "sentence": "He was late because the metro stopped for ten minutes.",
+    "parts": [
+      "He was late",
+      "because the metro",
+      "stopped for ten minutes."
+    ]
+  },
+  {
+    "id": "jumble-fresh-48",
+    "sentence": "Please check that your name is spelled correctly on the form.",
+    "parts": [
+      "Please check that",
+      "your name is spelled",
+      "correctly on the form."
+    ]
+  },
+  {
+    "id": "jumble-fresh-49",
+    "sentence": "The team will present the results to the client on Wednesday.",
+    "parts": [
+      "The team will",
+      "present the results to",
+      "the client on Wednesday."
+    ]
+  },
+  {
+    "id": "jumble-fresh-50",
+    "sentence": "I left my charger at home and cannot join the call.",
+    "parts": [
+      "I left my",
+      "charger at home and",
+      "cannot join the call."
+    ]
+  },
+  {
+    "id": "jumble-fresh-51",
+    "sentence": "The library fine must be paid before you borrow more books.",
+    "parts": [
+      "The library fine",
+      "must be paid before",
+      "you borrow more books."
+    ]
+  },
+  {
+    "id": "jumble-fresh-52",
+    "sentence": "A technician will visit the office to repair the printer.",
+    "parts": [
+      "A technician will",
+      "visit the office",
+      "to repair the printer."
+    ]
+  },
+  {
+    "id": "jumble-fresh-53",
+    "sentence": "We should arrive fifteen minutes early for the security check.",
+    "parts": [
+      "We should arrive",
+      "fifteen minutes early",
+      "for the security check."
+    ]
+  },
+  {
+    "id": "jumble-fresh-54",
+    "sentence": "The course starts next Monday and runs for six weeks.",
+    "parts": [
+      "The course starts",
+      "next Monday and",
+      "runs for six weeks."
+    ]
+  },
+  {
+    "id": "jumble-fresh-55",
+    "sentence": "Could you share the meeting link with the people who were absent?",
+    "parts": [
+      "Could you share the",
+      "meeting link with the",
+      "people who were absent?"
+    ]
+  },
+  {
+    "id": "jumble-fresh-56",
+    "sentence": "The hotel confirmed our booking for three rooms on Friday night.",
+    "parts": [
+      "The hotel confirmed",
+      "our booking for three",
+      "rooms on Friday night."
+    ]
+  },
+  {
+    "id": "jumble-fresh-57",
+    "sentence": "She spoke to the manager about moving the deadline to Monday.",
+    "parts": [
+      "She spoke to",
+      "the manager about moving",
+      "the deadline to Monday."
+    ]
+  },
+  {
+    "id": "jumble-fresh-58",
+    "sentence": "Please write your full name and phone number on the sheet.",
+    "parts": [
+      "Please write your",
+      "full name and phone",
+      "number on the sheet."
+    ]
+  },
+  {
+    "id": "jumble-fresh-59",
+    "sentence": "The outdoor match was cancelled because the ground was too wet.",
+    "parts": [
+      "The outdoor match",
+      "was cancelled because the",
+      "ground was too wet."
+    ]
+  },
+  {
+    "id": "jumble-fresh-60",
+    "sentence": "I have attached the report and the updated budget for review.",
+    "parts": [
+      "I have attached",
+      "the report and the",
+      "updated budget for review."
+    ]
+  },
+  {
+    "id": "jumble-fresh-61",
+    "sentence": "New students can collect their welcome kit from room twelve.",
+    "parts": [
+      "New students can",
+      "collect their welcome",
+      "kit from room twelve."
+    ]
+  },
+  {
+    "id": "jumble-fresh-62",
+    "sentence": "The doctor advised him to rest and drink plenty of water.",
+    "parts": [
+      "The doctor advised",
+      "him to rest and",
+      "drink plenty of water."
+    ]
+  },
+  {
+    "id": "jumble-fresh-63",
+    "sentence": "We will lock the lab at six, so please finish before then.",
+    "parts": [
+      "We will lock the",
+      "lab at six, so",
+      "please finish before then."
+    ]
+  },
+  {
+    "id": "jumble-fresh-64",
+    "sentence": "Her train was on time, but the taxi was late.",
+    "parts": [
+      "Her train was",
+      "on time, but",
+      "the taxi was late."
+    ]
+  },
+  {
+    "id": "jumble-fresh-65",
+    "sentence": "Please let the receptionist know if you are expecting a visitor.",
+    "parts": [
+      "Please let the",
+      "receptionist know if you",
+      "are expecting a visitor."
+    ]
+  },
+  {
+    "id": "jumble-fresh-66",
+    "sentence": "The company will pay for the course if you finish it.",
+    "parts": [
+      "The company will",
+      "pay for the course",
+      "if you finish it."
+    ]
+  },
+  {
+    "id": "jumble-fresh-67",
+    "sentence": "He saved the file on the desktop and emailed a copy.",
+    "parts": [
+      "He saved the",
+      "file on the desktop",
+      "and emailed a copy."
+    ]
+  },
+  {
+    "id": "jumble-fresh-68",
+    "sentence": "Students who arrive after nine will not be allowed into the hall.",
+    "parts": [
+      "Students who arrive after",
+      "nine will not be",
+      "allowed into the hall."
+    ]
+  },
+  {
+    "id": "jumble-fresh-69",
+    "sentence": "The cafe near the gate opens early and closes at eight.",
+    "parts": [
+      "The cafe near",
+      "the gate opens early",
+      "and closes at eight."
+    ]
+  },
+  {
+    "id": "jumble-fresh-70",
+    "sentence": "I need to renew my bus pass before Friday.",
+    "parts": [
+      "I need to",
+      "renew my bus",
+      "pass before Friday."
+    ]
+  },
+  {
+    "id": "jumble-fresh-71",
+    "sentence": "Please read the safety notice before you enter the server room.",
+    "parts": [
+      "Please read the",
+      "safety notice before you",
+      "enter the server room."
+    ]
+  },
+  {
+    "id": "jumble-fresh-72",
+    "sentence": "We thanked the client for the feedback and updated the plan.",
+    "parts": [
+      "We thanked the",
+      "client for the feedback",
+      "and updated the plan."
+    ]
+  },
+  {
+    "id": "jumble-fresh-73",
+    "sentence": "Please send the updated report to Asha before Monday.",
+    "parts": [
+      "Please send the",
+      "updated report to",
+      "Asha before Monday."
+    ]
+  },
+  {
+    "id": "jumble-fresh-74",
+    "sentence": "The design meeting has been moved to Tuesday morning.",
+    "parts": [
+      "The design meeting",
+      "has been moved",
+      "to Tuesday morning."
+    ]
+  },
+  {
+    "id": "jumble-fresh-75",
+    "sentence": "Meera will be working from the Delhi office this week.",
+    "parts": [
+      "Meera will be",
+      "working from the",
+      "Delhi office this week."
+    ]
+  },
+  {
+    "id": "jumble-fresh-76",
+    "sentence": "Students must show their cards at the library entrance.",
+    "parts": [
+      "Students must show",
+      "their cards at",
+      "the library entrance."
+    ]
+  },
+  {
+    "id": "jumble-fresh-77",
+    "sentence": "Could you book a room for the training team on Friday?",
+    "parts": [
+      "Could you book",
+      "a room for the",
+      "training team on Friday?"
+    ]
+  },
+  {
+    "id": "jumble-fresh-78",
+    "sentence": "The client in Indore asked us to change the plan.",
+    "parts": [
+      "The client in",
+      "Indore asked us",
+      "to change the plan."
+    ]
+  },
+  {
+    "id": "jumble-fresh-79",
+    "sentence": "We should arrive early for the training on Sunday.",
+    "parts": [
+      "We should arrive",
+      "early for the",
+      "training on Sunday."
+    ]
+  },
+  {
+    "id": "jumble-fresh-80",
+    "sentence": "Rohan called the help desk because the laptop failed.",
+    "parts": [
+      "Rohan called the",
+      "help desk because",
+      "the laptop failed."
+    ]
+  }
+]

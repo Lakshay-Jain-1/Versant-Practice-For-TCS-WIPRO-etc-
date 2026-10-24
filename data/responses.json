@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "resp-1",
+    "prompt": "There's hardly any paper left.",
+    "options": [
+      "No, I haven't seen it.",
+      "I'll get a new pack from the store.",
+      "The meeting is at three."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-2",
+    "prompt": "Didn't I see you at the fundraiser this weekend?",
+    "options": [
+      "No, it couldn't have been me. I was out of town.",
+      "Yes, the printer is fixed.",
+      "I'll send the invoice tomorrow."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-3",
+    "prompt": "Could you stay a few minutes after the meeting?",
+    "options": [
+      "The cafeteria closes at two.",
+      "Yes, I can stay until half past four.",
+      "No, I didn't take the file."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-4",
+    "prompt": "The client said the slides were hard to read.",
+    "options": [
+      "I'll increase the font and send a new copy.",
+      "The train leaves at six.",
+      "I already locked the door."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-5",
+    "prompt": "We're running low on time.",
+    "options": [
+      "Let's skip the last two items and finish the decision.",
+      "I like the blue chairs.",
+      "She joined the company in March."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-6",
+    "prompt": "Would you mind opening the window?",
+    "options": [
+      "The report has twelve pages.",
+      "Not at all. It's quite warm in here.",
+      "I submitted it yesterday."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-7",
+    "prompt": "I can't find the signed contract.",
+    "options": [
+      "Try the folder named Client Files on the shared drive.",
+      "The bus comes every ten minutes.",
+      "Lunch is in the canteen."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-8",
+    "prompt": "Do you have a moment to check these figures?",
+    "options": [
+      "Yes. Send them over and I'll look now.",
+      "The office is on the third floor.",
+      "He was promoted last year."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-9",
+    "prompt": "The 9 a.m. train has been cancelled.",
+    "options": [
+      "I'll book the next one and tell the team.",
+      "Please water the plants.",
+      "The quiz has fifteen questions."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-10",
+    "prompt": "Thanks for covering my shift yesterday.",
+    "options": [
+      "You're welcome. I hope you're feeling better.",
+      "The password is on the board.",
+      "We need more paper."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-11",
+    "prompt": "Is the conference room free at two?",
+    "options": [
+      "Yes. I just checked the calendar and it's open.",
+      "The soup is too salty.",
+      "She lives near the station."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-12",
+    "prompt": "I didn't receive the attachment.",
+    "options": [
+      "I'll send the file again right now.",
+      "The park closes at dusk.",
+      "He bought a new bicycle."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-13",
+    "prompt": "Can we move the call to Friday?",
+    "options": [
+      "Friday at eleven works for me.",
+      "The lab is on the second floor.",
+      "I forgot my umbrella."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-14",
+    "prompt": "This invoice doesn't match the purchase order.",
+    "options": [
+      "I'll compare the two documents and call you back.",
+      "The weather is nice today.",
+      "Please close the window."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-15",
+    "prompt": "Would you like tea or coffee?",
+    "options": [
+      "Coffee, please, with no sugar.",
+      "The meeting was cancelled.",
+      "I finished the report."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-16",
+    "prompt": "The wifi keeps dropping in this room.",
+    "options": [
+      "I'll ask the technician to check the router.",
+      "Her birthday is in June.",
+      "We ordered sandwiches."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-17",
+    "prompt": "Did you submit the leave form?",
+    "options": [
+      "Yes. I sent it to Ms. Kapoor this morning.",
+      "The hall is full.",
+      "Turn left at the gate."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-18",
+    "prompt": "I'm afraid I can't approve that budget.",
+    "options": [
+      "I understand. I'll revise the numbers and send a new version.",
+      "The library is downstairs.",
+      "He takes the metro."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-19",
+    "prompt": "Could you speak a little more slowly?",
+    "options": [
+      "Of course. I'll start that part again.",
+      "The cake was chocolate.",
+      "We raised twice the money."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-20",
+    "prompt": "Who is leading the client visit?",
+    "options": [
+      "Priya is. She'll meet them at reception.",
+      "The shop closes at six.",
+      "I need a copy of this form."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-21",
+    "prompt": "The samples haven't arrived yet.",
+    "options": [
+      "I'll call the supplier and ask for today's status.",
+      "Please mute your microphone.",
+      "The quiz begins in five minutes."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-22",
+    "prompt": "Are you free to join the interview panel?",
+    "options": [
+      "Yes. Send me the time and the candidate's name.",
+      "The fare is the same.",
+      "Bags must be left outside."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-23",
+    "prompt": "I think we should pause the rollout.",
+    "options": [
+      "Agreed. Let's fix the login problem first.",
+      "The stipend is paid monthly.",
+      "Saturday hours will not change."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-24",
+    "prompt": "Sorry, I stepped on your foot.",
+    "options": [
+      "That's all right. No harm done.",
+      "The grant ends in November.",
+      "Please show your identity card."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-25",
+    "prompt": "The projector will not connect to my laptop.",
+    "options": [
+      "Try the spare cable in the drawer.",
+      "The canteen closes at two.",
+      "She joined the team last year."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-26",
+    "prompt": "Could someone take notes while I present?",
+    "options": [
+      "The bus leaves from gate four.",
+      "My badge is in the drawer.",
+      "I can. I'll send them after the session."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-27",
+    "prompt": "The taxi I booked still has not arrived.",
+    "options": [
+      "Please water the plants.",
+      "I'll call the desk and ask for another one.",
+      "The slides use a blue background."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-28",
+    "prompt": "I left my charger in the meeting room.",
+    "options": [
+      "I'll check the table by the window.",
+      "The exam is next month.",
+      "He prefers the aisle seat."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-29",
+    "prompt": "We're out of clean mugs in the kitchen.",
+    "options": [
+      "The client liked the logo.",
+      "Her train gets in at six.",
+      "I'll wash a few and put them on the rack."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-30",
+    "prompt": "The client wants the quote before this evening.",
+    "options": [
+      "I already locked the gate.",
+      "I'll finish the numbers and send it by four.",
+      "The lobby was painted last week."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-31",
+    "prompt": "Can you watch the front desk for a short while?",
+    "options": [
+      "Yes. I'll stay until you get back.",
+      "The library book is overdue.",
+      "Add more salt to the soup."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-32",
+    "prompt": "I think that alarm is only a practice drill.",
+    "options": [
+      "The newsletter needs a title.",
+      "He bought a new umbrella.",
+      "Let's wait for the announcement before we leave."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-33",
+    "prompt": "My screen keeps freezing during the video call.",
+    "options": [
+      "Please sign the birthday card.",
+      "Close the extra tabs and join again.",
+      "The sports day is on Saturday."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-34",
+    "prompt": "Has the printer jammed on this floor again?",
+    "options": [
+      "Yes. I'll clear the paper from the tray.",
+      "The guest likes window seats.",
+      "Our team won the quiz."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-35",
+    "prompt": "We need one more chair for the guest.",
+    "options": [
+      "The password changed in March.",
+      "She studies in the evening.",
+      "I'll bring one from the room next door."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-36",
+    "prompt": "The cafeteria stops serving lunch at two.",
+    "options": [
+      "I left my coat at home.",
+      "Then let's go down before the queue gets long.",
+      "The contract has six pages."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-37",
+    "prompt": "I can't hear you. Your microphone seems muted.",
+    "options": [
+      "Thanks. I had switched it off by mistake.",
+      "The garden needs more shade.",
+      "Rent is due on the first."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-38",
+    "prompt": "Could we start the tour with the lab?",
+    "options": [
+      "The film starts at nine.",
+      "Please recycle the bottles.",
+      "Of course. I'll ask the team to expect us."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-39",
+    "prompt": "The parcel at reception is addressed to you.",
+    "options": [
+      "He missed the morning lecture.",
+      "I'll collect it on my way out.",
+      "The kettle takes too long."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-40",
+    "prompt": "I'm not sure which bay the shuttle uses.",
+    "options": [
+      "It leaves from the bay beside the main gate.",
+      "The cake is in the fridge.",
+      "We need more staplers."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-41",
+    "prompt": "The air conditioning in this room is too cold.",
+    "options": [
+      "The match was cancelled.",
+      "She writes with her left hand.",
+      "I'll raise the setting by a couple of degrees."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-42",
+    "prompt": "Did anyone see where I put the spare keys?",
+    "options": [
+      "Please book a window table.",
+      "They're hanging on the hook by the door.",
+      "The budget was approved."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-43",
+    "prompt": "We should tell the guard about the late van.",
+    "options": [
+      "I'll call him so he can let it in.",
+      "The choir meets on Fridays.",
+      "My shoes are by the stairs."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-44",
+    "prompt": "The link you sent asks me for a password.",
+    "options": [
+      "The picnic is in the park.",
+      "He sold his old bicycle.",
+      "Use the one from this morning's mail."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-45",
+    "prompt": "I may be a few minutes late for the briefing.",
+    "options": [
+      "Please feed the fish.",
+      "We'll start with the updates and wait for you.",
+      "The curtains are too short."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-46",
+    "prompt": "Can the workshop be recorded for people away?",
+    "options": [
+      "Yes. I'll start the recording when we begin.",
+      "The soup is too salty.",
+      "She lives near the river."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-47",
+    "prompt": "This spreadsheet is missing last month's column.",
+    "options": [
+      "The dog is in the yard.",
+      "We painted the fence.",
+      "I'll add it and send you the new file."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-48",
+    "prompt": "The visitor is waiting downstairs in the lobby.",
+    "options": [
+      "Please close the blinds.",
+      "I'll come down and bring them up.",
+      "The novel has twenty chapters."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-49",
+    "prompt": "We have no sticky notes left in the cupboard.",
+    "options": [
+      "I'll pick some up from the stationery shop.",
+      "The flight lands at noon.",
+      "He forgot his glasses."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-50",
+    "prompt": "Would you proofread this paragraph for me?",
+    "options": [
+      "The gym closes at ten.",
+      "I watered the tulips.",
+      "Happy to. Send it across."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-51",
+    "prompt": "The lift is stuck between two floors.",
+    "options": [
+      "Please sharpen the pencils.",
+      "I'll report it, and we'll use the stairs.",
+      "The poem is very short."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-52",
+    "prompt": "I need a quiet corner for a short interview.",
+    "options": [
+      "The small room at the end of the hall is empty.",
+      "The apples are on sale.",
+      "She knits on the bus."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-53",
+    "prompt": "The badge machine is not printing names.",
+    "options": [
+      "The lake freezes in winter.",
+      "We ordered garlic bread.",
+      "Switch it off, wait a minute, and try again."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-54",
+    "prompt": "Could you introduce me to the new analyst?",
+    "options": [
+      "Please sweep the porch.",
+      "Yes. She sits at the desk near the window.",
+      "The play begins at seven."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-55",
+    "prompt": "We forgot to book a return cab for the guests.",
+    "options": [
+      "I'll arrange one for half past five.",
+      "The museum is free today.",
+      "He lost a button."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-56",
+    "prompt": "The handbook on the intranet is out of date.",
+    "options": [
+      "The cat is on the sofa.",
+      "Bring a warm jacket.",
+      "I'll replace it with last week's version."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-57",
+    "prompt": "I'm locked out of the shared folder again.",
+    "options": [
+      "She collects old stamps.",
+      "I'll ask the help desk to restore your access.",
+      "The bakery opens at dawn."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-58",
+    "prompt": "The coffee machine is showing an error light.",
+    "options": [
+      "Unplug it, and I'll request a repair.",
+      "The river is very wide.",
+      "Please fold the napkins."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-59",
+    "prompt": "Can we shift the standup to just after lunch?",
+    "options": [
+      "The violin needs new strings.",
+      "He walked to the market.",
+      "That works. I'll tell the rest of the team."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-60",
+    "prompt": "Someone left the lab door propped open.",
+    "options": [
+      "We bought fresh mangoes.",
+      "I'll close it and remind them about the rule.",
+      "The stars are bright tonight."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-61",
+    "prompt": "The chart on this slide is too small to read.",
+    "options": [
+      "I'll enlarge it and move the caption below.",
+      "The ferry leaves hourly.",
+      "Please dust the shelves."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-62",
+    "prompt": "I didn't catch the second speaker's name.",
+    "options": [
+      "The garden gate is rusty.",
+      "She prefers green tea.",
+      "It was Mr. Menon from the finance team."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-63",
+    "prompt": "We should order an extra vegetarian meal.",
+    "options": [
+      "He fixed the leaky tap.",
+      "I'll add one when I confirm the booking.",
+      "The piano is out of tune."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-64",
+    "prompt": "The backup drive is almost full.",
+    "options": [
+      "I'll move last year's files onto the archive.",
+      "The zoo closes at dusk.",
+      "Please iron the shirts."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-65",
+    "prompt": "Could you hold my calls for the next hour?",
+    "options": [
+      "The hill road is steep.",
+      "We planted two trees.",
+      "Certainly. I'll take messages at the desk."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-66",
+    "prompt": "The sign on the door still shows the old event.",
+    "options": [
+      "She missed the last bus.",
+      "I'll swap it for today's notice.",
+      "The soup needs more pepper."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-67",
+    "prompt": "I'm having trouble finding the east staircase.",
+    "options": [
+      "Walk past reception and it's on your left.",
+      "The movie was too long.",
+      "Please charge the torch."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-68",
+    "prompt": "The sample box arrived with a broken seal.",
+    "options": [
+      "The pond has frozen over.",
+      "He enjoys morning walks.",
+      "Don't open it. I'll inform the supplier."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-69",
+    "prompt": "We need a volunteer to meet the school group.",
+    "options": [
+      "Add sugar to the tea.",
+      "I can do it. What time do they arrive?",
+      "The curtains faded in the sun."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-70",
+    "prompt": "My headset battery died in the middle of the call.",
+    "options": [
+      "Plug it in, and I'll say you'll rejoin.",
+      "The library smells of books.",
+      "She bought a red scarf."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-71",
+    "prompt": "The form asks for a manager's signature.",
+    "options": [
+      "The kite is stuck in a tree.",
+      "Please wash the grapes.",
+      "Leave it with me and I'll sign it after lunch."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-72",
+    "prompt": "Can the interns sit in on this discussion?",
+    "options": [
+      "He collects bus tickets.",
+      "Yes, if they listen and save questions for later.",
+      "The oven is still hot."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-73",
+    "prompt": "The street outside is closed for a parade.",
+    "options": [
+      "Then let's leave a little earlier than planned.",
+      "The cushion has a tear.",
+      "We need more hangers."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-74",
+    "prompt": "I think I emailed the wrong version of the memo.",
+    "options": [
+      "The birds nest on the roof.",
+      "Please boil the milk.",
+      "Send a short note with the correct file attached."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-75",
+    "prompt": "The pantry filter needs a new cartridge.",
+    "options": [
+      "She sings in the choir.",
+      "I'll order one and tape a note on the tap.",
+      "The painting is crooked."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-76",
+    "prompt": "Would you like me to book the aisle seat?",
+    "options": [
+      "Yes, please. I prefer not to sit in the middle.",
+      "The clock battery is dead.",
+      "He repaired the fence."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-77",
+    "prompt": "The clock in the hall is ten minutes fast.",
+    "options": [
+      "The bread is still warm.",
+      "Please open the curtains.",
+      "Thanks. I'll set my watch by my phone instead."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-78",
+    "prompt": "We still haven't chosen a name for the newsletter.",
+    "options": [
+      "She feeds the sparrows.",
+      "Let's decide at the end of this meeting.",
+      "The suitcase is too heavy."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-79",
+    "prompt": "The scanner keeps saying the page is too long.",
+    "options": [
+      "Try the flatbed instead of the feeder.",
+      "The road is full of puddles.",
+      "We rented a small car."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-80",
+    "prompt": "I can cover the help desk on Thursday afternoon.",
+    "options": [
+      "The honey has crystallized.",
+      "Please trim the hedge.",
+      "That's a relief. I'll update the roster."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-81",
+    "prompt": "The guest asked whether we have a prayer room.",
+    "options": [
+      "He forgot the house keys.",
+      "Yes. It's on the ground floor, past the clinic.",
+      "The radio is too loud."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-82",
+    "prompt": "Could you dim the lights before the video starts?",
+    "options": [
+      "I'll turn them down now.",
+      "The well is nearly dry.",
+      "She baked a small cake."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-83",
+    "prompt": "This receipt is for a personal purchase.",
+    "options": [
+      "The path is covered in leaves.",
+      "Please wind the clock.",
+      "Then it cannot go on the expense claim."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-84",
+    "prompt": "The new intern doesn't know where to park.",
+    "options": [
+      "We watched the sunset.",
+      "Tell them to use the open lot behind the building.",
+      "The soup boiled over."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-85",
+    "prompt": "We should apologize for sending the draft late.",
+    "options": [
+      "I'll write to the client this morning.",
+      "The ladder is in the shed.",
+      "She tied her shoelace."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-86",
+    "prompt": "Is there a first-aid box on this floor?",
+    "options": [
+      "The rice needs more water.",
+      "He closed the shop early.",
+      "Yes. It's on the wall beside the fire hose."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-87",
+    "prompt": "The microphone on the podium is crackling.",
+    "options": [
+      "Please peel the oranges.",
+      "I'll swap it with the one from the training room.",
+      "The towel is still damp."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-88",
+    "prompt": "I promised to send the photos after the event.",
+    "options": [
+      "I can upload them to the shared album tonight.",
+      "The fence needs a coat of paint.",
+      "She lost her hairpin."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-89",
+    "prompt": "The door code was changed over the weekend.",
+    "options": [
+      "The tea is too sweet.",
+      "We hired a small van.",
+      "The new one is in the message from security."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-90",
+    "prompt": "Can we keep the questions until the end?",
+    "options": [
+      "He watered the lawn.",
+      "Yes. Please hold them and we'll take them together.",
+      "The pillow is too soft."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-91",
+    "prompt": "The plant by the window looks very dry.",
+    "options": [
+      "I'll water it before I leave.",
+      "The ticket machine is broken.",
+      "Please lock the garage."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-92",
+    "prompt": "I need someone to double-check this addition.",
+    "options": [
+      "The sky looks stormy.",
+      "She mended the torn sleeve.",
+      "Read me the figures and I'll add them up."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-93",
+    "prompt": "The courier refused the package because it was open.",
+    "options": [
+      "We sang the school song.",
+      "Seal it again and I'll call them back.",
+      "The bench is wet from rain."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-94",
+    "prompt": "Two candidates are waiting at the same time.",
+    "options": [
+      "I'll take one next door, and you start with the other.",
+      "The jam has gone mouldy.",
+      "Please shut the attic."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-95",
+    "prompt": "The subtitle file doesn't match the video.",
+    "options": [
+      "The rope is badly frayed.",
+      "He polished his shoes.",
+      "I'll adjust the timing and export it again."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-96",
+    "prompt": "Could you save me a copy of the handout?",
+    "options": [
+      "She packed a light bag.",
+      "There's a pile on the table. I'll keep one aside.",
+      "The pond smells of algae."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-97",
+    "prompt": "The fan above my desk is rattling.",
+    "options": [
+      "I'll raise a maintenance ticket for it.",
+      "The grapes are still sour.",
+      "Please wipe the mirror."
+    ],
+    "answer": 0
+  },
+  {
+    "id": "resp-98",
+    "prompt": "I don't have building access for the weekend.",
+    "options": [
+      "The candle has burned down.",
+      "We crossed the old bridge.",
+      "Ask security for a temporary pass before you leave on Friday."
+    ],
+    "answer": 2
+  },
+  {
+    "id": "resp-99",
+    "prompt": "The welcome banner is still in the storeroom.",
+    "options": [
+      "He folded the clean sheets.",
+      "I'll bring it up and we'll hang it before they arrive.",
+      "The soup lacks salt."
+    ],
+    "answer": 1
+  },
+  {
+    "id": "resp-100",
+    "prompt": "Someone unplugged the router to charge a phone.",
+    "options": [
+      "I'll plug it back in and move the charger.",
+      "The path is very muddy.",
+      "Please stack the chairs."
+    ],
+    "answer": 0
+  }
+]
